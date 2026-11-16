@@ -20,6 +20,8 @@ tools/                   scripts that build packs
 |---|---|---|
 | `noto-animated` | animated Noto emoji, Lottie | [Noto Emoji Animation](https://googlefonts.github.io/noto-emoji-animation/) by Google |
 
-Rebuild: `node tools/build-noto.mjs` (needs Node 18+). Files over the size limit
+Rebuild: `node tools/build-noto.mjs` (needs Node 18+). After pushing a new version,
+update `registry.json` with the commit SHA and run `node tools/warm-cdn.mjs` so jsDelivr
+has every file cached before servers install it. Files over the size limit
 or containing Lottie expressions are left out; Tulpar falls back to the regular
 large emoji for those.

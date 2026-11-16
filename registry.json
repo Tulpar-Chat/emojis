@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "packs": [
+    {
+      "id": "noto-animated",
+      "name": "Noto Animated",
+      "description": "Google's animated Noto emoji. Plays when a message is only emoji; tap to replay.",
+      "author": { "name": "Google", "url": "https://googlefonts.github.io/noto-emoji-animation/" },
+      "license": "CC-BY-4.0",
+      "attribution": "Animated emoji by Google (Noto Emoji Animation)",
+      "access": "free",
+      "type": "lottie",
+      "emojiCount": 849,
+      "preview": "1f63c.json",
+      "latest": "1.0.0",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "ref": "18c83a794cb7bec1c3634287a93004e81a53914a",
+          "path": "noto-animated/pack.json",
+          "sha256": "abb45097f2ce702d49d7b353492260be0cfe9eb855d1f4592ce2792728b42010"
+        }
+      ]
+    }
+  ]
+}

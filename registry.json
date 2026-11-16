@@ -1,11 +1,15 @@
 {
   "schemaVersion": 1,
+  "assetBase": "https://cdn.jsdelivr.net/gh/Tulpar-Chat/emojis@{ref}/",
   "packs": [
     {
       "id": "noto-animated",
       "name": "Noto Animated",
       "description": "Google's animated Noto emoji. Plays when a message is only emoji; tap to replay.",
-      "author": { "name": "Google", "url": "https://googlefonts.github.io/noto-emoji-animation/" },
+      "author": {
+        "name": "Google",
+        "url": "https://googlefonts.github.io/noto-emoji-animation/"
+      },
       "license": "CC-BY-4.0",
       "attribution": "Animated emoji by Google (Noto Emoji Animation)",
       "access": "free",

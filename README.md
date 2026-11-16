@@ -7,7 +7,8 @@ and clients then load the assets from jsDelivr pinned to a commit SHA.
 ## Layout
 
 ```
-registry.json            catalog of packs and versions
+registry.json            catalog of packs and versions; assetBase is the CDN
+                         address with {ref} replaced by a version's commit SHA
 <pack-id>/pack.json      emoji -> asset file (+ sha256)
 <pack-id>/<asset>        Lottie JSON (type "lottie")
 tools/                   scripts that build packs

@@ -1,0 +1,6120 @@
+{
+  "schemaVersion": 1,
+  "id": "noto-animated",
+  "type": "lottie",
+  "emojis": {
+    "🆒": {
+      "file": "1f192.json",
+      "sha256": "e5f9369b4ed790041628b486819f3f28750f10651d555244e82e42aa4c812459",
+      "tags": [
+        ":cool:"
+      ]
+    },
+    "🆓": {
+      "file": "1f193.json",
+      "sha256": "b975aa0018e2961a6109d2f1dc29beb480b7e226bc85024f67097741d510401d",
+      "tags": [
+        ":free:"
+      ]
+    },
+    "🆕": {
+      "file": "1f195.json",
+      "sha256": "ae76fd7ab5d959388d1e7d63dce0e22860d66651700e3e8d3f096a5dfd63f0e0",
+      "tags": [
+        ":new:"
+      ]
+    },
+    "🆗": {
+      "file": "1f197.json",
+      "sha256": "28c9461434142dff29631a522bb385b2bcc8c47a4c2d727b66166b5f0486294a",
+      "tags": [
+        ":ok-button:"
+      ]
+    },
+    "🆘": {
+      "file": "1f198.json",
+      "sha256": "ac0975004e7bf3e311755163b3917dff922d1a69f783da5eb05352da56782ad5",
+      "tags": [
+        ":sos:"
+      ]
+    },
+    "🆙": {
+      "file": "1f199.json",
+      "sha256": "57c7d98bf3f57270cbf11cfe053aa4fbaf30d4d07bccd82a3f7730fddf6d1586",
+      "tags": [
+        ":up!:"
+      ]
+    },
+    "🌀": {
+      "file": "1f300.json",
+      "sha256": "2b092d588324ba3170a224c88c4bc36739d675cc268f7e0101abd076a8599a85",
+      "tags": [
+        ":cyclone:"
+      ]
+    },
+    "🌄": {
+      "file": "1f304.json",
+      "sha256": "522ee6e1b0f09921352068482fc741f18cc78bd5b5c5069ce2c04a7d7dfedaa8",
+      "tags": [
+        ":sunrise-over-mountains:"
+      ]
+    },
+    "🌅": {
+      "file": "1f305.json",
+      "sha256": "c2fbd06f50598cdb870dabb5c07a2fc1dab5352d039ab2989b977057809538fa",
+      "tags": [
+        ":sunrise:"
+      ]
+    },
+    "🌇": {
+      "file": "1f307.json",
+      "sha256": "0529fc333ce19ece29a4510371e12952bc51bd15f1955dd1ba1ee00da1382555",
+      "tags": [
+        ":sunset:"
+      ]
+    },
+    "🌈": {
+      "file": "1f308.json",
+      "sha256": "dee623da03c7762f22835833ee5abe1eb1b20a71a982348b540f63661b6b0430",
+      "tags": [
+        ":rainbow:"
+      ]
+    },
+    "🌊": {
+      "file": "1f30a.json",
+      "sha256": "a54811165ee5cec9dbe561a1f013105e38f394f96fad0cdb068d42461f89cffb",
+      "tags": [
+        ":ocean:"
+      ]
+    },
+    "🌋": {
+      "file": "1f30b.json",
+      "sha256": "0c99214a7d95aadfd3014faf4716d96e29961d2cac2a1ba9f8aa5f686227a58e",
+      "tags": [
+        ":volcano:"
+      ]
+    },
+    "🌌": {
+      "file": "1f30c.json",
+      "sha256": "64614a0973a0fc78a8fbe86efdd0ecca0a8f9249c1c7521818a1011a464cfb7b",
+      "tags": [
+        ":milky-way:"
+      ]
+    },
+    "🌍": {
+      "file": "1f30d.json",
+      "sha256": "18ec8a975f0bc7ac8cdba15ef2f8ec1033e5173941d86de6fb0122fb8620ada9",
+      "tags": [
+        ":globe-showing-Europe-Africa:"
+      ]
+    },
+    "🌎": {
+      "file": "1f30e.json",
+      "sha256": "949eb2c6f37e3a3b5d66afcccc129cf6b7ac8485d93a3e046e016aba704eee0a",
+      "tags": [
+        ":globe-showing-Americas:"
+      ]
+    },
+    "🌏": {
+      "file": "1f30f.json",
+      "sha256": "a507cb9112c9cca57cdbba5f89bf4c73d9545e85e5c2c5c0434a1ed8f288edea",
+      "tags": [
+        ":globe-showing-Asia-Australia:"
+      ]
+    },
+    "🌚": {
+      "file": "1f31a.json",
+      "sha256": "5336208c3514607c2b79ca5867d37b1b9fe202efa354c069e79a90f3247ad5f8",
+      "tags": [
+        ":moon-face-new:"
+      ]
+    },
+    "🌛": {
+      "file": "1f31b.json",
+      "sha256": "edfb658db77b50a55d7bcb0ac2cb6f76098a10ba0e352288caaabde7ebe02ae2",
+      "tags": [
+        ":moon-face-first-quarter:"
+      ]
+    },
+    "🌜": {
+      "file": "1f31c.json",
+      "sha256": "a2c1a4194a2958db30f9ae928c87a0211263d6b138c76feb867d98d79cd7dec3",
+      "tags": [
+        ":moon-face-last-quarter:"
+      ]
+    },
+    "🌝": {
+      "file": "1f31d.json",
+      "sha256": "54c61120c8ec027d24fd6a7d649a459b4123538f177cb32083203458594ccad1",
+      "tags": [
+        ":moon-face-full:"
+      ]
+    },
+    "🌞": {
+      "file": "1f31e.json",
+      "sha256": "9d73bbf3b2db3aaf66a5d0b75c2c3bfdb606cccd88e11a05e8ee6c3a3db85ab9",
+      "tags": [
+        ":sun-with-face:"
+      ]
+    },
+    "🌟": {
+      "file": "1f31f.json",
+      "sha256": "a5c0142563116ba4d5e5568af889ee787b94d02dc92b876fffd7f584afdc403d",
+      "tags": [
+        ":glowing-star:"
+      ]
+    },
+    "🌡️": {
+      "file": "1f321_fe0f.json",
+      "sha256": "e4b34344cf2bd3e3afec31e14e5058fca0e282638e93b5f96ae35af622ef81b3",
+      "tags": [
+        ":thermometer:"
+      ]
+    },
+    "🌧️": {
+      "file": "1f327_fe0f.json",
+      "sha256": "90446d7f9c1f9e79bf4a3459e821c2e818c2d548ae73cf65133842428c878792",
+      "tags": [
+        ":rain-cloud:"
+      ]
+    },
+    "🌩️": {
+      "file": "1f329_fe0f.json",
+      "sha256": "78a39ff126103677b361f8b4ec269c87f2d7032b89f7c6209514fec29f33c1b4",
+      "tags": [
+        ":cloud-with-lightning:"
+      ]
+    },
+    "🌪️": {
+      "file": "1f32a_fe0f.json",
+      "sha256": "e9eb46b6f05d093e92ab4521fd99c9326b8a7accb9a44d57abdb5caa0448f9f3",
+      "tags": [
+        ":tornado:"
+      ]
+    },
+    "🌬️": {
+      "file": "1f32c_fe0f.json",
+      "sha256": "1fe675709ee61e2e00b332735fbea44269a174b5ecdfbb6fd0b2340097c61a69",
+      "tags": [
+        ":wind-face:"
+      ]
+    },
+    "🌭": {
+      "file": "1f32d.json",
+      "sha256": "c85831ca502785e0bace774540881235bd9044c643c09f2a9bfa4da2531b61ad",
+      "tags": [
+        ":hot-dog:"
+      ]
+    },
+    "🌮": {
+      "file": "1f32e.json",
+      "sha256": "92771192027da1bc18a39972d2282da21dd296259185d742635122262731ed0d",
+      "tags": [
+        ":taco:"
+      ]
+    },
+    "🌯": {
+      "file": "1f32f.json",
+      "sha256": "28df0c32762e3a4ce45eb5d9e79565a5cf90bcb80df0b962d899f348d241db58",
+      "tags": [
+        ":burrito:"
+      ]
+    },
+    "🌱": {
+      "file": "1f331.json",
+      "sha256": "0599a19cc392e9d1cccec4924220fd03b906446665bd6714ae838dc2b809a250",
+      "tags": [
+        ":plant:",
+        ":seed:"
+      ]
+    },
+    "🌲": {
+      "file": "1f332.json",
+      "sha256": "70a673faeb93f0e45b1f85d3f5b156a7998b79acc14cdf5f0d48733acb4861ba",
+      "tags": [
+        ":evergreen-tree:"
+      ]
+    },
+    "🌵": {
+      "file": "1f335.json",
+      "sha256": "06573d0c4493c5baf0c55a91a8dd5ada9966bbec82dbd7c543a57257639bfbc5",
+      "tags": [
+        ":cactus:"
+      ]
+    },
+    "🌷": {
+      "file": "1f337.json",
+      "sha256": "968af71d27d03fa45d9de2723e8d3030119b82d3133c66b6a26fc4bfbe65deca",
+      "tags": [
+        ":tulip:"
+      ]
+    },
+    "🌸": {
+      "file": "1f338.json",
+      "sha256": "04f00bd52597080622dccb985ee2e73a81833204ac14e12d85eeb5f7a2d2a86c",
+      "tags": [
+        ":cherry-blossom:"
+      ]
+    },
+    "🌹": {
+      "file": "1f339.json",
+      "sha256": "e5570be9772eb3bbb9bb4883cb3db85c73f0ffa0d78d6c5cf57a71835dd76e4a",
+      "tags": [
+        ":rose:"
+      ]
+    },
+    "🌼": {
+      "file": "1f33c.json",
+      "sha256": "881b77ec6b67b74ba106bdb93ab7064b109d7138d50cfc9fe1ad7c6674a088af",
+      "tags": [
+        ":blossom:"
+      ]
+    },
+    "🌽": {
+      "file": "1f33d.json",
+      "sha256": "0610bfa905e6c350edd3184e4b6cbf366abd7c6289511a3bc89073d7272e9534",
+      "tags": [
+        ":ear-of-corn:"
+      ]
+    },
+    "🌿": {
+      "file": "1f33f.json",
+      "sha256": "3d763771ea555d689202fb360fc059944fa3b91f159433e1ea254e49e3be64f3",
+      "tags": [
+        ":herb:"
+      ]
+    },
+    "🍀": {
+      "file": "1f340.json",
+      "sha256": "237ed9b2ee57e9639c80f20c4ec287762662f8333b43381aaf5bbe0630d0ac10",
+      "tags": [
+        ":luck:",
+        ":four-leaf-clover:"
+      ]
+    },
+    "🍁": {
+      "file": "1f341.json",
+      "sha256": "2cc2ee53069f9e14acca7af27651e188cfd150bcd71ce78c27708df51bcea160",
+      "tags": [
+        ":maple-leaf:"
+      ]
+    },
+    "🍂": {
+      "file": "1f342.json",
+      "sha256": "961d4d7e36f1c7ef666d0aa007e136b32b1d5896ab3da40f3da564069718180f",
+      "tags": [
+        ":fallen-leaf:"
+      ]
+    },
+    "🍃": {
+      "file": "1f343.json",
+      "sha256": "60bf8b0c62fb8520ae07e890415825a82f7bbeb2157c989e8cd4cd7dca1a17cf",
+      "tags": [
+        ":leaves:"
+      ]
+    },
+    "🍄": {
+      "file": "1f344.json",
+      "sha256": "fc4c1365b9a36fa1a0130dd47e2178de2ae2e79356f2e222c3457824d80fc661",
+      "tags": [
+        ":mushroom:"
+      ]
+    },
+    "🍅": {
+      "file": "1f345.json",
+      "sha256": "864ddf7a1cae986bf8f32cb8081dedd9f9a63d4a1b332a0f36ea60735aeb998a",
+      "tags": [
+        ":tomato:"
+      ]
+    },
+    "🍇": {
+      "file": "1f347.json",
+      "sha256": "80d67185d494e24cd1557d4b2afea85022c60aaa3771f50d63025b32716d926f",
+      "tags": [
+        ":grapes:"
+      ]
+    },
+    "🍈": {
+      "file": "1f348.json",
+      "sha256": "29bfce623b745972ab70704a40591435a07ebeef1217c10b123827617bf595cd",
+      "tags": [
+        ":melon:"
+      ]
+    },
+    "🍉": {
+      "file": "1f349.json",
+      "sha256": "0d0bb83de22cad62eb64f3c1e3b82e9a6db85cbe4bd3ca26fe539726ee67afac",
+      "tags": [
+        ":watermelon:"
+      ]
+    },
+    "🍊": {
+      "file": "1f34a.json",
+      "sha256": "93bd831576351315bf5ca825251b18cf7bc0c2bac4d58ba99be4497966c9ad2d",
+      "tags": [
+        ":tangerine:",
+        ":orange:",
+        ":mandarin:"
+      ]
+    },
+    "🍋": {
+      "file": "1f34b.json",
+      "sha256": "e06187dd169e5c2aeab76696afbd4d9f0028e0e23b75c2c28e36aa6b9140bc75",
+      "tags": [
+        ":lemon:"
+      ]
+    },
+    "🍍": {
+      "file": "1f34d.json",
+      "sha256": "88900a0e4c1727dbdbc126cbd5b8818caf77917611122897b8a7df26010b6b85",
+      "tags": [
+        ":pineapple:"
+      ]
+    },
+    "🍎": {
+      "file": "1f34e.json",
+      "sha256": "e0f4169009ae419e8f4668c8a9a7eafa33828242540becebba5d63a219e40995",
+      "tags": [
+        ":red-apple:"
+      ]
+    },
+    "🍐": {
+      "file": "1f350.json",
+      "sha256": "2f46d44b50cc71ebdfa49858f03d9b845d3fac9394e7d18c4693635fcba88958",
+      "tags": [
+        ":pear:"
+      ]
+    },
+    "🍒": {
+      "file": "1f352.json",
+      "sha256": "1751ae6f795c5a0c8800fd979a493c2ee2a859726a59d8db2796083d79ed16e5",
+      "tags": [
+        ":cherries:"
+      ]
+    },
+    "🍓": {
+      "file": "1f353.json",
+      "sha256": "9ff8a279dfecf8a86bfdfe63fa6d28c4578e2bc80f5a31d62b88097be92478ba",
+      "tags": [
+        ":strawberry:"
+      ]
+    },
+    "🍔": {
+      "file": "1f354.json",
+      "sha256": "4b5ab7ac8c08488a5e0bd0a1add7b1b40c8f2353eadf2c0cbcff40bed93be8e3",
+      "tags": [
+        ":hamburger:"
+      ]
+    },
+    "🍕": {
+      "file": "1f355.json",
+      "sha256": "d438a1b8859868ba371a616b28e620f59cd1774c65a02fa149182114e6e88cac",
+      "tags": [
+        ":pizza:"
+      ]
+    },
+    "🍗": {
+      "file": "1f357.json",
+      "sha256": "7bd05e3d290398c68c10031d8ccd85ebff9e9638c986093882e6c68611fc2501",
+      "tags": [
+        ":poultry-leg:"
+      ]
+    },
+    "🍜": {
+      "file": "1f35c.json",
+      "sha256": "f0c8b1ba880c57574c31e851fc1dd7ede142c5839ce0afdfc196fe8f704e88ee",
+      "tags": [
+        ":steaming-bowl:"
+      ]
+    },
+    "🍞": {
+      "file": "1f35e.json",
+      "sha256": "29ab043c07305ee579092b82b35f5b84993cfb6736ac73bcdec95020911265f3",
+      "tags": [
+        ":bread:"
+      ]
+    },
+    "🍡": {
+      "file": "1f361.json",
+      "sha256": "9d1851683eaf61ff322bcf8a9941f238ce9fac5164c92bcfa53c9ea4af8590b4",
+      "tags": [
+        ":dango:"
+      ]
+    },
+    "🍢": {
+      "file": "1f362.json",
+      "sha256": "2653673726ae63434e6d216ff03392a55de16c7b1856134b66b1c05555208683",
+      "tags": [
+        ":oden:"
+      ]
+    },
+    "🍦": {
+      "file": "1f366.json",
+      "sha256": "5a7dc261e205b13f357059c5f0e0afbd9ae34c5e59cf073f195a05a820c83dae",
+      "tags": [
+        ":soft-ice-cream:"
+      ]
+    },
+    "🍨": {
+      "file": "1f368.json",
+      "sha256": "e7b36ee775e949fec85b74f79c3d40b35a2bf769120464e5fdb2affd4324ae57",
+      "tags": [
+        ":ice-cream:"
+      ]
+    },
+    "🍩": {
+      "file": "1f369.json",
+      "sha256": "97906ce386d7a974384bcb8c9f2325bc19f22dbee56f5907d0ba5c4f08309f1e",
+      "tags": [
+        ":doughnut:"
+      ]
+    },
+    "🍪": {
+      "file": "1f36a.json",
+      "sha256": "6c12143fa7a5e130d08d7e148d8f50926407dcb810904fbf60d4070888cd1c37",
+      "tags": [
+        ":cookie:"
+      ]
+    },
+    "🍳": {
+      "file": "1f373.json",
+      "sha256": "160e6453e87942367cee7a618c34d9145b6e02bf56220ef700541cfac1651636",
+      "tags": [
+        ":cooking:"
+      ]
+    },
+    "🍵": {
+      "file": "1f375.json",
+      "sha256": "f8a17dc24cf660f4d538208fa52287998a2380066eb548a9129c2cae26bfa189",
+      "tags": [
+        ":teacup-without-handle:"
+      ]
+    },
+    "🍷": {
+      "file": "1f377.json",
+      "sha256": "d191b49b04cde1270dd92f70e177f0021eecfd138001322fd58c371e74bd190e",
+      "tags": [
+        ":wine-glass:"
+      ]
+    },
+    "🍹": {
+      "file": "1f379.json",
+      "sha256": "65281017a3d1718b253d889a60bfd0af3e65c7386b80cbe4b8fc717f3c179ce9",
+      "tags": [
+        ":tropical-drink:"
+      ]
+    },
+    "🍻": {
+      "file": "1f37b.json",
+      "sha256": "7ada82e9e89fd7c46e56387de378a25eea2a785bcecbb7c4bd59861e74f33c1d",
+      "tags": [
+        ":clinking-beer-mugs:"
+      ]
+    },
+    "🍼": {
+      "file": "1f37c.json",
+      "sha256": "74e6ceedbf95b4c8e7c76f476534c559ec3d342be8603dbb2385c29048c675bf",
+      "tags": [
+        ":baby-bottle:"
+      ]
+    },
+    "🍽️": {
+      "file": "1f37d_fe0f.json",
+      "sha256": "28aa90242fe2844889bcae923ac777c2114411a16568e4dfaaf8b33becc80223",
+      "tags": [
+        ":fork-and-knife-with-plate:"
+      ]
+    },
+    "🍾": {
+      "file": "1f37e.json",
+      "sha256": "dcd0efd3be751fe65b24c1234870788e54ffd7fc00351c91dcb9eb7c0c63220d",
+      "tags": [
+        ":bottle-with-popping-cork:"
+      ]
+    },
+    "🍿": {
+      "file": "1f37f.json",
+      "sha256": "a05bd40bbf2541de537d9d13167f4793b05a1fa65449cf7f45fc6f03ee892ac6",
+      "tags": [
+        ":popcorn:"
+      ]
+    },
+    "🎁": {
+      "file": "1f381.json",
+      "sha256": "1890c325510f6cd493f978b56a5a8d413b3913e3e9565ce2d1c8d388faa634f7",
+      "tags": [
+        ":wrapped-gift:"
+      ]
+    },
+    "🎂": {
+      "file": "1f382.json",
+      "sha256": "dc10591b0b5f37a6b4bbd78448d8933ff0795e4ffa2497590c55466b2607662b",
+      "tags": [
+        ":birthday-cake:"
+      ]
+    },
+    "🎆": {
+      "file": "1f386.json",
+      "sha256": "e0f478bc19cca91e47ef531fddbf44a5c455c285960154bef0184d7b6a48b38d",
+      "tags": [
+        ":fireworks:"
+      ]
+    },
+    "🎈": {
+      "file": "1f388.json",
+      "sha256": "652dc0658578f1f6e0613d147ecb9757a4986505e3d869a6632220afe2dd550a",
+      "tags": [
+        ":balloon:"
+      ]
+    },
+    "🎉": {
+      "file": "1f389.json",
+      "sha256": "46fd95338ee2e87d3023049a24c36c0b4bdb78a3d04f77480aa8ade5ccb67c94",
+      "tags": [
+        ":party-popper:"
+      ]
+    },
+    "🎊": {
+      "file": "1f38a.json",
+      "sha256": "27e06ad82bc7fba03f68a340a96e6cbdbaaad845b00aa35392d6d608e27512b2",
+      "tags": [
+        ":confetti-ball:"
+      ]
+    },
+    "🎓": {
+      "file": "1f393.json",
+      "sha256": "1b0dbac6bb54e2cbf59f936964d692c359819bb031949a736f218c129fc36bd5",
+      "tags": [
+        ":graduation-cap:"
+      ]
+    },
+    "🎞️": {
+      "file": "1f39e_fe0f.json",
+      "sha256": "013b2d6008412cb3c9d38587c9837cf108834294b7ba0b12dd10d38f4231ac1f",
+      "tags": [
+        ":film:"
+      ]
+    },
+    "🎟️": {
+      "file": "1f39f_fe0f.json",
+      "sha256": "1b87b1c6964b0afb0aff4f0d42d0614786479c4b68396c10f72137ea0be19af3",
+      "tags": [
+        ":admission-tickets:"
+      ]
+    },
+    "🎠": {
+      "file": "1f3a0.json",
+      "sha256": "95ea5511c3dd1ab4360be1d51231c9b0e594f958fe7fb0e44684c371b0facf04",
+      "tags": [
+        ":carousel-horse:"
+      ]
+    },
+    "🎡": {
+      "file": "1f3a1.json",
+      "sha256": "3bfad1dd64e4a799771eae3cb91f8bb03ecb81a06c70f80bd49120075724ffea",
+      "tags": [
+        ":ferris-wheel:"
+      ]
+    },
+    "🎢": {
+      "file": "1f3a2.json",
+      "sha256": "e7edcc77a3e2f3d13da223355e3e217b4f27c75c7220b797ef94d2a61ba53599",
+      "tags": [
+        ":roller-coaster:"
+      ]
+    },
+    "🎣": {
+      "file": "1f3a3.json",
+      "sha256": "44881a58104566748424ef0155688b9f4fd605ac1d7a5bdd356b837211fa5757",
+      "tags": [
+        ":fishing-pole:"
+      ]
+    },
+    "🎬": {
+      "file": "1f3ac.json",
+      "sha256": "ee4726c59343a92aecc8f2c179880158c5037bacfc3cb57a07e63537abb96359",
+      "tags": [
+        ":clapper:"
+      ]
+    },
+    "🎭": {
+      "file": "1f3ad.json",
+      "sha256": "891e71d86745abfa67f3e7cb3dc19f628a791b8666c1742a84ab9877293662ae",
+      "tags": [
+        ":performing-arts:"
+      ]
+    },
+    "🎯": {
+      "file": "1f3af.json",
+      "sha256": "502787c7b36ac63b58062243a1a0255117fcc087672db53948f200d30a9e9a6b",
+      "tags": [
+        ":direct-hit:",
+        ":target:"
+      ]
+    },
+    "🎰": {
+      "file": "1f3b0.json",
+      "sha256": "8e29940450b61b675488abfad3d21976d36d54c1c96f9c205a0d98a9eb7b9749",
+      "tags": [
+        ":slot-machine:"
+      ]
+    },
+    "🎱": {
+      "file": "1f3b1.json",
+      "sha256": "0cce37e7c3bd084f550b8d3b1c418cc8d1825c60627aafb56311ba1e957dec5d",
+      "tags": [
+        ":8-ball:"
+      ]
+    },
+    "🎲": {
+      "file": "1f3b2.json",
+      "sha256": "58ca7c9992f5c96545d1ee3d304cfd7fa15f2dccdcabe71e3efba5505b887627",
+      "tags": [
+        ":die:"
+      ]
+    },
+    "🎳": {
+      "file": "1f3b3.json",
+      "sha256": "baa013cf2fd1c07a7b1dc730ee7d4a7b094a0ed000b7e0c6a1b2206e412ef7fe",
+      "tags": [
+        ":bowling:"
+      ]
+    },
+    "🎶": {
+      "file": "1f3b6.json",
+      "sha256": "a0c8e0b7e957ad46b9828affb264ea512ff7f4d48aab2d86c656f3b5d997e38f",
+      "tags": [
+        ":musical-notes:"
+      ]
+    },
+    "🎷": {
+      "file": "1f3b7.json",
+      "sha256": "f814496bc4c6cc24dc1f630cf2829aa20979911c2f34e7eef92374f0dbbed7fa",
+      "tags": [
+        ":saxophone:"
+      ]
+    },
+    "🎸": {
+      "file": "1f3b8.json",
+      "sha256": "066fb29fcf5bf7995997db529afadfe1f34a88d712892796ce6a5ea725e28354",
+      "tags": [
+        ":guitar:"
+      ]
+    },
+    "🎺": {
+      "file": "1f3ba.json",
+      "sha256": "c495cd83beccd3a03abb9ca751465a2eb853d4a650edb7cd8322a601982c4ca5",
+      "tags": [
+        ":trumpet:"
+      ]
+    },
+    "🎻": {
+      "file": "1f3bb.json",
+      "sha256": "8932ea1fab5e7b6effc87cead67e6963bb5f8c75e71504b144432230577f417d",
+      "tags": [
+        ":violin:"
+      ]
+    },
+    "🎾": {
+      "file": "1f3be.json",
+      "sha256": "a27e9bbf90a247e81c188f39976f2be22e75e015432015180db7afc1957d8528",
+      "tags": [
+        ":tennis:"
+      ]
+    },
+    "🎿": {
+      "file": "1f3bf.json",
+      "sha256": "587cc49793598e9b6edb58f18da4211f724416616d049e8484c394357d91fe04",
+      "tags": [
+        ":skis:"
+      ]
+    },
+    "🏀": {
+      "file": "1f3c0.json",
+      "sha256": "c29b546d6bc7d4af853d15dc24530c98adf1835e7c3958293f1dc80e1eb2d40b",
+      "tags": [
+        ":basketball:"
+      ]
+    },
+    "🏁": {
+      "file": "1f3c1.json",
+      "sha256": "c30d090fe28c0016c7a7f48f2683d9198f1cc88e504b9f6c9877674bc0abceba",
+      "tags": [
+        ":chequered-flag:"
+      ]
+    },
+    "🏆": {
+      "file": "1f3c6.json",
+      "sha256": "80fe2897ec6732f69b6305610ac3e5c61a71e41bd44e7065b5ae97d084d1016c",
+      "tags": [
+        ":trophy:"
+      ]
+    },
+    "🏉": {
+      "file": "1f3c9.json",
+      "sha256": "bf6c651d389e650c962fdc49cf527f180cc73ebb63d204b5131ac32a1fcff2db",
+      "tags": [
+        ":rugby-football:"
+      ]
+    },
+    "🏍️": {
+      "file": "1f3cd_fe0f.json",
+      "sha256": "0252cf85313d56ab7a140625873462dc7b4070e18473507b87d96fd8857fbbc3",
+      "tags": [
+        ":motorcycle:"
+      ]
+    },
+    "🏎️": {
+      "file": "1f3ce_fe0f.json",
+      "sha256": "a3be3963e2509c34ce44e341d7384f43f5e35f58d6f8dfdac0c171b8daa7a556",
+      "tags": [
+        ":racing-car:"
+      ]
+    },
+    "🏏": {
+      "file": "1f3cf.json",
+      "sha256": "6017d5da0e38c7fb7eda92a041adbc2b93da618212585837d288da4893608df4",
+      "tags": [
+        ":cricket-game:"
+      ]
+    },
+    "🏑": {
+      "file": "1f3d1.json",
+      "sha256": "e8f7a8aa4f362ffbdaf71d57b54ba0d289e8ad230767fa54e899c6d5e0cbf3bd",
+      "tags": [
+        ":field-hockey:"
+      ]
+    },
+    "🏒": {
+      "file": "1f3d2.json",
+      "sha256": "53aee2d9a431dda2afde97b4c39a9e03c9b64f7863bf25a99637d1e58515b03b",
+      "tags": [
+        ":ice-hockey:"
+      ]
+    },
+    "🏓": {
+      "file": "1f3d3.json",
+      "sha256": "47a3700da4c3d3260f315c3c6350a436ea18542386ee659742f6135a82ee125d",
+      "tags": [
+        ":ping-pong:"
+      ]
+    },
+    "🏕️": {
+      "file": "1f3d5_fe0f.json",
+      "sha256": "8c6b4f885070b31c8d624b8f26b365671a93d467604dd8b2eea36f77a5838d04",
+      "tags": [
+        ":camping:"
+      ]
+    },
+    "🏚️": {
+      "file": "1f3da_fe0f.json",
+      "sha256": "64a2156bd9db19187e55625240ecb9d18152f37b849f74a478afbadea3aa9e87",
+      "tags": [
+        ":derelict-house:"
+      ]
+    },
+    "🏞️": {
+      "file": "1f3de_fe0f.json",
+      "sha256": "950b29c28e0bcae876553c1108bd652d6cad5c87a959d29ceaaf19fbfd7bd289",
+      "tags": [
+        ":national-park:"
+      ]
+    },
+    "🏠": {
+      "file": "1f3e0.json",
+      "sha256": "e4eaf129c8ae023143797a9f9bffdc2a844b0786271033955d494024d4b8d31e",
+      "tags": [
+        ":house:"
+      ]
+    },
+    "🏳️": {
+      "file": "1f3f3_fe0f.json",
+      "sha256": "ffb556ded71b81be3e38c87514d63b32b6a30087e029d9becbe429b9f1c6bb97",
+      "tags": [
+        ":white-flag:"
+      ]
+    },
+    "🏴": {
+      "file": "1f3f4.json",
+      "sha256": "9b70935ebf428fd29f3b3c607a0006d91b5fc9620aea2ffbeb306a3ea0271f81",
+      "tags": [
+        ":black-flag:"
+      ]
+    },
+    "🏸": {
+      "file": "1f3f8.json",
+      "sha256": "b396ccf063619c28223dce76ea63105f436e5d4b945fb85c5177ef50bf5576fb",
+      "tags": [
+        ":badminton:"
+      ]
+    },
+    "🐀": {
+      "file": "1f400.json",
+      "sha256": "20401913826203fc076edda850ad128a92c5cdd4130fd74d57e263480b83d52a",
+      "tags": [
+        ":rat:"
+      ]
+    },
+    "🐂": {
+      "file": "1f402.json",
+      "sha256": "f8107e68880a6bb13d80b2230801fe0f16b7e4e4a58106fef5dde1dabdba26b1",
+      "tags": [
+        ":ox:"
+      ]
+    },
+    "🐅": {
+      "file": "1f405.json",
+      "sha256": "a9054d8d0dcf9e7b3069f1266a7bebf11b462e8d940d68317013eae22928703e",
+      "tags": [
+        ":tiger:"
+      ]
+    },
+    "🐇": {
+      "file": "1f407.json",
+      "sha256": "972f06e58f4b8f88330e604b7aba44113b0759938d81a7bbeed59c569d6f1d2c",
+      "tags": [
+        ":rabbit:"
+      ]
+    },
+    "🐉": {
+      "file": "1f409.json",
+      "sha256": "3092eeeec5b3505b3efde7b1e0cb54328b9718de8ecd323a9616f1c7cfce76f9",
+      "tags": [
+        ":dragon:"
+      ]
+    },
+    "🐊": {
+      "file": "1f40a.json",
+      "sha256": "93fb516305bf88e8df5289e81dbe7f4930b101bc31a4f3f5292f90ed9d69fb07",
+      "tags": [
+        ":crocodile:"
+      ]
+    },
+    "🐌": {
+      "file": "1f40c.json",
+      "sha256": "e10d367ebf28580e832788e247fa0fc15e816759485ce32161464f9482ac8bf1",
+      "tags": [
+        ":snail:"
+      ]
+    },
+    "🐍": {
+      "file": "1f40d.json",
+      "sha256": "4f18b14f1ded1808e7c275460d126dd8ebf4b8340a7d9b7b1c8b03e682c3fd65",
+      "tags": [
+        ":snake:"
+      ]
+    },
+    "🐎": {
+      "file": "1f40e.json",
+      "sha256": "245b59e916a3b13b392346f489c2f3ba292e6ef92a7ad66f6554d3d3650893d0",
+      "tags": [
+        ":racehorse:"
+      ]
+    },
+    "🐐": {
+      "file": "1f410.json",
+      "sha256": "8acfbd96e5633ebced97a4ed81d245f15a6ad38307818bc08f2fce6a2108ccd3",
+      "tags": [
+        ":goat:"
+      ]
+    },
+    "🐒": {
+      "file": "1f412.json",
+      "sha256": "43ee9dc6baec751d422ec95052dd0238c75bcf7e30fb75acd2ecfa57c4625ec6",
+      "tags": [
+        ":monkey:"
+      ]
+    },
+    "🐓": {
+      "file": "1f413.json",
+      "sha256": "36cbf4229e7bcd55db4e7a7864f41aa44acbeedeffd4ae3e367d59b28b4e2c48",
+      "tags": [
+        ":rooster:"
+      ]
+    },
+    "🐕‍🦺": {
+      "file": "1f415_200d_1f9ba.json",
+      "sha256": "f19fd6788d4c102f64f4fc2c0d422e0279ef6ca1f967cd4dcecd343f6c7b67a8",
+      "tags": [
+        ":service-dog:"
+      ]
+    },
+    "🐕": {
+      "file": "1f415.json",
+      "sha256": "ef4d42416f55eefba58b046fb4a723bd3f4a909133ddb4b822ce53aa6346ec1c",
+      "tags": [
+        ":dog:"
+      ]
+    },
+    "🐖": {
+      "file": "1f416.json",
+      "sha256": "fe2bddab42444741703e7b11a5ea2a550b1ae6892c16ee431f5f350e862bb17a",
+      "tags": [
+        ":pig:"
+      ]
+    },
+    "🐙": {
+      "file": "1f419.json",
+      "sha256": "2f51c6dc2886379ddcebe95c22b21a8555e31798e2ba502dcc68964107299d35",
+      "tags": [
+        ":octopus:"
+      ]
+    },
+    "🐛": {
+      "file": "1f41b.json",
+      "sha256": "2c01d7a9934a3f77f82b296a376c48d8bd8614ecfe2287cdcc8ce38d296bfa81",
+      "tags": [
+        ":bug:"
+      ]
+    },
+    "🐜": {
+      "file": "1f41c.json",
+      "sha256": "3327c1310d5dd6b9fe88fce9f6fd0388c9b2725fd6affe0d307f1bb65ef402a4",
+      "tags": [
+        ":ant:"
+      ]
+    },
+    "🐝": {
+      "file": "1f41d.json",
+      "sha256": "615345f7035f76c8017e7c4f7b1d76a575873ae2b744cb82b587be9d1683e9d5",
+      "tags": [
+        ":bee:"
+      ]
+    },
+    "🐞": {
+      "file": "1f41e.json",
+      "sha256": "5884164ee5cc5a0164d6cb22610d5bad23192558470339770f8d1844bbcf40a4",
+      "tags": [
+        ":lady-bug:"
+      ]
+    },
+    "🐟": {
+      "file": "1f41f.json",
+      "sha256": "32d47f0aa7afea4770de239203c6950ea915749d638c11a606d058a94b66185f",
+      "tags": [
+        ":fish:"
+      ]
+    },
+    "🐡": {
+      "file": "1f421.json",
+      "sha256": "f9ef61db29465731addd4f4fa8cadc6f975e78bee1dd5662e852614a2ffa7773",
+      "tags": [
+        ":blowfish:"
+      ]
+    },
+    "🐢": {
+      "file": "1f422.json",
+      "sha256": "3eb35d87d26f30670c39880f131a039122fc9f4c3dcc45d6610d14e85da1677b",
+      "tags": [
+        ":turtle:"
+      ]
+    },
+    "🐣": {
+      "file": "1f423.json",
+      "sha256": "9dc044fe7b6643f48f5ab86304469f289fc6dae20b1cdf4a0a5091a174ced6fe",
+      "tags": [
+        ":hatching-chick:"
+      ]
+    },
+    "🐤": {
+      "file": "1f424.json",
+      "sha256": "88f51c7858a9d81b1dadfcc47a998f456c83626256a3707d07361ae459205563",
+      "tags": [
+        ":baby-chick:"
+      ]
+    },
+    "🐥": {
+      "file": "1f425.json",
+      "sha256": "177550f2966ec16b4000bc7f6bd19a2c88f067b25fb2493cee107cf351dc3068",
+      "tags": [
+        ":hatched-chick:"
+      ]
+    },
+    "🐧": {
+      "file": "1f427.json",
+      "sha256": "d235f95ee62e2777a91d9864f433a67f37e04fd23694a969aaeab915c3dc04c4",
+      "tags": [
+        ":penguin:"
+      ]
+    },
+    "🐩": {
+      "file": "1f429.json",
+      "sha256": "d3127d4ad13d23f441975c7c09c9b1c5bb3665ed53478c4a1dfb4eaaf9d009ea",
+      "tags": [
+        ":poodle:"
+      ]
+    },
+    "🐬": {
+      "file": "1f42c.json",
+      "sha256": "45d800a89095645f4c094f0f0e1cc356fe4462bb8f1be4e443c094be51660b7a",
+      "tags": [
+        ":dolphin:"
+      ]
+    },
+    "🐮": {
+      "file": "1f42e.json",
+      "sha256": "4cb9e2bbcec9341e6fa72c43c5651b4eb011d86f5ed95ba37e78e687126d08f6",
+      "tags": [
+        ":cow-face:"
+      ]
+    },
+    "🐳": {
+      "file": "1f433.json",
+      "sha256": "b6a8e7113f06d251a4e24a44409586c36a9c61efc57689f24a5a7949f72f1925",
+      "tags": [
+        ":whale:"
+      ]
+    },
+    "🐸": {
+      "file": "1f438.json",
+      "sha256": "7f8a90c3a233465cd306109c4e4441589dfd388112c22088ce669b2ca60cb818",
+      "tags": [
+        ":frog:"
+      ]
+    },
+    "🐺": {
+      "file": "1f43a.json",
+      "sha256": "08eab7fc2c792b6dae038c34912e3dbd0d5d0b78c0f15aa94623b53f94e94e2a",
+      "tags": [
+        ":wolf:"
+      ]
+    },
+    "🐻": {
+      "file": "1f43b.json",
+      "sha256": "256e292a148e11c53f90206eac4824b64ae2244dee6e665c62d6aa3e01c8c6f5",
+      "tags": [
+        ":bear-face:"
+      ]
+    },
+    "🐼": {
+      "file": "1f43c.json",
+      "sha256": "3a62d3864e1d15efe18da61b7bc24e8d146ae67895c46d81b3f2e4fd75397a53",
+      "tags": [
+        ":panda:"
+      ]
+    },
+    "🐾": {
+      "file": "1f43e.json",
+      "sha256": "6f87b4b3e6fd85425aad4e7da72debcfb6bbf833c6dadf350162660a8fb78146",
+      "tags": [
+        ":paw prints:"
+      ]
+    },
+    "🐿️": {
+      "file": "1f43f_fe0f.json",
+      "sha256": "e14ea130e571c52338a1de6244689158b2459b8ab629f16b18115f246b12c9d2",
+      "tags": [
+        ":chipmunk:"
+      ]
+    },
+    "👀": {
+      "file": "1f440.json",
+      "sha256": "4e389ecf6ec6e0eb4f2e681e179e86b6ddb1d260f801d91e79b3265c2bb856fc",
+      "tags": [
+        ":eyes:"
+      ]
+    },
+    "👁️": {
+      "file": "1f441_fe0f.json",
+      "sha256": "fbf99cc8909cc24bff2af7bba1a212533b9b0876023756712867b7331692cb9d",
+      "tags": [
+        ":eye:"
+      ]
+    },
+    "👂🏻": {
+      "file": "1f442_1f3fb.json",
+      "sha256": "1af826d48ac9473868e84eba8a9d674b567b54a986c3ea4d380344b4572bdf82",
+      "tags": [
+        ":ear:"
+      ]
+    },
+    "👂🏼": {
+      "file": "1f442_1f3fc.json",
+      "sha256": "d26b87936af60469c9dd6b3dd374fef3c3fe3a3af9c4e39e881d5690f222db60",
+      "tags": [
+        ":ear:"
+      ]
+    },
+    "👂🏽": {
+      "file": "1f442_1f3fd.json",
+      "sha256": "b85ca6512677cee4093b7e3a5f2972bf2df9836ad69445cb3de6aaadaee55509",
+      "tags": [
+        ":ear:"
+      ]
+    },
+    "👂🏾": {
+      "file": "1f442_1f3fe.json",
+      "sha256": "7a744e48edd1c95eaf60382d30b0e0f96f99c2a466a1b9ce2023842d3ee059c0",
+      "tags": [
+        ":ear:"
+      ]
+    },
+    "👂🏿": {
+      "file": "1f442_1f3ff.json",
+      "sha256": "a8c6e895e215fe632df589984e9af3e46275cd0d4a00c951b10251eadadb5629",
+      "tags": [
+        ":ear:"
+      ]
+    },
+    "👂": {
+      "file": "1f442.json",
+      "sha256": "08d5f234f348f398306a8b42bddd7baaffa9c0886437e5a2129db93c3da11919",
+      "tags": [
+        ":ear:"
+      ]
+    },
+    "👃🏻": {
+      "file": "1f443_1f3fb.json",
+      "sha256": "80c743b1d7396b4e6a408ed744718634661d2a649d69db89f3c1f95d13aec432",
+      "tags": [
+        ":nose:"
+      ]
+    },
+    "👃🏼": {
+      "file": "1f443_1f3fc.json",
+      "sha256": "b65286aec020751cd7faffcce4f599e69aca15d36229ab37bfa1897e80048744",
+      "tags": [
+        ":nose:"
+      ]
+    },
+    "👃🏽": {
+      "file": "1f443_1f3fd.json",
+      "sha256": "c3105bb04f9f325dad3a4e8d3a3ae308c4caa6909cd65b43228f7930bd9f7f4f",
+      "tags": [
+        ":nose:"
+      ]
+    },
+    "👃🏾": {
+      "file": "1f443_1f3fe.json",
+      "sha256": "14bd61253d88b652ba4a0efac3bd007c63a50db56d85e090980b7898a589d31f",
+      "tags": [
+        ":nose:"
+      ]
+    },
+    "👃🏿": {
+      "file": "1f443_1f3ff.json",
+      "sha256": "81a81204cd868720d717108d799ed69abfa6fe020f14dfe0cb7676f379a275b2",
+      "tags": [
+        ":nose:"
+      ]
+    },
+    "👃": {
+      "file": "1f443.json",
+      "sha256": "d0d923c83533a8c175a8a9c9ad811bdcae2cb96659bdbf2ce41024eabc8648ba",
+      "tags": [
+        ":nose:"
+      ]
+    },
+    "👆🏻": {
+      "file": "1f446_1f3fb.json",
+      "sha256": "a03920a45a9b190ad728940dc2285891d93ae3054ebd4098b9e7d1dc5af2bcde",
+      "tags": [
+        ":point-up:"
+      ]
+    },
+    "👆🏼": {
+      "file": "1f446_1f3fc.json",
+      "sha256": "021809f540ac620e5e4a2c48bc7bfff36587be14a8c28069459afb123e6bb6a5",
+      "tags": [
+        ":point-up:"
+      ]
+    },
+    "👆🏽": {
+      "file": "1f446_1f3fd.json",
+      "sha256": "b151b85d951fa00f72a4e10f577c1544957d73cb3e6f61dbb1e6197df146de65",
+      "tags": [
+        ":point-up:"
+      ]
+    },
+    "👆🏾": {
+      "file": "1f446_1f3fe.json",
+      "sha256": "93e1f555b127b69b2a7a19ee9cd70e25fbe5f3a17e8d586573af16ca6be45ded",
+      "tags": [
+        ":point-up:"
+      ]
+    },
+    "👆🏿": {
+      "file": "1f446_1f3ff.json",
+      "sha256": "38655a2158573fe52bda8ec16fdc8e6f077e6d115a7da309733833c39c532565",
+      "tags": [
+        ":point-up:"
+      ]
+    },
+    "👆": {
+      "file": "1f446.json",
+      "sha256": "4a3ab7a05a17ec2f45589b7e9e5f2e22b619baa16f579734d52694c0ec5ad53d",
+      "tags": [
+        ":point-up:"
+      ]
+    },
+    "👇🏻": {
+      "file": "1f447_1f3fb.json",
+      "sha256": "5ccc25c002c486d862bd9491180022cd6f9b3af5fcab9003bf9981300a1e350f",
+      "tags": [
+        ":point-down:"
+      ]
+    },
+    "👇🏼": {
+      "file": "1f447_1f3fc.json",
+      "sha256": "856a550a2e4801d22642ce1ea0045ee78d3e4c2cba3cd7e45c3441c36c94dd19",
+      "tags": [
+        ":point-down:"
+      ]
+    },
+    "👇🏽": {
+      "file": "1f447_1f3fd.json",
+      "sha256": "64ea186b47c102a7a2d9ed66dc3cf60eb0b4959c13c491787a87159f7ce6d38f",
+      "tags": [
+        ":point-down:"
+      ]
+    },
+    "👇🏾": {
+      "file": "1f447_1f3fe.json",
+      "sha256": "a598616be89f0e60243ae1edb8a59f97db17b035b4fe37082eb2edfd69a36c56",
+      "tags": [
+        ":point-down:"
+      ]
+    },
+    "👇🏿": {
+      "file": "1f447_1f3ff.json",
+      "sha256": "b24217864c13541501d45bb6ccc6db6075cba9deec07de9be935fcbfe584f112",
+      "tags": [
+        ":point-down:"
+      ]
+    },
+    "👇": {
+      "file": "1f447.json",
+      "sha256": "5aea16077cfd8dd53b4d4f03412722f470138aa9db914f8ae4f9df6b0f9756d4",
+      "tags": [
+        ":point-down:"
+      ]
+    },
+    "👈🏻": {
+      "file": "1f448_1f3fb.json",
+      "sha256": "3e581bdb642fd485d5c9ffd3a44cb49941a47991b3ccf65783672152996c59b0",
+      "tags": [
+        ":point-left:"
+      ]
+    },
+    "👈🏼": {
+      "file": "1f448_1f3fc.json",
+      "sha256": "cdc8f76073f9a97c93ad105da7d54d2b07c2cbd3807de23d6caf264c074e9fda",
+      "tags": [
+        ":point-left:"
+      ]
+    },
+    "👈🏽": {
+      "file": "1f448_1f3fd.json",
+      "sha256": "73b9d4ffe21013b35b5b1b652b7c0be041ccf687d3504108f7038c099c8325bc",
+      "tags": [
+        ":point-left:"
+      ]
+    },
+    "👈🏾": {
+      "file": "1f448_1f3fe.json",
+      "sha256": "c14f719b2a0da54168de9432e676f920a8d3cd19af11100474db5baaf0a6719b",
+      "tags": [
+        ":point-left:"
+      ]
+    },
+    "👈🏿": {
+      "file": "1f448_1f3ff.json",
+      "sha256": "7c32e7ca8571e8a33190e3fd76d712927a89007d19a0fb5f94df0f0b8ec84128",
+      "tags": [
+        ":point-left:"
+      ]
+    },
+    "👈": {
+      "file": "1f448.json",
+      "sha256": "e563af919ec23bb5cefd79ead845668e810ff61bd5c37e1cb565bd0454664571",
+      "tags": [
+        ":point-left:"
+      ]
+    },
+    "👉🏻": {
+      "file": "1f449_1f3fb.json",
+      "sha256": "7f1bbdb04c7a6c0254f3cd76d227c2657ac48b35d29405a4cde1b1db1b87de79",
+      "tags": [
+        ":point-right:"
+      ]
+    },
+    "👉🏼": {
+      "file": "1f449_1f3fc.json",
+      "sha256": "2d9a402e7510fc4773f461f169c5ce46bfc422ee8513ed0fb1181b3ec90063ca",
+      "tags": [
+        ":point-right:"
+      ]
+    },
+    "👉🏽": {
+      "file": "1f449_1f3fd.json",
+      "sha256": "982b90420a8a0b82eafe66cc675fbe5bfb7e1a53ec7d8a32cdfa6da7afcb0ce3",
+      "tags": [
+        ":point-right:"
+      ]
+    },
+    "👉🏾": {
+      "file": "1f449_1f3fe.json",
+      "sha256": "28a39a4b3263b282e1c767263ecaec63e78b1d54d609ae253e22bf1334a3bbd6",
+      "tags": [
+        ":point-right:"
+      ]
+    },
+    "👉🏿": {
+      "file": "1f449_1f3ff.json",
+      "sha256": "caf503140f836ac3513b5270f9f03ba98ac3415197a6992e9c310c406db5f999",
+      "tags": [
+        ":point-right:"
+      ]
+    },
+    "👉": {
+      "file": "1f449.json",
+      "sha256": "5c6a6820f42075d47d7954fcf813b77a5425674019a6b7e3e57e4e1fc4e00e88",
+      "tags": [
+        ":point-right:"
+      ]
+    },
+    "👊🏻": {
+      "file": "1f44a_1f3fb.json",
+      "sha256": "54c33aa396bd1680e3cfdc9c33f3d4bb946812d555d6d23e4a695b878263a89c",
+      "tags": [
+        ":fist:",
+        ":bump:"
+      ]
+    },
+    "👊🏼": {
+      "file": "1f44a_1f3fc.json",
+      "sha256": "cad79e16eb2bbd6f0d176c5fb1a4d1b0efdb08ea2ebb472f137023519d72878f",
+      "tags": [
+        ":fist:",
+        ":bump:"
+      ]
+    },
+    "👊🏽": {
+      "file": "1f44a_1f3fd.json",
+      "sha256": "27ad3311673b0108d055654ec63a08890e0a40a33e1444f3a92087e0fb47ad2e",
+      "tags": [
+        ":fist:",
+        ":bump:"
+      ]
+    },
+    "👊🏾": {
+      "file": "1f44a_1f3fe.json",
+      "sha256": "7b12a5e7d5396098ae0c81500edfebf10ccde9248a9cf2df16fb9669e13d0f8c",
+      "tags": [
+        ":fist:",
+        ":bump:"
+      ]
+    },
+    "👊🏿": {
+      "file": "1f44a_1f3ff.json",
+      "sha256": "f94079a3b2649f32cb8bdee7243a4e655d642966e7c0e7823651a96179379926",
+      "tags": [
+        ":fist:",
+        ":bump:"
+      ]
+    },
+    "👊": {
+      "file": "1f44a.json",
+      "sha256": "3cdae314e940bac40c64322b1fc2bd2c01abcaeb07e010c503c804277c9cbeaf",
+      "tags": [
+        ":fist:",
+        ":bump:"
+      ]
+    },
+    "👋🏻": {
+      "file": "1f44b_1f3fb.json",
+      "sha256": "d891ea072db2120f2c5ca6342eb4198cda76f9987f534c86d2890abddb93dffc",
+      "tags": [
+        ":wave:"
+      ]
+    },
+    "👋🏼": {
+      "file": "1f44b_1f3fc.json",
+      "sha256": "b83d115fdab846a2986a2968c43d68b43164e78a57006ee8b7ce68da1edba1ce",
+      "tags": [
+        ":wave:"
+      ]
+    },
+    "👋🏽": {
+      "file": "1f44b_1f3fd.json",
+      "sha256": "9467ba966f0af2c5e1103d7c90b9a41da2aabcdeefe44b7e7523a748d6e40497",
+      "tags": [
+        ":wave:"
+      ]
+    },
+    "👋🏾": {
+      "file": "1f44b_1f3fe.json",
+      "sha256": "b2d196a791ab031601e5b57c2e43e7f4bcdf606cec8ac421a8603d45249c385f",
+      "tags": [
+        ":wave:"
+      ]
+    },
+    "👋🏿": {
+      "file": "1f44b_1f3ff.json",
+      "sha256": "8a6c633248e0fe2f6f8d09350aeed7403d3e0e9881df449f10dc18c1de313c43",
+      "tags": [
+        ":wave:"
+      ]
+    },
+    "👋": {
+      "file": "1f44b.json",
+      "sha256": "2ab992774f0b33d78cdabe1a48937a654914fa77a9cb22638e93041392365faa",
+      "tags": [
+        ":wave:"
+      ]
+    },
+    "👌🏻": {
+      "file": "1f44c_1f3fb.json",
+      "sha256": "73e82fa95660f5cd8e591fa90a6d8ebbf0ee49d56e7ba3fdfa20f06cbbb0d19d",
+      "tags": [
+        ":ok:"
+      ]
+    },
+    "👌🏼": {
+      "file": "1f44c_1f3fc.json",
+      "sha256": "4cd84059e37beddc03ed810dd69c32825c85332aae7975d01740036755e31d84",
+      "tags": [
+        ":ok:"
+      ]
+    },
+    "👌🏽": {
+      "file": "1f44c_1f3fd.json",
+      "sha256": "12af452ae3f98ca45c277c4fea6c90d30bbd5ddf2664542a459b9053b4a4246f",
+      "tags": [
+        ":ok:"
+      ]
+    },
+    "👌🏾": {
+      "file": "1f44c_1f3fe.json",
+      "sha256": "bca6a807ae07c35f828195b7fb9ef878644fb183a9c98c685a3f09275727b403",
+      "tags": [
+        ":ok:"
+      ]
+    },
+    "👌🏿": {
+      "file": "1f44c_1f3ff.json",
+      "sha256": "aea2e4958b848efe62bbd18bce80e7e72fa6f36bf06d74d187b649e925a4d79c",
+      "tags": [
+        ":ok:"
+      ]
+    },
+    "👌": {
+      "file": "1f44c.json",
+      "sha256": "f8ddf057414ff67bb41b1b17fd8367678e16458a0ac0ecbcd734a66ab750bafe",
+      "tags": [
+        ":ok:"
+      ]
+    },
+    "👍🏻": {
+      "file": "1f44d_1f3fb.json",
+      "sha256": "4f981de93c902ceb09813a44238ebac4be817e30f400135663e0e785c8fa42f7",
+      "tags": [
+        ":thumbs-up:",
+        ":+1:"
+      ]
+    },
+    "👍🏼": {
+      "file": "1f44d_1f3fc.json",
+      "sha256": "9dbf1121507f6df19e9dd6c5175c4c797029ceb8c0d6dd831970f687c1398ea0",
+      "tags": [
+        ":thumbs-up:",
+        ":+1:"
+      ]
+    },
+    "👍🏽": {
+      "file": "1f44d_1f3fd.json",
+      "sha256": "52768d1a05dbd692f78c3cf1ea21b9698b647a3700b50c050da66ac30e4aa27e",
+      "tags": [
+        ":thumbs-up:",
+        ":+1:"
+      ]
+    },
+    "👍🏾": {
+      "file": "1f44d_1f3fe.json",
+      "sha256": "c24e9e215620f65e4b42b815e28b397e21f6987a52bba60d25433704678355a0",
+      "tags": [
+        ":thumbs-up:",
+        ":+1:"
+      ]
+    },
+    "👍🏿": {
+      "file": "1f44d_1f3ff.json",
+      "sha256": "1bfd19b16f9a9dfc2b8b70b81f0b868cedd270a762f51c1497fad77b4a63abe1",
+      "tags": [
+        ":thumbs-up:",
+        ":+1:"
+      ]
+    },
+    "👍": {
+      "file": "1f44d.json",
+      "sha256": "d27b0d4e0afa4e1177cf84cbf42e55475b1f93438c83a5b99e7b5b1c2d5a6ed6",
+      "tags": [
+        ":thumbs-up:",
+        ":+1:"
+      ]
+    },
+    "👎🏻": {
+      "file": "1f44e_1f3fb.json",
+      "sha256": "7aaf58d53b1a1521631f07602b1e73a9c0549a9bfac2995354dcd48b1e81b87a",
+      "tags": [
+        ":thumbs-down:"
+      ]
+    },
+    "👎🏼": {
+      "file": "1f44e_1f3fc.json",
+      "sha256": "412671070d991fff577fbfd34ca1d45f3c59931013c8f1e1c0a7387684ea9106",
+      "tags": [
+        ":thumbs-down:"
+      ]
+    },
+    "👎🏽": {
+      "file": "1f44e_1f3fd.json",
+      "sha256": "f64b3f63aa870990b4e87967e6258ff6d5901e1115ae7d185631a53e2789296b",
+      "tags": [
+        ":thumbs-down:"
+      ]
+    },
+    "👎🏾": {
+      "file": "1f44e_1f3fe.json",
+      "sha256": "4281a961ab5b42729fb4292248481c92aab8606be481e334686ab7ed58fcbcee",
+      "tags": [
+        ":thumbs-down:"
+      ]
+    },
+    "👎🏿": {
+      "file": "1f44e_1f3ff.json",
+      "sha256": "eb5b9b9363b81ca6ec29871f238e6c70b0d48505691603d4a752aa3893f338d2",
+      "tags": [
+        ":thumbs-down:"
+      ]
+    },
+    "👎": {
+      "file": "1f44e.json",
+      "sha256": "3f1e971a326e95f893a4756a01466c03add3dce347910e97e4bc707802279893",
+      "tags": [
+        ":thumbs-down:"
+      ]
+    },
+    "👏🏻": {
+      "file": "1f44f_1f3fb.json",
+      "sha256": "380711c7bf255cfeb862b1a9c005c0be9516ff199ca3ec6c1edb9bf1032acdf0",
+      "tags": [
+        ":clap:"
+      ]
+    },
+    "👏🏼": {
+      "file": "1f44f_1f3fc.json",
+      "sha256": "c47f70ae44e32f323ab49ad51b85ab5e6ed545cd9977ee83f97e35de8cf9db37",
+      "tags": [
+        ":clap:"
+      ]
+    },
+    "👏🏽": {
+      "file": "1f44f_1f3fd.json",
+      "sha256": "c81eb4a86b47c0cce463972de7f912094dbd2239f390373119b69f287ff03025",
+      "tags": [
+        ":clap:"
+      ]
+    },
+    "👏🏾": {
+      "file": "1f44f_1f3fe.json",
+      "sha256": "8803c22c90d0164e06d2775e5df6db552de5f36797db6c4708b121d19edf26cc",
+      "tags": [
+        ":clap:"
+      ]
+    },
+    "👏🏿": {
+      "file": "1f44f_1f3ff.json",
+      "sha256": "1d53d5b93857a24b615dde1b26b8b3ec3b572e38a972ed4565e2b802e92257cb",
+      "tags": [
+        ":clap:"
+      ]
+    },
+    "👏": {
+      "file": "1f44f.json",
+      "sha256": "2ac9607f26547b8951788863666b62094c5b4af51e41497e9aec4539c655482c",
+      "tags": [
+        ":clap:"
+      ]
+    },
+    "👐🏻": {
+      "file": "1f450_1f3fb.json",
+      "sha256": "57841a9341be4ab8d50df3e7a3f975080ec4f9c27d7d4b2460892bfb5fe4af25",
+      "tags": [
+        ":open-hands:"
+      ]
+    },
+    "👐🏼": {
+      "file": "1f450_1f3fc.json",
+      "sha256": "be564caef16f12aaf0e9e5717c04a295412332e945fa3749aa94fa683ea90c60",
+      "tags": [
+        ":open-hands:"
+      ]
+    },
+    "👐🏽": {
+      "file": "1f450_1f3fd.json",
+      "sha256": "bcf317181b1d1a0034bf6fc90fea3ce220c504a79513f7b828fa12da0d797a21",
+      "tags": [
+        ":open-hands:"
+      ]
+    },
+    "👐🏾": {
+      "file": "1f450_1f3fe.json",
+      "sha256": "1452fc4ce8f80d84ec3b68c363b3395ead54129558c01c3974159bd60095bad7",
+      "tags": [
+        ":open-hands:"
+      ]
+    },
+    "👐🏿": {
+      "file": "1f450_1f3ff.json",
+      "sha256": "a685431949af94ba0130f295878292e8753089b8b7d3bb593fbc087c59eaf901",
+      "tags": [
+        ":open-hands:"
+      ]
+    },
+    "👐": {
+      "file": "1f450.json",
+      "sha256": "cb7ddfc81b790a467babc476c480cb2ff71633d47429e51d5e352b116652b5fd",
+      "tags": [
+        ":open-hands:"
+      ]
+    },
+    "👑": {
+      "file": "1f451.json",
+      "sha256": "dd2a74baf838ba4c27b77c4bb07ccfc74a011018bf98d9e5efea9a0cebb98eab",
+      "tags": [
+        ":crown:"
+      ]
+    },
+    "👟": {
+      "file": "1f45f.json",
+      "sha256": "e94136d705b54cbc9f3345635701585fe1ca3503488c5825d54a81962eb0eed3",
+      "tags": [
+        ":running-shoe:"
+      ]
+    },
+    "👠": {
+      "file": "1f460.json",
+      "sha256": "b9af944a5897940c633e803357033f1c28b3f6ca6c7802718e623f31d130ae09",
+      "tags": [
+        ":high-heeled-shoe:"
+      ]
+    },
+    "👣": {
+      "file": "1f463.json",
+      "sha256": "1bbf4737beb314c08bef2ff605b6e2c554f03fc7c1ac49c469d8943fd88cdd88",
+      "tags": [
+        ":footprints:"
+      ]
+    },
+    "👹": {
+      "file": "1f479.json",
+      "sha256": "3296e6ffba9a7b9ddad94dbc67f1dd6e4f07e222a4d76e7d15a8a617c759a298",
+      "tags": [
+        ":ogre:"
+      ]
+    },
+    "👻": {
+      "file": "1f47b.json",
+      "sha256": "2d2f64d81dcd3260c8a5c750c647a9881a2931262a7840cab8389f260f9ea3a6",
+      "tags": [
+        ":ghost:"
+      ]
+    },
+    "👽": {
+      "file": "1f47d.json",
+      "sha256": "d1756495ed7cf99b128ef00e0c68494720938c450eff862810baf63199e6f8d3",
+      "tags": [
+        ":alien:"
+      ]
+    },
+    "👾": {
+      "file": "1f47e.json",
+      "sha256": "0955bd02b0516a351544fff8fb13f046d98818defa3d7bbe2d716543b64a604b",
+      "tags": [
+        ":alien-monster:"
+      ]
+    },
+    "👿": {
+      "file": "1f47f.json",
+      "sha256": "d485366ebe7cabc9bca435087c9b7b4b1c7844d42af61abafde81d77508d7d49",
+      "tags": [
+        ":imp-frown:"
+      ]
+    },
+    "💀": {
+      "file": "1f480.json",
+      "sha256": "2e6f95f5c111011ed00ebb9aca2d7aef20ea15753d9f65d9b4d342be32d79f02",
+      "tags": [
+        ":skull:"
+      ]
+    },
+    "💃🏻": {
+      "file": "1f483_1f3fb.json",
+      "sha256": "9089ed8baff360122c2fdc78466a2d43b59e1833996cd231c6de6766f21b490b",
+      "tags": [
+        ":dancer-woman:"
+      ]
+    },
+    "💃🏼": {
+      "file": "1f483_1f3fc.json",
+      "sha256": "d9ea9bbed86843d3cd0ed66a62fc9e9fd051f68e2bec59614c8e45faa6b02fb2",
+      "tags": [
+        ":dancer-woman:"
+      ]
+    },
+    "💃🏽": {
+      "file": "1f483_1f3fd.json",
+      "sha256": "d958cbd254a3995fe4562ceca9e5a3e8aad429ec18854f3b6f0fb4e1544ba330",
+      "tags": [
+        ":dancer-woman:"
+      ]
+    },
+    "💃🏾": {
+      "file": "1f483_1f3fe.json",
+      "sha256": "b5b67dba057a351822f9e53edd5a38b0df8441caa5a0683dc9f0186862638da6",
+      "tags": [
+        ":dancer-woman:"
+      ]
+    },
+    "💃🏿": {
+      "file": "1f483_1f3ff.json",
+      "sha256": "581762af76a20dc3687ec894ad106bebd4560c8d93a4b2352fda6290619d68d3",
+      "tags": [
+        ":dancer-woman:"
+      ]
+    },
+    "💃": {
+      "file": "1f483.json",
+      "sha256": "96649f18e6c95de0b74f6bd87e9df21596c9849b289d25fc58af053f41858108",
+      "tags": [
+        ":dancer-woman:"
+      ]
+    },
+    "💅🏻": {
+      "file": "1f485_1f3fb.json",
+      "sha256": "f2dcf86656215017712c2b8ee4347e0b390cd06d1152688c30327b4c59ccee25",
+      "tags": [
+        ":nail-care:"
+      ]
+    },
+    "💅🏼": {
+      "file": "1f485_1f3fc.json",
+      "sha256": "b1b5e47da7ff35ee4e928b76c1f6d3f71a532c05855e29317e51ca4df47a7e7e",
+      "tags": [
+        ":nail-care:"
+      ]
+    },
+    "💅🏽": {
+      "file": "1f485_1f3fd.json",
+      "sha256": "0a7f86ae22b7f448894a38d0bb2c9b37e57e6f1532aa57c37d69aa99cde8e0bd",
+      "tags": [
+        ":nail-care:"
+      ]
+    },
+    "💅🏾": {
+      "file": "1f485_1f3fe.json",
+      "sha256": "c56fcab32b8bddcf0c9fb9bc1157612ab42f06767e62934119d2fa1e3338dee8",
+      "tags": [
+        ":nail-care:"
+      ]
+    },
+    "💅🏿": {
+      "file": "1f485_1f3ff.json",
+      "sha256": "c0cdb076113d564a309a74ff4fa0555141d3f04550d69f4a4e3b151b4bef443f",
+      "tags": [
+        ":nail-care:"
+      ]
+    },
+    "💅": {
+      "file": "1f485.json",
+      "sha256": "87c82842b51dca53e6b12a4ab73ecf043722178ebf16cad5349b0fa2fbe2b7be",
+      "tags": [
+        ":nail-care:"
+      ]
+    },
+    "💋": {
+      "file": "1f48b.json",
+      "sha256": "c2ffe4374cf7a73efdcf77a478285d92991f6d22c117f0f9a8a5574a0d0d7b52",
+      "tags": [
+        ":kiss:"
+      ]
+    },
+    "💌": {
+      "file": "1f48c.json",
+      "sha256": "a9fb6027233b8e4b20139635360ae0a555e6b4cca806d96591a518d0e7b56088",
+      "tags": [
+        ":love-letter:"
+      ]
+    },
+    "💍": {
+      "file": "1f48d.json",
+      "sha256": "bca49288aa3a4887cbe2856b7dd1e6e8a0be16d0c5b711d1623aec73471644fb",
+      "tags": [
+        ":ring:"
+      ]
+    },
+    "💎": {
+      "file": "1f48e.json",
+      "sha256": "e5a8dab80f9e23e4e4e0c6803c76cf5a8b8ace3ed4ad61e052fdfb325c97c043",
+      "tags": [
+        ":gem-stone:"
+      ]
+    },
+    "💐": {
+      "file": "1f490.json",
+      "sha256": "5e8c6bf73f6ebb83a7b1f377a4d2440e3f7074eca6bffac52a7fd6a534e955b5",
+      "tags": [
+        ":bouquet:",
+        ":flowers:"
+      ]
+    },
+    "💓": {
+      "file": "1f493.json",
+      "sha256": "f6b09f7bd4bd36eb075ec9e36f2ff4ca412a4254335e2c73974eaa7323ed699b",
+      "tags": [
+        ":beating-heart:"
+      ]
+    },
+    "💔": {
+      "file": "1f494.json",
+      "sha256": "ab0641abd23a85366845f12e010cbef9ad8a344217b964f3763805affbdd21e5",
+      "tags": [
+        ":broken-heart:"
+      ]
+    },
+    "💕": {
+      "file": "1f495.json",
+      "sha256": "05535c9402441aacd493eb2eb5a0e1029f76000b6c1b75c3468239f7923d6854",
+      "tags": [
+        ":two-hearts:"
+      ]
+    },
+    "💖": {
+      "file": "1f496.json",
+      "sha256": "7f5d492fac9acdcaa36bb98e2f3c37398b8b8eda852899502c84b3c6d0299b25",
+      "tags": [
+        ":sparkling-heart:"
+      ]
+    },
+    "💗": {
+      "file": "1f497.json",
+      "sha256": "9b6f764e162295d0f170719bfc819f32d745cf69810e11a02248204b15c7a175",
+      "tags": [
+        ":heart-grow:"
+      ]
+    },
+    "💘": {
+      "file": "1f498.json",
+      "sha256": "a1cab7bc7cb5e9a6bcb16f36bcd06405dab8a9f40eda65a6232f2df3d6542de2",
+      "tags": [
+        ":cupid:"
+      ]
+    },
+    "💙": {
+      "file": "1f499.json",
+      "sha256": "f79cf3efd4290a65db29d1a604e75e8ba0a3c40131cfbbfc626170a4d0d88f9f",
+      "tags": [
+        ":blue-heart:"
+      ]
+    },
+    "💚": {
+      "file": "1f49a.json",
+      "sha256": "33440de6d62cd82f3fd0d6f2034c4f6709f790fe12e9d5764af02d363923c4cb",
+      "tags": [
+        ":green-heart:"
+      ]
+    },
+    "💛": {
+      "file": "1f49b.json",
+      "sha256": "110392478761e1b6587e592c5d94c70bf3eeaeb515dba1dc4a251c2867509b9e",
+      "tags": [
+        ":yellow-heart:"
+      ]
+    },
+    "💜": {
+      "file": "1f49c.json",
+      "sha256": "7c27fa245db44c23a6f517f8600838c46fc0a9ee233675e398898a17e226ffe4",
+      "tags": [
+        ":purple-heart:"
+      ]
+    },
+    "💝": {
+      "file": "1f49d.json",
+      "sha256": "3386e86c4bcfc6eb88b7361cecdbff25f566d22cbf1a7c449d1c3a87889ca757",
+      "tags": [
+        ":gift-heart:"
+      ]
+    },
+    "💞": {
+      "file": "1f49e.json",
+      "sha256": "753ca0d44b060bfbbe5950132bc38c0d290e524decaa85f1b5073bb17c236482",
+      "tags": [
+        ":revolving-hearts:"
+      ]
+    },
+    "💟": {
+      "file": "1f49f.json",
+      "sha256": "614ac0ca9d876de561671118ce5e34098fd2f58733484854def9c445c0fd5f05",
+      "tags": [
+        ":heart-box:"
+      ]
+    },
+    "💡": {
+      "file": "1f4a1.json",
+      "sha256": "bbbabc4ca5ad1a7581e1c3c915436b27f048c0574e184c1caa4997179c2ca411",
+      "tags": [
+        ":light-bulb:"
+      ]
+    },
+    "💣": {
+      "file": "1f4a3.json",
+      "sha256": "c5138837015087686141307085604249da51286d4c7cadefbe6387b0b7a39346",
+      "tags": [
+        ":bomb:"
+      ]
+    },
+    "💥": {
+      "file": "1f4a5.json",
+      "sha256": "6ce836a6b6d49dfefa00fee97d4cfa12ccd4f864aadcae092f85ee8e70ef18fa",
+      "tags": [
+        ":collision:"
+      ]
+    },
+    "💧": {
+      "file": "1f4a7.json",
+      "sha256": "f9a1c554aa4da8d81d815848062ffff61b87852b3cd3650ad9a963cb92971cf3",
+      "tags": [
+        ":droplet:"
+      ]
+    },
+    "💩": {
+      "file": "1f4a9.json",
+      "sha256": "e660c4617075ac40243550fb09d77380055b83f8bcc576df58501c118494f170",
+      "tags": [
+        ":poop:"
+      ]
+    },
+    "💪🏻": {
+      "file": "1f4aa_1f3fb.json",
+      "sha256": "72d200e264005da0ade8eabc56d2fa3d4b134f635efd8ff52ab6db39c1b8d8d1",
+      "tags": [
+        ":muscle:",
+        ":flex:",
+        ":bicep:",
+        ":strong:"
+      ]
+    },
+    "💪🏼": {
+      "file": "1f4aa_1f3fc.json",
+      "sha256": "4eb0854267155afadb120d926e67363681b1e4479dbee9ba96bf6bdcb329ccee",
+      "tags": [
+        ":muscle:",
+        ":flex:",
+        ":bicep:",
+        ":strong:"
+      ]
+    },
+    "💪🏽": {
+      "file": "1f4aa_1f3fd.json",
+      "sha256": "ca69baeac6ef5db450abcce0e2b20491f52d3c6ca13581c10ff10084ff85ae5d",
+      "tags": [
+        ":muscle:",
+        ":flex:",
+        ":bicep:",
+        ":strong:"
+      ]
+    },
+    "💪🏾": {
+      "file": "1f4aa_1f3fe.json",
+      "sha256": "a29f34f1bd2ee524d8ed997f8546226bafe388e28dec72df34dfd1c5be91e34e",
+      "tags": [
+        ":muscle:",
+        ":flex:",
+        ":bicep:",
+        ":strong:"
+      ]
+    },
+    "💪🏿": {
+      "file": "1f4aa_1f3ff.json",
+      "sha256": "d2123dc1ec59cdd6f7e40fe498f97f123a5ff91be5bc9b7da54c61041c072faa",
+      "tags": [
+        ":muscle:",
+        ":flex:",
+        ":bicep:",
+        ":strong:"
+      ]
+    },
+    "💪": {
+      "file": "1f4aa.json",
+      "sha256": "ef929cce4ed844945ef4c5da8ee1ba7746376b30722662baf6fe09754da9165a",
+      "tags": [
+        ":muscle:",
+        ":flex:",
+        ":bicep:",
+        ":strong:"
+      ]
+    },
+    "💬": {
+      "file": "1f4ac.json",
+      "sha256": "4b39f4f882a68d2d3302df227977f8d0ffa669586022fe778f413a4394cf1ca1",
+      "tags": [
+        ":speech-bubble:"
+      ]
+    },
+    "💯": {
+      "file": "1f4af.json",
+      "sha256": "9f1917fe2fd209d1e3f98f5e371228d4e8634b53ce7b2825c28fc020089f8cc7",
+      "tags": [
+        ":100:",
+        ":one-hundred:",
+        ":hundred:",
+        ":points:"
+      ]
+    },
+    "💸": {
+      "file": "1f4b8.json",
+      "sha256": "618a491d48fc2a381aa28e7394ef3aded031d82e7a2140300c84a12382e66ba0",
+      "tags": [
+        ":money-with-wings:"
+      ]
+    },
+    "💻": {
+      "file": "1f4bb.json",
+      "sha256": "944adb4fc92cae92ef6e2c3c502f1a1d04d213d8684e2e6ffd558f06b70585f6",
+      "tags": [
+        ":laptop-computer:"
+      ]
+    },
+    "💿": {
+      "file": "1f4bf.json",
+      "sha256": "a48b9caa2d32a781d3deae6bd4af444a1aba86a33b0b7c348d8d0f6b24ea22be",
+      "tags": [
+        ":optical-disk:"
+      ]
+    },
+    "📈": {
+      "file": "1f4c8.json",
+      "sha256": "b29a0ee4f36b38dbd945aabbed8d8089f663ea8b116950360f3ccda5d1374fa4",
+      "tags": [
+        ":chart-increasing:"
+      ]
+    },
+    "📉": {
+      "file": "1f4c9.json",
+      "sha256": "8fbb304ba2a2f261d7d928e8810438cf653af96a029f705d46a0d135a08c98a7",
+      "tags": [
+        ":chart-decreasing:"
+      ]
+    },
+    "📊": {
+      "file": "1f4ca.json",
+      "sha256": "66359116180f568d32a1598396d87c35519e7d8e97ab02a84a9cb7b6f62243fe",
+      "tags": [
+        ":bar-chart:"
+      ]
+    },
+    "📚": {
+      "file": "1f4da.json",
+      "sha256": "c44333c30c4853d0b5786eef72e4c0bfb47b954d105c7d2fe526773473254b14",
+      "tags": [
+        ":books:"
+      ]
+    },
+    "📟": {
+      "file": "1f4df.json",
+      "sha256": "beff4c4b2bd46f3efa229448053ec6a0df720b306a88ac4fe5f999b07125f322",
+      "tags": [
+        ":pager:"
+      ]
+    },
+    "📣": {
+      "file": "1f4e3.json",
+      "sha256": "99f45d6ec7a417c580ae529c3534407571ac9ffa3a93c2ffc40337f09dc1112f",
+      "tags": [
+        ":megaphone:"
+      ]
+    },
+    "📦": {
+      "file": "1f4e6.json",
+      "sha256": "ff160e4f9065b05cde2803136b59dbd19009eec8616e750bb2974ac66cdaabed",
+      "tags": [
+        ":package:"
+      ]
+    },
+    "📴": {
+      "file": "1f4f4.json",
+      "sha256": "70f25edab3b2bc79bdc68cffeacb9a55c04e7fb8dfa1da9c10f0e60893b87421",
+      "tags": [
+        ":phone-off:"
+      ]
+    },
+    "📷": {
+      "file": "1f4f7.json",
+      "sha256": "75ccb7dd7dec534125e3c9dd93783aaeebc77bb5d7056ea90830645a7a72f504",
+      "tags": [
+        ":camera:"
+      ]
+    },
+    "📸": {
+      "file": "1f4f8.json",
+      "sha256": "084ce777fd90e0c20b32f55a286e35187157c9f0344ff6034c78bec37fabebab",
+      "tags": [
+        ":camera-flash:"
+      ]
+    },
+    "📺": {
+      "file": "1f4fa.json",
+      "sha256": "afc02878fa48dbb45c9a3474bb6dfc4ac4483afdd342479ca33b1a6b9eb6b9c4",
+      "tags": [
+        ":television:"
+      ]
+    },
+    "🔋": {
+      "file": "1f50b.json",
+      "sha256": "92cf9b4b5aa9a49e6d3b6a32f4649e3edc155ef32f471a292bb65bd4468b4371",
+      "tags": [
+        ":battery-full:"
+      ]
+    },
+    "🔌": {
+      "file": "1f50c.json",
+      "sha256": "a882dce117a8ae3290c49b2aad97901b4d4dec7047947e742f7e6ee1dff7c87f",
+      "tags": [
+        ":electric-plug:"
+      ]
+    },
+    "🔎": {
+      "file": "1f50e.json",
+      "sha256": "b4e0824bb4dbde5f77b7370cf61d0286e20dd4c0698e2567c1e2a388289d34e8",
+      "tags": [
+        ":magnifying-glass-tilted-right:"
+      ]
+    },
+    "🔒": {
+      "file": "1f512.json",
+      "sha256": "50df546549095549b77c625865f97cfadf42d545c25d9eb4e7cf88be7bf9bb94",
+      "tags": [
+        ":locked:"
+      ]
+    },
+    "🔔": {
+      "file": "1f514.json",
+      "sha256": "875c8ef74b5f7d83a874624253a80a695e3186e883a2b4a1a7b48c6c0e94d7d5",
+      "tags": [
+        ":bell:"
+      ]
+    },
+    "🔥": {
+      "file": "1f525.json",
+      "sha256": "96199d8e8fea7d90196b95b9a9e56b13af43e3817efe037bd9aa1e5215579838",
+      "tags": [
+        ":fire:",
+        ":burn:",
+        ":lit:"
+      ]
+    },
+    "🔮": {
+      "file": "1f52e.json",
+      "sha256": "473a035fcaf01ce01c6506bef1009313eb3dce4abd591d1f6e9f1abe557c2249",
+      "tags": [
+        ":crystal-ball:"
+      ]
+    },
+    "🕳️": {
+      "file": "1f573_fe0f.json",
+      "sha256": "e28475785d90d528311d980e96b505a545b3880279e1f5781c8584979dbbfcee",
+      "tags": [
+        ":hole:"
+      ]
+    },
+    "🕷️": {
+      "file": "1f577_fe0f.json",
+      "sha256": "467bcc88bf20f9ce6477b7f88e56db514c8ac665d2dcc9146e6223c04b779e48",
+      "tags": [
+        ":spider:"
+      ]
+    },
+    "🖇️": {
+      "file": "1f587_fe0f.json",
+      "sha256": "7eb6a1e61b5456894ad05f81fc955caef0c2c0905bc2f614649fbea179e36ce4",
+      "tags": [
+        ":linked-paperclips:"
+      ]
+    },
+    "🖕🏻": {
+      "file": "1f595_1f3fb.json",
+      "sha256": "1c43ad29bedb8f42602a69082a5356ce449354b5a73d2232acdebbb0474ba733",
+      "tags": [
+        ":middle-finger:"
+      ]
+    },
+    "🖕🏼": {
+      "file": "1f595_1f3fc.json",
+      "sha256": "1a95e6bddee8186a2eeb17b814da0362c0f8ec5cd8f41f75868fd13f1ee7006f",
+      "tags": [
+        ":middle-finger:"
+      ]
+    },
+    "🖕🏽": {
+      "file": "1f595_1f3fd.json",
+      "sha256": "f4a8c531a4878ab66d7be3dd7ecd297dbae1cd0c6f4abcc471822dd6e51e1948",
+      "tags": [
+        ":middle-finger:"
+      ]
+    },
+    "🖕🏾": {
+      "file": "1f595_1f3fe.json",
+      "sha256": "527e3a6f20bf098bb28958be7cda476394bf6db5d978db77eca37bd1d7d3c97d",
+      "tags": [
+        ":middle-finger:"
+      ]
+    },
+    "🖕🏿": {
+      "file": "1f595_1f3ff.json",
+      "sha256": "79dd98807a305cfa8272909dba4eeb3ea40d0f8cb0ea27768ceb056bafbd3a93",
+      "tags": [
+        ":middle-finger:"
+      ]
+    },
+    "🖕": {
+      "file": "1f595.json",
+      "sha256": "be3b43f05a59771a34060c836c6e987bca8ccc693892d69e812b0fe43c059376",
+      "tags": [
+        ":middle-finger:"
+      ]
+    },
+    "🖖🏻": {
+      "file": "1f596_1f3fb.json",
+      "sha256": "2ff99f9a5e8910952dfa20e49b134b0a5eb0cc798691e26bc3b0a5a9c3c88c18",
+      "tags": [
+        ":vulcan:",
+        ":prosper:",
+        ":spock:"
+      ]
+    },
+    "🖖🏼": {
+      "file": "1f596_1f3fc.json",
+      "sha256": "c402e38ca44a776c1618bad2c0ec77854fd76290b05e952f574e67bfe13724e2",
+      "tags": [
+        ":vulcan:",
+        ":prosper:",
+        ":spock:"
+      ]
+    },
+    "🖖🏽": {
+      "file": "1f596_1f3fd.json",
+      "sha256": "b743b26a03322a9223155b567ac8f74e69a0e552b95c3603e3d50f885a451391",
+      "tags": [
+        ":vulcan:",
+        ":prosper:",
+        ":spock:"
+      ]
+    },
+    "🖖🏾": {
+      "file": "1f596_1f3fe.json",
+      "sha256": "c65a4b321e1ef6524777b8e8a8f729ec3204a5a0e555a130e896621e5085da73",
+      "tags": [
+        ":vulcan:",
+        ":prosper:",
+        ":spock:"
+      ]
+    },
+    "🖖🏿": {
+      "file": "1f596_1f3ff.json",
+      "sha256": "6d1224cea0703f3dcf6371a1f40af9d5d14d976079f3bd838a3699a70215d328",
+      "tags": [
+        ":vulcan:",
+        ":prosper:",
+        ":spock:"
+      ]
+    },
+    "🖖": {
+      "file": "1f596.json",
+      "sha256": "d111551a8368970f749fddf5496eb078d1236d7cc99b22d2cdee3ae119af6caf",
+      "tags": [
+        ":vulcan:",
+        ":prosper:",
+        ":spock:"
+      ]
+    },
+    "🖤": {
+      "file": "1f5a4.json",
+      "sha256": "162a19dcd4bb5afd8c97b1c8223f7d98851ee8080aea84d08732ec9c2dbe1b6c",
+      "tags": [
+        ":black-heart:"
+      ]
+    },
+    "🖨️": {
+      "file": "1f5a8_fe0f.json",
+      "sha256": "a0637e9a0cbd03d4c24890785d7fca219a1b70ff6dc95f8060d4a89b1fbec0f1",
+      "tags": [
+        ":printer:"
+      ]
+    },
+    "🗑️": {
+      "file": "1f5d1_fe0f.json",
+      "sha256": "5fa09b9550f90699a1d10a4301237832697bdf6acd85adc6bd5d2b8d8dde437c",
+      "tags": [
+        ":wastebasket:"
+      ]
+    },
+    "🗣️": {
+      "file": "1f5e3_fe0f.json",
+      "sha256": "37178d7e494ebe4326306186002d39bb00bf8b4a769f4ac3521a14eb9ac5e25a",
+      "tags": [
+        ":speaking-head:"
+      ]
+    },
+    "🗯️": {
+      "file": "1f5ef_fe0f.json",
+      "sha256": "a0775daabe5f18ade17023f2a3e4c8f16bde99069fede83f727c193e98336627",
+      "tags": [
+        ":anger-bubble:"
+      ]
+    },
+    "🗳️": {
+      "file": "1f5f3_fe0f.json",
+      "sha256": "6e59c5f47e4cc4f43cf675c210c9294ad2a979ac446dc95925c8ae711e560fb9",
+      "tags": [
+        ":ballot-box:"
+      ]
+    },
+    "🗿": {
+      "file": "1f5ff.json",
+      "sha256": "a866b7468aa007b4add02bc464fead5c5628321b4c0d425a0fa14cd881791d41",
+      "tags": [
+        ":moai:"
+      ]
+    },
+    "😀": {
+      "file": "1f600.json",
+      "sha256": "3855eabdb0fa0b1d0eddbabe65fc066338118255f61a3f616b647f42944b38f2",
+      "tags": [
+        ":smile:"
+      ]
+    },
+    "😁": {
+      "file": "1f601.json",
+      "sha256": "8697a43a275bfaeb1d7f2b42d6ab06643b279e6c4a8e089ebaceede0fa182566",
+      "tags": [
+        ":grinning:"
+      ]
+    },
+    "😂": {
+      "file": "1f602.json",
+      "sha256": "2dccb7a5325fb16a618961564742db64c0149c346a92a68726a549db56c39332",
+      "tags": [
+        ":joy:"
+      ]
+    },
+    "😃": {
+      "file": "1f603.json",
+      "sha256": "889b85599bca3ee84856ea8db92cc4e57ebf5f201bee0fc0cc1d5e05948d9030",
+      "tags": [
+        ":smile-with-big-eyes:"
+      ]
+    },
+    "😄": {
+      "file": "1f604.json",
+      "sha256": "1ac4a3797740055832f5df9970b404195caf1e24cad3bb06988629d6faf1c89e",
+      "tags": [
+        ":grin:"
+      ]
+    },
+    "😅": {
+      "file": "1f605.json",
+      "sha256": "b4cebd603fd196ba4226b3328160356818435674611505abdb375b4cf30cbaed",
+      "tags": [
+        ":grin-sweat:"
+      ]
+    },
+    "😆": {
+      "file": "1f606.json",
+      "sha256": "2375b1b888985d63ce4b8d239973a1bbc05330bdc7143ae434bf8569fcbe634b",
+      "tags": [
+        ":laughing:"
+      ]
+    },
+    "😇": {
+      "file": "1f607.json",
+      "sha256": "437ce356d127219e56b8b74fd59c2fdef3f9a6a51121358fcfe4a51cb9100681",
+      "tags": [
+        ":halo:",
+        ":innocent:"
+      ]
+    },
+    "😈": {
+      "file": "1f608.json",
+      "sha256": "888f26bc43ac5d89e4f50e3d2edb6a19e7ca529d27972a57aab3ad2cac386b3e",
+      "tags": [
+        ":imp-smile:"
+      ]
+    },
+    "😉": {
+      "file": "1f609.json",
+      "sha256": "8126a029545c6a1cbc1ee8b9c2a5a9419cee776de1deabb9d587684d0fb40f55",
+      "tags": [
+        ":wink:"
+      ]
+    },
+    "😊": {
+      "file": "1f60a.json",
+      "sha256": "2fd74a324e39ae7669939c4b728b54e89e780d116271f572c6a6bb1cc71ffd1f",
+      "tags": [
+        ":blush:"
+      ]
+    },
+    "😋": {
+      "file": "1f60b.json",
+      "sha256": "1a74d0e553d6c93532a62ed15eef613baa200f2d826aee6629b4a3f300064ce7",
+      "tags": [
+        ":yum:"
+      ]
+    },
+    "😌": {
+      "file": "1f60c.json",
+      "sha256": "882e15e01fba68146dcb1c3adce27e2b22be06783ba69e5284c2bc51d4f8e139",
+      "tags": [
+        ":relieved:"
+      ]
+    },
+    "😍": {
+      "file": "1f60d.json",
+      "sha256": "cca05f00996d7ac412451f2a015bbee1f8f2c8c64a4051a66491184f298cc67c",
+      "tags": [
+        ":heart-eyes:"
+      ]
+    },
+    "😎": {
+      "file": "1f60e.json",
+      "sha256": "1d015f907023ef810dcc24e72c5da9008d7440717cae6f29c87b52d9d5369147",
+      "tags": [
+        ":sunglasses-face:"
+      ]
+    },
+    "😏": {
+      "file": "1f60f.json",
+      "sha256": "038fb7ad71734b0f198807d8d029e206b738402d22cb7072319f648e0f127fba",
+      "tags": [
+        ":smirk:"
+      ]
+    },
+    "😐": {
+      "file": "1f610.json",
+      "sha256": "2a42e8e786d7034bc253cf428ab2f2792fd0d86f51c604897fee380ecd9b1f35",
+      "tags": [
+        ":neutral-face:"
+      ]
+    },
+    "😑": {
+      "file": "1f611.json",
+      "sha256": "e8194ecf0b7af77055dd3dfa8b5d07b8be351337801348ab05ecb06338449ed9",
+      "tags": [
+        ":expressionless:"
+      ]
+    },
+    "😒": {
+      "file": "1f612.json",
+      "sha256": "fec507ce326b9e750a757f851c5d76390edc835477414b9dbcf96b9b005af2a4",
+      "tags": [
+        ":unamused:"
+      ]
+    },
+    "😓": {
+      "file": "1f613.json",
+      "sha256": "4912d77bf23bad56ba433b60c8b488312f1d8575fa936601b1274850d869b36a",
+      "tags": [
+        ":sweat:",
+        ":downcast:"
+      ]
+    },
+    "😔": {
+      "file": "1f614.json",
+      "sha256": "bef272c2006d6bf5f9f8f040f58bae8ee0aa2a49fa85ab318088311edbe29822",
+      "tags": [
+        ":pensive:"
+      ]
+    },
+    "😕": {
+      "file": "1f615.json",
+      "sha256": "5ac8bca254a652be674ba47b140c8204b8e13ff3167f8e5dd0c1d24044cebbde",
+      "tags": [
+        ":slightly-frowning:"
+      ]
+    },
+    "😖": {
+      "file": "1f616.json",
+      "sha256": "cc11fccc65cc9c5fb1f96d8ea0dfb2c885e21accd3c8899b1b7493a4d477faca",
+      "tags": [
+        ":scrunched-mouth:",
+        ":confounded:",
+        ":zigzag-mouth:"
+      ]
+    },
+    "😗": {
+      "file": "1f617.json",
+      "sha256": "6e8058d7e38fcf83329e568fe056b6c02370ddbc9715a1cc81224d2dc48d66d8",
+      "tags": [
+        ":kissing:"
+      ]
+    },
+    "😘": {
+      "file": "1f618.json",
+      "sha256": "d4c5f1584f024263553032b36c53bed0188ddd23b006f3749be97853e50c5071",
+      "tags": [
+        ":kissing-heart:"
+      ]
+    },
+    "😚": {
+      "file": "1f61a.json",
+      "sha256": "38cab3e0cb07f64242a4bc840f77cf789dd17102f4b7821b9b06da7565ccb3d8",
+      "tags": [
+        ":kissing-closed-eyes:"
+      ]
+    },
+    "😛": {
+      "file": "1f61b.json",
+      "sha256": "25c09d7355920c61aabb364223979440a4df913a4619fba537e07c3529eb58a1",
+      "tags": [
+        ":stuck-out-tongue:"
+      ]
+    },
+    "😜": {
+      "file": "1f61c.json",
+      "sha256": "681e8680432c2d1df1ecc79a966a9df44e38d44ce17697989eee82a64592d2e7",
+      "tags": [
+        ":winky-tongue:"
+      ]
+    },
+    "😝": {
+      "file": "1f61d.json",
+      "sha256": "847560572553962ecb2412b153e0d67caf1fed39334c3da2dc02d5253086c023",
+      "tags": [
+        ":squinting-tongue:"
+      ]
+    },
+    "😞": {
+      "file": "1f61e.json",
+      "sha256": "69ce92a2fa9c543a47a8b818e4e38365efc2a7658a3165fad6ba4c452e6874fc",
+      "tags": [
+        ":sad:"
+      ]
+    },
+    "😟": {
+      "file": "1f61f.json",
+      "sha256": "a154e6de851a207fa5a3b49b3ce42cf5c876a1743a29c629424b150e7b7a77ba",
+      "tags": [
+        ":worried:"
+      ]
+    },
+    "😠": {
+      "file": "1f620.json",
+      "sha256": "3a239377e7c97f2a4b9adbdff8df36185823e92825b68d45cd22f61fc0048278",
+      "tags": [
+        ":angry:"
+      ]
+    },
+    "😡": {
+      "file": "1f621.json",
+      "sha256": "972509d4845a4cb797b851d4310f0c97fb9729d55a7329b3cdf4315dc1aca818",
+      "tags": [
+        ":rage:"
+      ]
+    },
+    "😢": {
+      "file": "1f622.json",
+      "sha256": "03010e1b6f8cfbebed77a9a93355f72f983628ca0cb611603e44ddd1766ad98a",
+      "tags": [
+        ":cry:"
+      ]
+    },
+    "😣": {
+      "file": "1f623.json",
+      "sha256": "6c3fade9fdc5cfab2376a0c59a87ba969921233f381b4d8e25c11147954d601b",
+      "tags": [
+        ":scrunched-eyes:",
+        ":persevering:"
+      ]
+    },
+    "😤": {
+      "file": "1f624.json",
+      "sha256": "43fbb77cd37648f4bb88431fbcd33e671df2cc22637bc3b5ae538715d29e4a73",
+      "tags": [
+        ":triumph:"
+      ]
+    },
+    "😥": {
+      "file": "1f625.json",
+      "sha256": "28d5399242eccb0cf53cd5905266ca6854e99e4f6984ef0338c679348458943e",
+      "tags": [
+        ":concerned:"
+      ]
+    },
+    "😦": {
+      "file": "1f626.json",
+      "sha256": "7fa599aa4eeb0fbf45149b46c6ac3e8fb2297687ced57909912bd8a2d29cbd83",
+      "tags": [
+        ":gasp:"
+      ]
+    },
+    "😧": {
+      "file": "1f627.json",
+      "sha256": "45ee47d26f6477ba5deb4a9804d4ee2e2e1ee9895371ecd2036e7c4dbcf2a9b6",
+      "tags": [
+        ":anguished:"
+      ]
+    },
+    "😨": {
+      "file": "1f628.json",
+      "sha256": "0ed89701768a5eaae3bc7585bddd978fd41974ab4589792bb3d02ab50fd13e7a",
+      "tags": [
+        ":scared:"
+      ]
+    },
+    "😩": {
+      "file": "1f629.json",
+      "sha256": "cc7c5b09b4d3cd47da2569b1b10e5880bcd76bf4a88b3a53b142a8e2987dabdf",
+      "tags": [
+        ":weary:"
+      ]
+    },
+    "😪": {
+      "file": "1f62a.json",
+      "sha256": "1b697f3a847e5e92737b82c3a0bd27912e7f0a8c5f751ef8d39fa9d09828db91",
+      "tags": [
+        ":sleepy:"
+      ]
+    },
+    "😫": {
+      "file": "1f62b.json",
+      "sha256": "bd39adf2e4baeb4baf03cb076941faccd488e040edc5cf09bba9bba7853411ed",
+      "tags": [
+        ":distraught:"
+      ]
+    },
+    "😬": {
+      "file": "1f62c.json",
+      "sha256": "195dc831a3ce90321860917158c70925efba3704357c119f41863c561c4deba6",
+      "tags": [
+        ":grimacing:"
+      ]
+    },
+    "😭": {
+      "file": "1f62d.json",
+      "sha256": "10487c9a902a64c53b61fa3a966140b9f9d18ee201e5ab60efbe0cec67fa724a",
+      "tags": [
+        ":loudly-crying:"
+      ]
+    },
+    "😮‍💨": {
+      "file": "1f62e_200d_1f4a8.json",
+      "sha256": "f939bba84b6dd2654ca19ab4eedc613cab34a581330b17f445c76562f15a3104",
+      "tags": [
+        ":exhale:"
+      ]
+    },
+    "😮": {
+      "file": "1f62e.json",
+      "sha256": "1a2c043efb9c90a3b020408ba67a915f9218c8a80df814219ab3943e3be88a5f",
+      "tags": [
+        ":mouth-open:"
+      ]
+    },
+    "😯": {
+      "file": "1f62f.json",
+      "sha256": "006c6f2ada466aab053f06526e9a5e57e53cccbb4076684dfeed4e3da05bde05",
+      "tags": [
+        ":surprised:",
+        ":hushed:"
+      ]
+    },
+    "😰": {
+      "file": "1f630.json",
+      "sha256": "a6283e3ce9c41739f51ba7b03bfeff2024892206c92059d03f2747f7800b8b4c",
+      "tags": [
+        ":anxious-with-sweat:"
+      ]
+    },
+    "😱": {
+      "file": "1f631.json",
+      "sha256": "d0d11f864d61e45e4664c917b34d9aa4313bec3dbc27f9995843fbadc5d98ff9",
+      "tags": [
+        ":screaming:"
+      ]
+    },
+    "😲": {
+      "file": "1f632.json",
+      "sha256": "d2e1b43947fbd211a3e434255a2cc02c47559e3e3b5dc28c5a34a711b81127c7",
+      "tags": [
+        ":astonished:"
+      ]
+    },
+    "😳": {
+      "file": "1f633.json",
+      "sha256": "9a5f1fbfdece2f0e334589c889063e4dcb9e98a382839fa3a8e5d637ee2a65d4",
+      "tags": [
+        ":flushed:"
+      ]
+    },
+    "😴": {
+      "file": "1f634.json",
+      "sha256": "2db2d76029d2370993c65148826ed9e8c25f7ef816d898e57c3ff5ba66640856",
+      "tags": [
+        ":sleep:"
+      ]
+    },
+    "😵‍💫": {
+      "file": "1f635_200d_1f4ab.json",
+      "sha256": "2aaeff0096b6be54e4c9d2dc935d3b4484a11e31e14b33457f65172420903697",
+      "tags": [
+        ":dizzy-face:"
+      ]
+    },
+    "😵": {
+      "file": "1f635.json",
+      "sha256": "b99085c35081836042dab83c3029b7cd8819d2ff1c96863da58603bc5b45ca08",
+      "tags": [
+        ":x-eyes:"
+      ]
+    },
+    "😶‍🌫️": {
+      "file": "1f636_200d_1f32b_fe0f.json",
+      "sha256": "46aebe53356b2aa019fe1ea2a6dc7aa1b543d970fdad99b7ef85cf83b1fc8871",
+      "tags": [
+        ":face-in-clouds:",
+        ":lost:"
+      ]
+    },
+    "😶": {
+      "file": "1f636.json",
+      "sha256": "d27b1ae6ccd221b466f0063f516bb899c7eae75eee17cceabadb9335d522eb9b",
+      "tags": [
+        ":mouth-none:"
+      ]
+    },
+    "😷": {
+      "file": "1f637.json",
+      "sha256": "56bb5ff5b49140018a0fc3bcd47aedb88204d97802f9f7895fbf7621f1a76da0",
+      "tags": [
+        ":mask:"
+      ]
+    },
+    "😸": {
+      "file": "1f638.json",
+      "sha256": "2611df4525b46e800bf892da329962c9c1c5d265d7b5e09975027e19fc2c97b1",
+      "tags": [
+        ":smile-cat:"
+      ]
+    },
+    "😹": {
+      "file": "1f639.json",
+      "sha256": "950a719764492bc3d749ad217e1509181e8e6c74a9497dcc972ab1d045b4994b",
+      "tags": [
+        ":joy-cat:"
+      ]
+    },
+    "😺": {
+      "file": "1f63a.json",
+      "sha256": "49db4d0baaf8896e6bcb20d5df4ab501e6454b83e533306ed208f82e5dde51c3",
+      "tags": [
+        ":smiley-cat:"
+      ]
+    },
+    "😻": {
+      "file": "1f63b.json",
+      "sha256": "8b46583dedd083f87f132054e5ae81beeb0aab795ac52b6af1689109a873624f",
+      "tags": [
+        ":heart-eyes-cat:"
+      ]
+    },
+    "😼": {
+      "file": "1f63c.json",
+      "sha256": "361f1b41d91fcaa2c9ba7a5a84e3aa209115fe788224e9bafe8a145f2ea7df59",
+      "tags": [
+        ":smirk-cat:"
+      ]
+    },
+    "😽": {
+      "file": "1f63d.json",
+      "sha256": "dc474fd9f443fc8708c3211de261e9f33f8277744d6e0d1ba87edfff5a7fdbaf",
+      "tags": [
+        ":kissing-cat:"
+      ]
+    },
+    "😾": {
+      "file": "1f63e.json",
+      "sha256": "21b14953cf179dc4de686e43bdd85014bce91f4da06ff3d45e5a90e1ba59d8ff",
+      "tags": [
+        ":pouting-cat:"
+      ]
+    },
+    "😿": {
+      "file": "1f63f.json",
+      "sha256": "f59b628fb805e0f666fda1026cd7cdb08fbe84390327d4c2b8b735e473bfd777",
+      "tags": [
+        ":crying-cat-face:"
+      ]
+    },
+    "🙀": {
+      "file": "1f640.json",
+      "sha256": "19e8e9caaccfe95a44dc3dd03f133a83b1c868515121677c804f5a529c0ed53f",
+      "tags": [
+        ":scream-cat:"
+      ]
+    },
+    "🙁": {
+      "file": "1f641.json",
+      "sha256": "25fa6e33d4b8f560fabe6f34727ff0bd9567d57454f3e83132bd892f575363d0",
+      "tags": [
+        ":frown:"
+      ]
+    },
+    "🙂‍↔️": {
+      "file": "1f642_200d_2194_fe0f.json",
+      "sha256": "3569c15f4b7bd3b4f716698226f932c4ca66021136a2e8e10201840bdf43b484",
+      "tags": [
+        ":head-shake:"
+      ]
+    },
+    "🙂‍↕️": {
+      "file": "1f642_200d_2195_fe0f.json",
+      "sha256": "9d17a91a936b9e320f80ce993b57d21aafaf0c06b1925d596c9aee96770a6f74",
+      "tags": [
+        ":head-nod:"
+      ]
+    },
+    "🙂": {
+      "file": "1f642.json",
+      "sha256": "3720f2c59687b56366c3a34a0672b49f086c57ba7bfaa514919bbaf6897020bb",
+      "tags": [
+        ":slightly-happy:"
+      ]
+    },
+    "🙃": {
+      "file": "1f643.json",
+      "sha256": "7bebdfc67b5d6b5f0f1698cec01e6d2547e57880acc6626740b74da01ffa9dd7",
+      "tags": [
+        ":upside-down-face:"
+      ]
+    },
+    "🙄": {
+      "file": "1f644.json",
+      "sha256": "0c7ce802e775c0335e18e9cfc50862d50d03d489d171ea0f3e8ae9d5a7eda3f7",
+      "tags": [
+        ":rolling-eyes:"
+      ]
+    },
+    "🙈": {
+      "file": "1f648.json",
+      "sha256": "7100cb5e28bd5242d84740f6461d95973c36b221192a1469e5e6e4e1fa54a584",
+      "tags": [
+        ":see-no-evil-monkey:"
+      ]
+    },
+    "🙉": {
+      "file": "1f649.json",
+      "sha256": "3cd2ccdf7e9e91a0aebeba31975ba4a964f9ee063127be5dd1e847b83bd7dcdd",
+      "tags": [
+        ":hear-no-evil-monkey:"
+      ]
+    },
+    "🙊": {
+      "file": "1f64a.json",
+      "sha256": "29289275e187a91e52f83477e223261d6825f087ddfa94636f0b78c49a5d8ad3",
+      "tags": [
+        ":speak-no-evil-monkey:"
+      ]
+    },
+    "🙌🏻": {
+      "file": "1f64c_1f3fb.json",
+      "sha256": "ebeefd47fbc710cbd24cbccd9bc50878d7aaf303be50a041280839bf75b8c82f",
+      "tags": [
+        ":raising-hands:",
+        ":hooray:"
+      ]
+    },
+    "🙌🏼": {
+      "file": "1f64c_1f3fc.json",
+      "sha256": "7cc71511ff5686e94eaa18ef8641632fb4fc8b259da3318635df19cc2f42a941",
+      "tags": [
+        ":raising-hands:",
+        ":hooray:"
+      ]
+    },
+    "🙌🏽": {
+      "file": "1f64c_1f3fd.json",
+      "sha256": "df12c0f77ee9a28be8d896c184dbbddbda9bce598215774767a72b09fc701007",
+      "tags": [
+        ":raising-hands:",
+        ":hooray:"
+      ]
+    },
+    "🙌🏾": {
+      "file": "1f64c_1f3fe.json",
+      "sha256": "bce2f07b336c77dde4b689f42627e0dd6172599d8f023643b5063efc480769b6",
+      "tags": [
+        ":raising-hands:",
+        ":hooray:"
+      ]
+    },
+    "🙌🏿": {
+      "file": "1f64c_1f3ff.json",
+      "sha256": "2d5b4e36a5986a6180fbc271360fe195a5ce78b18955803447a3de040f91f9c7",
+      "tags": [
+        ":raising-hands:",
+        ":hooray:"
+      ]
+    },
+    "🙌": {
+      "file": "1f64c.json",
+      "sha256": "a9ae32d248a89dc33c07b080d9b91fcc4fc5374f4a5c74583dc855daeb78306f",
+      "tags": [
+        ":raising-hands:",
+        ":hooray:"
+      ]
+    },
+    "🙏🏻": {
+      "file": "1f64f_1f3fb.json",
+      "sha256": "0c5db73fcecf554d30545a6afa6dafbf78d7320fe5520f66e75c6c748bf23175",
+      "tags": [
+        ":folded-hands:",
+        ":please:",
+        ":pray:",
+        ":hope:",
+        ":wish:",
+        ":thank-you:",
+        ":high-five:"
+      ]
+    },
+    "🙏🏼": {
+      "file": "1f64f_1f3fc.json",
+      "sha256": "832932097eeac38416ad41707a0b3433a07df3b4c783a39982609264b57bf350",
+      "tags": [
+        ":folded-hands:",
+        ":please:",
+        ":pray:",
+        ":hope:",
+        ":wish:",
+        ":thank-you:",
+        ":high-five:"
+      ]
+    },
+    "🙏🏽": {
+      "file": "1f64f_1f3fd.json",
+      "sha256": "2a2d1187740c522f47c94446a39c94c5446f2bd5afb20762871b405f120b55b6",
+      "tags": [
+        ":folded-hands:",
+        ":please:",
+        ":pray:",
+        ":hope:",
+        ":wish:",
+        ":thank-you:",
+        ":high-five:"
+      ]
+    },
+    "🙏🏾": {
+      "file": "1f64f_1f3fe.json",
+      "sha256": "9c0f8b431bc4abfb280a1bec702df39460d247f9be9c1f8a14857a64fe47a93a",
+      "tags": [
+        ":folded-hands:",
+        ":please:",
+        ":pray:",
+        ":hope:",
+        ":wish:",
+        ":thank-you:",
+        ":high-five:"
+      ]
+    },
+    "🙏🏿": {
+      "file": "1f64f_1f3ff.json",
+      "sha256": "9a980d6abe0e7fb3752ac532deebaf0f060c66e78de406f22d302c045cd08383",
+      "tags": [
+        ":folded-hands:",
+        ":please:",
+        ":pray:",
+        ":hope:",
+        ":wish:",
+        ":thank-you:",
+        ":high-five:"
+      ]
+    },
+    "🙏": {
+      "file": "1f64f.json",
+      "sha256": "ef7032e27b5ea60884208205cab859b8053efdabae4afe0400e76814721b0ccf",
+      "tags": [
+        ":folded-hands:",
+        ":please:",
+        ":pray:",
+        ":hope:",
+        ":wish:",
+        ":thank-you:",
+        ":high-five:"
+      ]
+    },
+    "🚀": {
+      "file": "1f680.json",
+      "sha256": "4d82feba51348aa81f2f3b67743477934db28f04b020b76e15496e69f336fa4c",
+      "tags": [
+        ":rocket:"
+      ]
+    },
+    "🚂": {
+      "file": "1f682.json",
+      "sha256": "e8b4373db32b4aff9960982a6f8673eea966a3b6620ccaa59ac5b9daae0310ab",
+      "tags": [
+        ":locomotive:"
+      ]
+    },
+    "🚌": {
+      "file": "1f68c.json",
+      "sha256": "85183883463a6e5bf083df9bbab4d9cc420a2dee8a0780bbc0ea50f96023a3b2",
+      "tags": [
+        ":bus:"
+      ]
+    },
+    "🚕": {
+      "file": "1f695.json",
+      "sha256": "b47c6f164a56c04ed1e90a09900dbcecc31a28c098b77e91c77a86fd11d628cd",
+      "tags": [
+        ":taxi:"
+      ]
+    },
+    "🚗": {
+      "file": "1f697.json",
+      "sha256": "67d7063578b76edcd8596d73b27f5d3ccc2281f48ad72fac9d42ec2774a96b66",
+      "tags": [
+        ":automobile:"
+      ]
+    },
+    "🚚": {
+      "file": "1f69a.json",
+      "sha256": "6ef49487e25789d74cffae20046d0aae1d04bc2bdfac2703dc3699dc352b0c39",
+      "tags": [
+        ":delivery-truck:"
+      ]
+    },
+    "🚜": {
+      "file": "1f69c.json",
+      "sha256": "16ea491be5a95c0fa697b5ceb25e48ce3a59306bc65e99e3db0137051e78c87f",
+      "tags": [
+        ":tractor:"
+      ]
+    },
+    "🚦": {
+      "file": "1f6a6.json",
+      "sha256": "6b1b7007f760a4418c4a076cf20cbbc9e22e48e30c3a43f481b42945767bafb5",
+      "tags": [
+        ":vertical-traffic-light:"
+      ]
+    },
+    "🚧": {
+      "file": "1f6a7.json",
+      "sha256": "deba37acead874184359f6d7619c3cb61a375cc232f03aacf1c5edc06afe9aea",
+      "tags": [
+        ":construction:"
+      ]
+    },
+    "🚨": {
+      "file": "1f6a8.json",
+      "sha256": "5dcd2180333891864718fb69b9091f66a32fb82bc21883dbc92f322bf299889f",
+      "tags": [
+        ":police-car-light:"
+      ]
+    },
+    "🚩": {
+      "file": "1f6a9.json",
+      "sha256": "a4ea25cb46ca548a8eacf789ff7125602c94c4f246c89d09ca479bab8dc890b2",
+      "tags": [
+        ":triangular-flag:"
+      ]
+    },
+    "🚮": {
+      "file": "1f6ae.json",
+      "sha256": "206cae27efe8bef347ee67fdede31b0f042ba6732fdeae3b0e27fd18a5402386",
+      "tags": [
+        ":litter:"
+      ]
+    },
+    "🚲": {
+      "file": "1f6b2.json",
+      "sha256": "df864ebcbb52f1b6fbae8be7dfbd407a92f088ad2b43634b571cbe0c25f910c8",
+      "tags": [
+        ":bicycle:"
+      ]
+    },
+    "🛎️": {
+      "file": "1f6ce_fe0f.json",
+      "sha256": "95d9224eb31a6fcc9f93224864cbd6940b7ed195db233dd7f01b9376101968a1",
+      "tags": [
+        ":bellhop-bell:"
+      ]
+    },
+    "🛑": {
+      "file": "1f6d1.json",
+      "sha256": "593f0bd64440422f3b3a3a1a99e598ca4852b613b8f9f5fb125a47b6b1282066",
+      "tags": [
+        ":stop-sign:"
+      ]
+    },
+    "🛒": {
+      "file": "1f6d2.json",
+      "sha256": "be7c0b065ad1f58246180c91a1cd3403bc55e832abe2e025f454b0aa52638bcf",
+      "tags": [
+        ":shopping-cart:"
+      ]
+    },
+    "🛘": {
+      "file": "1f6d8.json",
+      "sha256": "6affb40b78a5b9dd32369d81bfb341b1327c0dcb27b44947305efc9ba912e367",
+      "tags": [
+        ":debris:",
+        ":landslide:"
+      ]
+    },
+    "🛟": {
+      "file": "1f6df.json",
+      "sha256": "95b99537415b6decf6894f6ef4da2ab3533ea61b39b1d9a45b2cce8668f56790",
+      "tags": [
+        ":ring-buoy:"
+      ]
+    },
+    "🛠️": {
+      "file": "1f6e0_fe0f.json",
+      "sha256": "bc3f198c0c5e2ec269fadcb2d68873c6636e2df7a2ad428f58069735b9b4c4ed",
+      "tags": [
+        ":hammer-and-wrench:"
+      ]
+    },
+    "🛫": {
+      "file": "1f6eb.json",
+      "sha256": "03067b4bbf6c96d31fc287dccbe3a47646b6df8f28956b6f5158c397246f7e18",
+      "tags": [
+        ":airplane-departure:"
+      ]
+    },
+    "🛬": {
+      "file": "1f6ec.json",
+      "sha256": "80f6e810ee0cf6a64e739c129a888b30a5105cb8207fea2eb5bd9b04291eb58c",
+      "tags": [
+        ":airplane-arrival:"
+      ]
+    },
+    "🛶": {
+      "file": "1f6f6.json",
+      "sha256": "5b0d71d03e218759d0430ec4e61cf1479e42079afa41be263af161b06a219193",
+      "tags": [
+        ":canoe:"
+      ]
+    },
+    "🛸": {
+      "file": "1f6f8.json",
+      "sha256": "36707729bf0a8efd171f6703c624a068eb651df9b2a0e089ddcd44e64f03d255",
+      "tags": [
+        ":flying-saucer:"
+      ]
+    },
+    "🛹": {
+      "file": "1f6f9.json",
+      "sha256": "558f3c2c2c43fd74e5d7de754dd47e33dbd7d326e6972a235c6eaf3212eaded5",
+      "tags": [
+        ":skateboard:"
+      ]
+    },
+    "🛼": {
+      "file": "1f6fc.json",
+      "sha256": "3bb2f764f1fc1cfcb3d7b3b0611058d5ef7dc2ac722dd1a8bd3d5c8603ffbb59",
+      "tags": [
+        ":roller-skates:"
+      ]
+    },
+    "🤍": {
+      "file": "1f90d.json",
+      "sha256": "6c668f24aa6e4cf17f3a2da1b88e590fe23d75d10e837250ebe574e886e1e5f1",
+      "tags": [
+        ":white-heart:"
+      ]
+    },
+    "🤎": {
+      "file": "1f90e.json",
+      "sha256": "a892fbf160451fffb8ffdf4f3b0bc9c2620042166ae656d39f82e30db14d30e0",
+      "tags": [
+        ":brown-heart:"
+      ]
+    },
+    "🤏🏻": {
+      "file": "1f90f_1f3fb.json",
+      "sha256": "d3a5ee59fc52a812e6b59bf62a4802b600c8e736d84eef702b80fec3ca3429fe",
+      "tags": [
+        ":pinch:"
+      ]
+    },
+    "🤏🏼": {
+      "file": "1f90f_1f3fc.json",
+      "sha256": "5498361e903761234d78898b02ecc9e1d01a9e216f951247949d3daf8fb1c60f",
+      "tags": [
+        ":pinch:"
+      ]
+    },
+    "🤏🏽": {
+      "file": "1f90f_1f3fd.json",
+      "sha256": "22856988476228083e0749d36c3c74628794c6e9df32921464754cc0594d16cd",
+      "tags": [
+        ":pinch:"
+      ]
+    },
+    "🤏🏾": {
+      "file": "1f90f_1f3fe.json",
+      "sha256": "7bdb82db27ddb6a91e21eea3eb48235e19e352cb42521c883fd4500f51d95d2a",
+      "tags": [
+        ":pinch:"
+      ]
+    },
+    "🤏🏿": {
+      "file": "1f90f_1f3ff.json",
+      "sha256": "ab0ad19eb36c21a97c40f46e0a11bf6156541cb4662a4d40c9b48d9a4bba6321",
+      "tags": [
+        ":pinch:"
+      ]
+    },
+    "🤏": {
+      "file": "1f90f.json",
+      "sha256": "639a922697aabf35a7ec3b8687ba1e5eeac3088a1e59695c2dac8021042723df",
+      "tags": [
+        ":pinch:"
+      ]
+    },
+    "🤐": {
+      "file": "1f910.json",
+      "sha256": "5fbd81f684ca5de9a4c9bea49a9d3cd4f04ec037a0f584eb797af00f63f4025c",
+      "tags": [
+        ":zipper-face:"
+      ]
+    },
+    "🤑": {
+      "file": "1f911.json",
+      "sha256": "75e9ce534faa981fa7b41176236c0edb272109a4eae54a0a6f3cb6257253d6e5",
+      "tags": [
+        ":money-face:"
+      ]
+    },
+    "🤒": {
+      "file": "1f912.json",
+      "sha256": "7154b534f138f82894bdc154a14978ac11f68e42ac3aeff5d6f0f0e17c5c4443",
+      "tags": [
+        ":thermometer-face:"
+      ]
+    },
+    "🤓": {
+      "file": "1f913.json",
+      "sha256": "fa0d4dafe7c0eee3d85b4296ed72778dc90b2fc276c1015d3f53b1087181bf44",
+      "tags": [
+        ":nerd-face:"
+      ]
+    },
+    "🤔": {
+      "file": "1f914.json",
+      "sha256": "684cc02ee8ec7f2d1f274ec73d4cd31fa91ed946d156939caabf01572d5cd8b7",
+      "tags": [
+        ":thinking-face:"
+      ]
+    },
+    "🤕": {
+      "file": "1f915.json",
+      "sha256": "f55d27a254a5a640a72e776eec9b062893f029a250960ceded8107590bb2cc9d",
+      "tags": [
+        ":bandage-face:"
+      ]
+    },
+    "🤗": {
+      "file": "1f917.json",
+      "sha256": "612cc835998a818b87084e2d9ca1cb48796059bd27c807eab51195d6dd6efe64",
+      "tags": [
+        ":hug-face:"
+      ]
+    },
+    "🤘🏻": {
+      "file": "1f918_1f3fb.json",
+      "sha256": "23a86bf08fc73c94a2e68367fa48901772c7abc1421a96e71577dc98143f772d",
+      "tags": [
+        ":metal:",
+        ":horns:"
+      ]
+    },
+    "🤘🏼": {
+      "file": "1f918_1f3fc.json",
+      "sha256": "74da39949262a209dbbae60cb6556bfbe2e418ab2616828e2cdc6f889af74409",
+      "tags": [
+        ":metal:",
+        ":horns:"
+      ]
+    },
+    "🤘🏽": {
+      "file": "1f918_1f3fd.json",
+      "sha256": "99018b977a3ce4eebc3435a425f0c6d306094d81ed607174176c6b3da873854f",
+      "tags": [
+        ":metal:",
+        ":horns:"
+      ]
+    },
+    "🤘🏾": {
+      "file": "1f918_1f3fe.json",
+      "sha256": "55f1769b9d098fe07d0acea252b09c03d528955cf5ca30e1e902f356dd980cfb",
+      "tags": [
+        ":metal:",
+        ":horns:"
+      ]
+    },
+    "🤘🏿": {
+      "file": "1f918_1f3ff.json",
+      "sha256": "3480af05f864f1bbec6bbfbb467510442fadc10405093977f050b9ad3a695b89",
+      "tags": [
+        ":metal:",
+        ":horns:"
+      ]
+    },
+    "🤘": {
+      "file": "1f918.json",
+      "sha256": "e6b8445babe321b77714fb4a33de477cff0396f6c0cc47dff31319bf5dc43e88",
+      "tags": [
+        ":metal:",
+        ":horns:"
+      ]
+    },
+    "🤙🏻": {
+      "file": "1f919_1f3fb.json",
+      "sha256": "6b3ca538b3a6e6e93d46e711de5099408e3bf3f47313098963b5ca505d8fc1e2",
+      "tags": [
+        ":call-me-hand:"
+      ]
+    },
+    "🤙🏼": {
+      "file": "1f919_1f3fc.json",
+      "sha256": "4ebb7c61cc1480f98e61e03fa5babd0cb01b5dc56885506d32a62aa84a938c6f",
+      "tags": [
+        ":call-me-hand:"
+      ]
+    },
+    "🤙🏽": {
+      "file": "1f919_1f3fd.json",
+      "sha256": "40a3475476f1367903a3bc5612b19ecc023bd7e801417c0bc89868954c3a10c6",
+      "tags": [
+        ":call-me-hand:"
+      ]
+    },
+    "🤙🏾": {
+      "file": "1f919_1f3fe.json",
+      "sha256": "21a0c4c9572b4b86d915057d57cb33173c2a7f91698d79b48b78694c1a5ccb3f",
+      "tags": [
+        ":call-me-hand:"
+      ]
+    },
+    "🤙🏿": {
+      "file": "1f919_1f3ff.json",
+      "sha256": "13921d70fb7a5f62a2207418655877a406c15153b0acfb4fa10e0ae159ddf52b",
+      "tags": [
+        ":call-me-hand:"
+      ]
+    },
+    "🤙": {
+      "file": "1f919.json",
+      "sha256": "ef799d69721d239f707120cdd725f473feb015bfde81a9f3b975dbcc80077d0b",
+      "tags": [
+        ":call-me-hand:"
+      ]
+    },
+    "🤚🏻": {
+      "file": "1f91a_1f3fb.json",
+      "sha256": "a58e22c8987c928cb004a97afec6dee642459c87132681a4dc6e93da12a9c13c",
+      "tags": [
+        ":back-hand:"
+      ]
+    },
+    "🤚🏼": {
+      "file": "1f91a_1f3fc.json",
+      "sha256": "2fe32528afe1ba9aca9e8e03f1bbf888f0635f6d19434294904a435ce81b8832",
+      "tags": [
+        ":back-hand:"
+      ]
+    },
+    "🤚🏽": {
+      "file": "1f91a_1f3fd.json",
+      "sha256": "547511a0057b182748b86ef594426e378a9d41dbdf20ee38b1fdfb170800f231",
+      "tags": [
+        ":back-hand:"
+      ]
+    },
+    "🤚🏾": {
+      "file": "1f91a_1f3fe.json",
+      "sha256": "2115abf9ba447385fbc5ec501e651018d529f4604c095d12905eb00fa4899ff3",
+      "tags": [
+        ":back-hand:"
+      ]
+    },
+    "🤚🏿": {
+      "file": "1f91a_1f3ff.json",
+      "sha256": "8de82562302d68b2e8d00a673b41eda3b0677c67e3e616f4cbd8b9268584819c",
+      "tags": [
+        ":back-hand:"
+      ]
+    },
+    "🤚": {
+      "file": "1f91a.json",
+      "sha256": "21ab7553be2dad970e742996388fccaa870fce4a0be18c3ddc00e75fa0164a5d",
+      "tags": [
+        ":back-hand:"
+      ]
+    },
+    "🤛🏻": {
+      "file": "1f91b_1f3fb.json",
+      "sha256": "8d3f7326398a0b27200fb241bc329942a43703cb76269578f3c497e007b9f3d2",
+      "tags": [
+        ":fist-leftwards:"
+      ]
+    },
+    "🤛🏼": {
+      "file": "1f91b_1f3fc.json",
+      "sha256": "3f0c17134594e23935331e2aeb11d0a7afb4e38cedaddc05163c528f45545bfc",
+      "tags": [
+        ":fist-leftwards:"
+      ]
+    },
+    "🤛🏽": {
+      "file": "1f91b_1f3fd.json",
+      "sha256": "6fbd9089ca3fc9503251257ddf0ff54ac4f6667b54acee5384adad90651ce561",
+      "tags": [
+        ":fist-leftwards:"
+      ]
+    },
+    "🤛🏾": {
+      "file": "1f91b_1f3fe.json",
+      "sha256": "e92ec9549fe8f912f0f3be5a5b108e2c9a999d75776d6b57c65cb4681fe5b3c5",
+      "tags": [
+        ":fist-leftwards:"
+      ]
+    },
+    "🤛🏿": {
+      "file": "1f91b_1f3ff.json",
+      "sha256": "cc13a3df5707b64a87a51d97b586fa4dcc600d28c8b804dd2b7616be8dbfe8d3",
+      "tags": [
+        ":fist-leftwards:"
+      ]
+    },
+    "🤛": {
+      "file": "1f91b.json",
+      "sha256": "bf13c1dc5a65308ccda174f13b7ad579c0d22cd582a782ec684ece600b5ca7f4",
+      "tags": [
+        ":fist-leftwards:"
+      ]
+    },
+    "🤜🏻": {
+      "file": "1f91c_1f3fb.json",
+      "sha256": "19185937cba099c24d520792294797d36a00d8b3c0619899f8554ce5285ec0c9",
+      "tags": [
+        ":fist-rightwards:"
+      ]
+    },
+    "🤜🏼": {
+      "file": "1f91c_1f3fc.json",
+      "sha256": "4e82870081e02bd6db25d653b0a28579d9b34309629822e2d58f7ce315fa20c5",
+      "tags": [
+        ":fist-rightwards:"
+      ]
+    },
+    "🤜🏽": {
+      "file": "1f91c_1f3fd.json",
+      "sha256": "9c31af4eae0402a934908a89fdff6d9605b8806fc8850525ec7cd5640509b4a7",
+      "tags": [
+        ":fist-rightwards:"
+      ]
+    },
+    "🤜🏾": {
+      "file": "1f91c_1f3fe.json",
+      "sha256": "52b9333be63686a311e650644b306eb6ddda2336d84704683f18fe512d0e62d6",
+      "tags": [
+        ":fist-rightwards:"
+      ]
+    },
+    "🤜🏿": {
+      "file": "1f91c_1f3ff.json",
+      "sha256": "4706afbff9d6e220089e8e3c05563f05f05f003d635ff5282151c1ba981e0e80",
+      "tags": [
+        ":fist-rightwards:"
+      ]
+    },
+    "🤜": {
+      "file": "1f91c.json",
+      "sha256": "25c61bcd03afd8868a67bcc03dc0e5aea3ddd4a5812b1e5225128a9aee76c4ee",
+      "tags": [
+        ":fist-rightwards:"
+      ]
+    },
+    "🤝🏻": {
+      "file": "1f91d_1f3fb.json",
+      "sha256": "b384a7d13840ecab1475db89190de4e602b68e5b7eeb39846a736c3e48eeb90a",
+      "tags": [
+        ":handshake:"
+      ]
+    },
+    "🤝🏼": {
+      "file": "1f91d_1f3fc.json",
+      "sha256": "7c9255ea0d6c69e0d820dccb6dc5d0ab993f22fe3ff9850302398194475cb3a9",
+      "tags": [
+        ":handshake:"
+      ]
+    },
+    "🤝🏽": {
+      "file": "1f91d_1f3fd.json",
+      "sha256": "298f282ef3c3cd1bf149133db41c373417ba12d6a1ed85e04e08fb775e0a7abe",
+      "tags": [
+        ":handshake:"
+      ]
+    },
+    "🤝🏾": {
+      "file": "1f91d_1f3fe.json",
+      "sha256": "f7f98986df5765616314b4a2fb7e3b9b5fa1e39b3ef36511c97db2496381c5f5",
+      "tags": [
+        ":handshake:"
+      ]
+    },
+    "🤝🏿": {
+      "file": "1f91d_1f3ff.json",
+      "sha256": "404443f661a455cdbd4689a1eebcd2d38fe15cb2af59ae00582310a6769e83cc",
+      "tags": [
+        ":handshake:"
+      ]
+    },
+    "🤝": {
+      "file": "1f91d.json",
+      "sha256": "220e8d866eaf508b20533bccd9a3653a0a866fdf8aa42cf714499c0851e88409",
+      "tags": [
+        ":handshake:"
+      ]
+    },
+    "🤞🏻": {
+      "file": "1f91e_1f3fb.json",
+      "sha256": "87c8ac677b4ceb6b9a1acaa431dc23a781f7f779a3ebce9d0aa09d99165f2f05",
+      "tags": [
+        ":crossed-fingers:"
+      ]
+    },
+    "🤞🏼": {
+      "file": "1f91e_1f3fc.json",
+      "sha256": "44cdcfed3b0012439f57247e4e4b9c1ada6b6081fa4ea5d84e9bde69d90bbd73",
+      "tags": [
+        ":crossed-fingers:"
+      ]
+    },
+    "🤞🏽": {
+      "file": "1f91e_1f3fd.json",
+      "sha256": "8ee8d5855816de85f10f12f531249af7e382ed50c51cdb957c05f58c99aa7e36",
+      "tags": [
+        ":crossed-fingers:"
+      ]
+    },
+    "🤞🏾": {
+      "file": "1f91e_1f3fe.json",
+      "sha256": "e9928ac76d413e0bc9740c7e38a7ad1d14a822e477a76cb0a3b8c59ed2ba2938",
+      "tags": [
+        ":crossed-fingers:"
+      ]
+    },
+    "🤞🏿": {
+      "file": "1f91e_1f3ff.json",
+      "sha256": "a65ad3f675b72d591aa5ec18ba39f732e5c2791020d4e5a178ed6138e875ba87",
+      "tags": [
+        ":crossed-fingers:"
+      ]
+    },
+    "🤞": {
+      "file": "1f91e.json",
+      "sha256": "dadd8224e1850ae71edd154716a3aeeb0c7a24ae0a740dc4db2b8410f9c83272",
+      "tags": [
+        ":crossed-fingers:"
+      ]
+    },
+    "🤟🏻": {
+      "file": "1f91f_1f3fb.json",
+      "sha256": "30ffdadfef71b7237aa4d8573b04c028282d2f3369f707639a52c77ee71ed5a6",
+      "tags": [
+        ":love-you-gesture:"
+      ]
+    },
+    "🤟🏼": {
+      "file": "1f91f_1f3fc.json",
+      "sha256": "46fd33634c349e1c19fcc5bdcacfcc33c98b0959c8234a879f4eff4b580b855e",
+      "tags": [
+        ":love-you-gesture:"
+      ]
+    },
+    "🤟🏽": {
+      "file": "1f91f_1f3fd.json",
+      "sha256": "db2af72fc645a8cc063fcf10306fb198da44ef8e9ba39d7e78d3e07e7ede8502",
+      "tags": [
+        ":love-you-gesture:"
+      ]
+    },
+    "🤟🏾": {
+      "file": "1f91f_1f3fe.json",
+      "sha256": "a752a6d9b2b72b73a528b13423f19f5694b50c68f77aad81e48231a13e244c7e",
+      "tags": [
+        ":love-you-gesture:"
+      ]
+    },
+    "🤟🏿": {
+      "file": "1f91f_1f3ff.json",
+      "sha256": "057dfbb5ee9593a3e3f62880cbd5ec811a81fe08fcbf41c7f70b664e4f7fdb94",
+      "tags": [
+        ":love-you-gesture:"
+      ]
+    },
+    "🤟": {
+      "file": "1f91f.json",
+      "sha256": "da2e221a9a160b16fec171692b9e4cc5b3235dd5b2cc86f8936d5ec1076d4f39",
+      "tags": [
+        ":love-you-gesture:"
+      ]
+    },
+    "🤠": {
+      "file": "1f920.json",
+      "sha256": "87b93f4043e74123721d0891c36798064fa820aaf0a5ac99d7b50d55b998772f",
+      "tags": [
+        ":cowboy:"
+      ]
+    },
+    "🤡": {
+      "file": "1f921.json",
+      "sha256": "dbc9fa032da847952a64594a906fb1aa21dd344d6e6d77333543d5de17598a8f",
+      "tags": [
+        ":clown:"
+      ]
+    },
+    "🤢": {
+      "file": "1f922.json",
+      "sha256": "8f61d370f1d2796dcd2b7652148e894b6c20478ef364317500d3a663caa5e0ae",
+      "tags": [
+        ":sick:",
+        ":nauseated:"
+      ]
+    },
+    "🤣": {
+      "file": "1f923.json",
+      "sha256": "c87345fbbe6de5fec4bb0c1f38312cab73263507f880af370b4f2d14203934a0",
+      "tags": [
+        ":rofl:"
+      ]
+    },
+    "🤤": {
+      "file": "1f924.json",
+      "sha256": "8e1551afd626384285a8123ac0812f7b7fc063d839606213a95b45183dea6bf3",
+      "tags": [
+        ":drool:"
+      ]
+    },
+    "🤥": {
+      "file": "1f925.json",
+      "sha256": "555536682d0fecabaf2f56748879a622029f91e8d937f463d254d05d43598985",
+      "tags": [
+        ":liar:"
+      ]
+    },
+    "🤧": {
+      "file": "1f927.json",
+      "sha256": "c6d729408b49624c0fbee6f69a555f3a30d77ab154e4167295a025f144296ab8",
+      "tags": [
+        ":sneeze:"
+      ]
+    },
+    "🤨": {
+      "file": "1f928.json",
+      "sha256": "b544cf0f6e08722c86f59edab2c65fa7b75d3f6016b0f076488ae02037b97486",
+      "tags": [
+        ":raised-eyebrow:"
+      ]
+    },
+    "🤩": {
+      "file": "1f929.json",
+      "sha256": "6d336fe0df2db8ece8a13d304a96b8bd9e40383b73eb7f4bfaf50716922b26c5",
+      "tags": [
+        ":star-struck:"
+      ]
+    },
+    "🤪": {
+      "file": "1f92a.json",
+      "sha256": "5894a811ee5b410a660747541969af6bf51c2f120b555fc19c585a57c2f6a332",
+      "tags": [
+        ":zany-face:"
+      ]
+    },
+    "🤫": {
+      "file": "1f92b.json",
+      "sha256": "67b07e92a1b00917d7938b87893094a66c29f8cdf1b64c943015f935d92ff9fb",
+      "tags": [
+        ":shushing-face:"
+      ]
+    },
+    "🤬": {
+      "file": "1f92c.json",
+      "sha256": "ee5d282d6111bbbe06e3407fa5e18a71d2d65be0f033b8cf9cc044b1637704a8",
+      "tags": [
+        ":cursing:"
+      ]
+    },
+    "🤭": {
+      "file": "1f92d.json",
+      "sha256": "e0d5a1ba4cc758d6097af20ca7de8080703f51058e642471a1708b214a5f3a9b",
+      "tags": [
+        ":smiling-eyes-with-hand-over-mouth:",
+        ":chuckling:"
+      ]
+    },
+    "🤮": {
+      "file": "1f92e.json",
+      "sha256": "3cea69bdc3d7ebbcd75875761c253f29028d1eedf898afa819fb30556f67a8f3",
+      "tags": [
+        ":vomit:"
+      ]
+    },
+    "🤯": {
+      "file": "1f92f.json",
+      "sha256": "95ae4109bc95dc923beab38a58ad4a5a91e732478b171278d59cf764a4f72e0f",
+      "tags": [
+        ":mind-blown:",
+        ":exploding-head:"
+      ]
+    },
+    "🤲🏻": {
+      "file": "1f932_1f3fb.json",
+      "sha256": "12e3f15217379976d2e020471bd50bb89c64ff1e960c65b2f546a81346d5bd2b",
+      "tags": [
+        ":palms-up:"
+      ]
+    },
+    "🤲🏼": {
+      "file": "1f932_1f3fc.json",
+      "sha256": "d3471aa72c2a51c7ae8b1f407bafa8e8882e51fa93ae6fba0de32a5692b3a6c5",
+      "tags": [
+        ":palms-up:"
+      ]
+    },
+    "🤲🏽": {
+      "file": "1f932_1f3fd.json",
+      "sha256": "c860896bdceac81559e804629c419f3f7811a18218df5199875944f105c96a79",
+      "tags": [
+        ":palms-up:"
+      ]
+    },
+    "🤲🏾": {
+      "file": "1f932_1f3fe.json",
+      "sha256": "aafd37d7e56a5c8a435fdae91dac29536b425197dcbcae57e4c9213e7b5912fe",
+      "tags": [
+        ":palms-up:"
+      ]
+    },
+    "🤲🏿": {
+      "file": "1f932_1f3ff.json",
+      "sha256": "290bb7a64af5dd626ad605794d0dc25992d4cfa89140f9cc49189cbbb1234b4c",
+      "tags": [
+        ":palms-up:"
+      ]
+    },
+    "🤲": {
+      "file": "1f932.json",
+      "sha256": "a4b22e1d37863db4beedb3de12166a1cf1ebb734d60beae3d83d104e4de24398",
+      "tags": [
+        ":palms-up:"
+      ]
+    },
+    "🤳🏻": {
+      "file": "1f933_1f3fb.json",
+      "sha256": "478ce33a0e159dabc6896cc10ff4d5c5e1f899404b1fdc5f71f742cf8897cff7",
+      "tags": [
+        ":selfie:"
+      ]
+    },
+    "🤳🏼": {
+      "file": "1f933_1f3fc.json",
+      "sha256": "6d3e99cc62e0bbb32404465f3309e07b35aa9d3a6137f76411d6a11b1fe5752d",
+      "tags": [
+        ":selfie:"
+      ]
+    },
+    "🤳🏽": {
+      "file": "1f933_1f3fd.json",
+      "sha256": "adffd75b1880cd1caf39dd49aafb3aec849c7524a9c01148186cb3f3d4447927",
+      "tags": [
+        ":selfie:"
+      ]
+    },
+    "🤳🏾": {
+      "file": "1f933_1f3fe.json",
+      "sha256": "f3c19ffd094c9351f7fb65c11decaa20fceb7b908cb200a373c13336634226b3",
+      "tags": [
+        ":selfie:"
+      ]
+    },
+    "🤳🏿": {
+      "file": "1f933_1f3ff.json",
+      "sha256": "d96cc21599eef397e97d0e17a4ed87e83a3a329d97f5a1d6a7dc0244ebea4ace",
+      "tags": [
+        ":selfie:"
+      ]
+    },
+    "🤳": {
+      "file": "1f933.json",
+      "sha256": "98a9063ee8c0f5ee064747e788c444dee9dd3fbb7bea47bbed1da29fed92599d",
+      "tags": [
+        ":selfie:"
+      ]
+    },
+    "🥀": {
+      "file": "1f940.json",
+      "sha256": "269c0e106cc0ed43f170167139503c5bdd9fbe90cc37ba0c7b46972f94438ab2",
+      "tags": [
+        ":wilted-flower:"
+      ]
+    },
+    "🥁": {
+      "file": "1f941.json",
+      "sha256": "e713e7b6a90029a50c5ea11b74ec75440893d7311ac0e60715e6722677c3c1ce",
+      "tags": [
+        ":drum:"
+      ]
+    },
+    "🥂": {
+      "file": "1f942.json",
+      "sha256": "90c4143971fd28cac928a6eb58278c1a884cde245f8b3a5de2262bb887ebddb5",
+      "tags": [
+        ":clinking-glasses:"
+      ]
+    },
+    "🥇": {
+      "file": "1f947.json",
+      "sha256": "2869cb64553c7921b2a878fa149c2977fe941ce22ba870442cd1c51fc248122a",
+      "tags": [
+        ":gold-medal:",
+        ":1st-place-medal:"
+      ]
+    },
+    "🥈": {
+      "file": "1f948.json",
+      "sha256": "fa9a5d47ef8b4670e4355e2d375f623316383232af1347b15c01b973a1bb38bf",
+      "tags": [
+        ":silver-medal:",
+        ":2nd-place-medal:"
+      ]
+    },
+    "🥉": {
+      "file": "1f949.json",
+      "sha256": "5536f1d4e53809731e56de4662cc9c11b0b82f4dc5133765c9df1a5f2af0c457",
+      "tags": [
+        ":bronze-medal:",
+        ":3rd-place-medal:"
+      ]
+    },
+    "🥋": {
+      "file": "1f94b.json",
+      "sha256": "9dc548ed380614a6cddabaee24eabc532c30f99a8b720ed2cb2104a0474f1d01",
+      "tags": [
+        ":martial-arts-uniform:"
+      ]
+    },
+    "🥍": {
+      "file": "1f94d.json",
+      "sha256": "a519e8322574a591d2336c899a42b1c9764bd0b74d8ec3018de8cd4fe238e388",
+      "tags": [
+        ":lacrosse:"
+      ]
+    },
+    "🥎": {
+      "file": "1f94e.json",
+      "sha256": "552141ecbbd846607f3c5a4eca99b80ca5d11874da2d18c9e08295f49bb411ba",
+      "tags": [
+        ":softball:"
+      ]
+    },
+    "🥏": {
+      "file": "1f94f.json",
+      "sha256": "7f21c042c83003a33f2feaacf22b510cac95b4b575ae4334adaa45f775a00438",
+      "tags": [
+        ":flying-disc:"
+      ]
+    },
+    "🥑": {
+      "file": "1f951.json",
+      "sha256": "a384ae76df1775df30b1fc6fcfa1b1c75151ed47cb26413747b5fb7dc3ca4051",
+      "tags": [
+        ":avocado:"
+      ]
+    },
+    "🥒": {
+      "file": "1f952.json",
+      "sha256": "5225ac105f631a6400a36d29aff69f2223cb423b67352ec8fddc5080ed4ea21e",
+      "tags": [
+        ":cucumber:"
+      ]
+    },
+    "🥓": {
+      "file": "1f953.json",
+      "sha256": "1451e0caf292d50bb436bd21bffd6afc70b5e9733e38bf75f31a811e61826aeb",
+      "tags": [
+        ":bacon:"
+      ]
+    },
+    "🥔": {
+      "file": "1f954.json",
+      "sha256": "2611893ad88c9f4b0d0f665ba4c5a2eb8c6ae70a25a5a7794475138dd52ff81a",
+      "tags": [
+        ":potato:"
+      ]
+    },
+    "🥕": {
+      "file": "1f955.json",
+      "sha256": "6bcc54c26c7ce44939d3d691af317777acdadfc51a9ed8cc869a961cbb74bf05",
+      "tags": [
+        ":carrot:"
+      ]
+    },
+    "🥗": {
+      "file": "1f957.json",
+      "sha256": "5014728d9ec1e169ef17ebedafab8a7ca1b5cadf7c261042edd4caffc91507d8",
+      "tags": [
+        ":green-salad:"
+      ]
+    },
+    "🥝": {
+      "file": "1f95d.json",
+      "sha256": "ef6a4c987ed76f7b8c994e1e481ae6e41272816ecd7dce17ba9d3946d44d2dc7",
+      "tags": [
+        ":kiwi-fruit:"
+      ]
+    },
+    "🥞": {
+      "file": "1f95e.json",
+      "sha256": "6226f304f70238eadf698f3595f388e7d2d3b64ae325677b663d3db1d346617f",
+      "tags": [
+        ":pancakes:"
+      ]
+    },
+    "🥢": {
+      "file": "1f962.json",
+      "sha256": "91612876e5ec312ade668e632eec9aa5950ee8ea04a37a31507b1308426a32a9",
+      "tags": [
+        ":chopsticks:"
+      ]
+    },
+    "🥦": {
+      "file": "1f966.json",
+      "sha256": "ef16721ce9d737fe6758f210ed97eea69aa322ba908af2814f623ad5cdde94ce",
+      "tags": [
+        ":broccoli:"
+      ]
+    },
+    "🥧": {
+      "file": "1f967.json",
+      "sha256": "0ecf1cb12d59b0ee093cb3e960ef9afc1998f63b01aef30c0786c02d994cca81",
+      "tags": [
+        ":pie:"
+      ]
+    },
+    "🥨": {
+      "file": "1f968.json",
+      "sha256": "d3bc10502725bba82c3d5ddaf4bc2db9facd7bba81f6f3a36f9d5889f195b8bb",
+      "tags": [
+        ":pretzel:"
+      ]
+    },
+    "🥬": {
+      "file": "1f96c.json",
+      "sha256": "da0ffbfe9a1ee7bdf92a3dc9c3aaab51707d52232563636fd518a3f564d0046e",
+      "tags": [
+        ":leafy-green:"
+      ]
+    },
+    "🥭": {
+      "file": "1f96d.json",
+      "sha256": "e3ab0ad906c43a775bcecbcfced87482b2710e30b7a31eed7758a635e80b2393",
+      "tags": [
+        ":mango:"
+      ]
+    },
+    "🥰": {
+      "file": "1f970.json",
+      "sha256": "629be411ae8103c27316ea907643daef758ce5ca3d4e6fa7e2c9dbadf3c92943",
+      "tags": [
+        ":heart-face:",
+        ":3-hearts:"
+      ]
+    },
+    "🥱": {
+      "file": "1f971.json",
+      "sha256": "123540591af1a8fb5e35952b5de09e9a640c9ea460992711ba20db6148896e40",
+      "tags": [
+        ":yawn:"
+      ]
+    },
+    "🥲": {
+      "file": "1f972.json",
+      "sha256": "f4738caac17e4e6a5ebd36390ca9d593241fc742c5bee5ec5ec83800131dd7e7",
+      "tags": [
+        ":happy-cry:"
+      ]
+    },
+    "🥳": {
+      "file": "1f973.json",
+      "sha256": "01c59e3a010225f3bfb831bab44c468d506af40436fc6d365cc6528693be19e6",
+      "tags": [
+        ":partying-face:"
+      ]
+    },
+    "🥴": {
+      "file": "1f974.json",
+      "sha256": "c8168cd1ac9cc008554bc9df63b6904e027827224bb874e6cbcf025896fca9a1",
+      "tags": [
+        ":woozy:"
+      ]
+    },
+    "🥵": {
+      "file": "1f975.json",
+      "sha256": "5d14db42378581c26465199c132ed502dbc4b6b3cd8896dff420992e8f702f14",
+      "tags": [
+        ":hot-face:",
+        ":sweat-face:"
+      ]
+    },
+    "🥶": {
+      "file": "1f976.json",
+      "sha256": "785b3f23c4088de1e104b1d56adaa8e129f73860e0f82c295aceb55f90b16c8e",
+      "tags": [
+        ":cold-face:"
+      ]
+    },
+    "🥸": {
+      "file": "1f978.json",
+      "sha256": "0089adbe7aa53f4d5397556d6c9328ea3a16bf914059cfc8d66114e258c1235d",
+      "tags": [
+        ":disguise:"
+      ]
+    },
+    "🥹": {
+      "file": "1f979.json",
+      "sha256": "f6fa964c3fced5abfd76fc154fe4a856ad9336a1478dd4179626f03c472befee",
+      "tags": [
+        ":holding-back-tears:"
+      ]
+    },
+    "🥺": {
+      "file": "1f97a.json",
+      "sha256": "30caa4ea5bcfaab375aa77d4a71682a4e410ae44ed76bbfbb49f8ee088738e6e",
+      "tags": [
+        ":pleading:"
+      ]
+    },
+    "🦀": {
+      "file": "1f980.json",
+      "sha256": "318bb023baa9575dd6c40d50943dac8095f34bea56301cdf69690208126650f8",
+      "tags": [
+        ":crab:"
+      ]
+    },
+    "🦁": {
+      "file": "1f981.json",
+      "sha256": "432a0be8a43a38003828f966987491d356f467708550499b1d88cafe0a2ffc26",
+      "tags": [
+        ":lion-face:"
+      ]
+    },
+    "🦂": {
+      "file": "1f982.json",
+      "sha256": "e844a0d00a21155c1e3b51e8264b7a804b03fc21adf81c4e498e5cb607882794",
+      "tags": [
+        ":scorpion:"
+      ]
+    },
+    "🦄": {
+      "file": "1f984.json",
+      "sha256": "fece22ba9dc082a233c4175ceed7c9001fc01b1274c71033bf6ab53207215b7b",
+      "tags": [
+        ":unicorn:"
+      ]
+    },
+    "🦅": {
+      "file": "1f985.json",
+      "sha256": "3c9165e3f715d8209db08a469e1bca8e263b8b0c43c28dfdeb2aa6ad3b4fd8b9",
+      "tags": [
+        ":eagle:"
+      ]
+    },
+    "🦇": {
+      "file": "1f987.json",
+      "sha256": "9688f71865974463f65d80cadee668ba6af1329c616a7d7583bf3d8c116c2dbb",
+      "tags": [
+        ":bat:"
+      ]
+    },
+    "🦈": {
+      "file": "1f988.json",
+      "sha256": "89ae69bd3d3feac19a3c0e6db2a33e82074197b6b60d092814ee953dbceb5ea2",
+      "tags": [
+        ":shark:"
+      ]
+    },
+    "🦉": {
+      "file": "1f989.json",
+      "sha256": "226f446b56103eb48d343b962b3df699dd066a86f36cdc7287d39ee3dc12bcb1",
+      "tags": [
+        ":owl:"
+      ]
+    },
+    "🦊": {
+      "file": "1f98a.json",
+      "sha256": "33afc6ea9e1ac1fcc48626855c775ebb9108967a5b022d8d688a7e173b51e50b",
+      "tags": [
+        ":fox-face:"
+      ]
+    },
+    "🦋": {
+      "file": "1f98b.json",
+      "sha256": "a59c14afa93e717b0f7622fb5f1e48c4f0e03ce094189e26b1c014c9186178b8",
+      "tags": [
+        ":butterfly:"
+      ]
+    },
+    "🦍": {
+      "file": "1f98d.json",
+      "sha256": "1777350aa54f8a4d124d58ca8ae5a43e28fd7457ee453674a5bcf76f6216d3e5",
+      "tags": [
+        ":gorilla:"
+      ]
+    },
+    "🦎": {
+      "file": "1f98e.json",
+      "sha256": "040f6760cae107ae59c7575efc8f37cd569b635f54bb4e977b00ea407a0e7cd3",
+      "tags": [
+        ":lizard:"
+      ]
+    },
+    "🦔": {
+      "file": "1f994.json",
+      "sha256": "735642f2959e04fa0dede488ceb4e3afc85299c4f66063343b66a5daba10488d",
+      "tags": [
+        ":hedgehog:"
+      ]
+    },
+    "🦕": {
+      "file": "1f995.json",
+      "sha256": "4ad9766a672b93a597597a47404140e259b3c082d22e86e14e050bbd3a63a47c",
+      "tags": [
+        ":dinosaur:"
+      ]
+    },
+    "🦖": {
+      "file": "1f996.json",
+      "sha256": "4635b8b250d1ad13401814b9527f5a824819453256dc2bb9dd250dca6ab0b1b9",
+      "tags": [
+        ":t-rex:"
+      ]
+    },
+    "🦗": {
+      "file": "1f997.json",
+      "sha256": "5242fc985834cd674093029b02be0a55bdc14d186e1d36963bd60389628ed90f",
+      "tags": [
+        ":cricket:"
+      ]
+    },
+    "🦘": {
+      "file": "1f998.json",
+      "sha256": "2f100d6c7fd14b24dc6173ebe5f996715a98db2d9e4fe58c3a67bf8e7f40baf9",
+      "tags": [
+        ":kangaroo:"
+      ]
+    },
+    "🦚": {
+      "file": "1f99a.json",
+      "sha256": "1944e6eb5f2ecc6468a6005b57bea54a7097a1bfc04a63cc99e9999acc815127",
+      "tags": [
+        ":peacock:"
+      ]
+    },
+    "🦝": {
+      "file": "1f99d.json",
+      "sha256": "30eb9015e3cf8983191bffba3749943053eb1d0e1cf446a8d5f8d7091cfc3b07",
+      "tags": [
+        ":raccoon:"
+      ]
+    },
+    "🦞": {
+      "file": "1f99e.json",
+      "sha256": "cdb8bb36571a1f421d8acb91e3f3045224b795cae32c0af77f00bee530b41f02",
+      "tags": [
+        ":lobster:"
+      ]
+    },
+    "🦟": {
+      "file": "1f99f.json",
+      "sha256": "028a134d45ea70d13e8778e95e6b90b3cf04d77208c2111ed952d2407052729c",
+      "tags": [
+        ":mosquito:"
+      ]
+    },
+    "🦠": {
+      "file": "1f9a0.json",
+      "sha256": "432f6f5f0a50b222ab0c2ef52540710bf8f53fa6adde0a178db458b436d5319d",
+      "tags": [
+        ":microbe:",
+        ":virus:"
+      ]
+    },
+    "🦥": {
+      "file": "1f9a5.json",
+      "sha256": "cfc0ff501b33fc51d330a6af0d7b6246c647fcbf539412c3d01f2f22aa4dcf09",
+      "tags": [
+        ":sloth:"
+      ]
+    },
+    "🦦": {
+      "file": "1f9a6.json",
+      "sha256": "6bf4a5fedb17b7570d9c38182e40fff12a42531a50f7081d371399127cf69cc7",
+      "tags": [
+        ":otter:"
+      ]
+    },
+    "🦧": {
+      "file": "1f9a7.json",
+      "sha256": "2e1bfe16931bb893763c168848d0790e337de740f1eb1edd9bfb3c180909cbe2",
+      "tags": [
+        ":orangutan:"
+      ]
+    },
+    "🦩": {
+      "file": "1f9a9.json",
+      "sha256": "fb82b388f036afa8d91788f5b6fd621272984be69c4dd412f2459df10f5134fd",
+      "tags": [
+        ":flamingo:"
+      ]
+    },
+    "🦭": {
+      "file": "1f9ad.json",
+      "sha256": "3ed374f024a6e322cc9c5ceae9e87fa9d1e6ea77e575aada39b870f67ce2440a",
+      "tags": [
+        ":seal:"
+      ]
+    },
+    "🦮": {
+      "file": "1f9ae.json",
+      "sha256": "065f3c5f5b210ef1856c702b7250ea45e65a789a4f9d15aa1605d33204d5d075",
+      "tags": [
+        ":guide-dog:"
+      ]
+    },
+    "🦴": {
+      "file": "1f9b4.json",
+      "sha256": "4a91f65bf9d031c5fba1a82a20bf3c32cbcf976e213da49a92ca58d4957fb850",
+      "tags": [
+        ":bone:"
+      ]
+    },
+    "🦵🏻": {
+      "file": "1f9b5_1f3fb.json",
+      "sha256": "9e27214048ad162f7a32bfc6c43cc404c5e61bc1603d405441edd2c7b8055101",
+      "tags": [
+        ":leg:"
+      ]
+    },
+    "🦵🏼": {
+      "file": "1f9b5_1f3fc.json",
+      "sha256": "3095e3e7c6dde7c92ee3e98b938ba49bb0e4631001e55c2be0fc9e5ac44c7bcb",
+      "tags": [
+        ":leg:"
+      ]
+    },
+    "🦵🏽": {
+      "file": "1f9b5_1f3fd.json",
+      "sha256": "8e89c8e8183b5eeee9425ce8020e1119531b824a53fa94002edc77f69eecf65d",
+      "tags": [
+        ":leg:"
+      ]
+    },
+    "🦵🏾": {
+      "file": "1f9b5_1f3fe.json",
+      "sha256": "06a64e84f9cd23019cd644fadbe15e03869e4339e478c443f1e6e260bdbaf2c3",
+      "tags": [
+        ":leg:"
+      ]
+    },
+    "🦵🏿": {
+      "file": "1f9b5_1f3ff.json",
+      "sha256": "c07d4c84888c38175082af63d147dc9693d02fb0c5aad2c4ccb3cbca838e3f91",
+      "tags": [
+        ":leg:"
+      ]
+    },
+    "🦵": {
+      "file": "1f9b5.json",
+      "sha256": "e90229ab1f280a8e82408c4166965fc91794c9383b304156a4f0f542cd20222b",
+      "tags": [
+        ":leg:"
+      ]
+    },
+    "🦶🏻": {
+      "file": "1f9b6_1f3fb.json",
+      "sha256": "9ebb6a1802eb87f20d707b9d99364cb6978689732b5a93a77fd721cd8dea256c",
+      "tags": [
+        ":foot:"
+      ]
+    },
+    "🦶🏼": {
+      "file": "1f9b6_1f3fc.json",
+      "sha256": "be62352812bcd82283bb82f55f06cc0cf185e2c345976590ed0a0f6fdf246315",
+      "tags": [
+        ":foot:"
+      ]
+    },
+    "🦶🏽": {
+      "file": "1f9b6_1f3fd.json",
+      "sha256": "4e3a6045f0f75536a2fa02a7e1ad4b295f69dd6053628fc133929ffc7d062190",
+      "tags": [
+        ":foot:"
+      ]
+    },
+    "🦶🏾": {
+      "file": "1f9b6_1f3fe.json",
+      "sha256": "efc60a12602dd59deaa4e2dcc1075e0236bfa8b248f713572736039af2467f70",
+      "tags": [
+        ":foot:"
+      ]
+    },
+    "🦶🏿": {
+      "file": "1f9b6_1f3ff.json",
+      "sha256": "2b8a4f2e493a95400d8c81cfde7491eb7b7b4b6666f37a96958fa2e062ac016c",
+      "tags": [
+        ":foot:"
+      ]
+    },
+    "🦶": {
+      "file": "1f9b6.json",
+      "sha256": "fde4606275d7c2b9e808f1ab390e14a8ec4ae2de6ad07eaee8dec90234723976",
+      "tags": [
+        ":foot:"
+      ]
+    },
+    "🦻🏻": {
+      "file": "1f9bb_1f3fb.json",
+      "sha256": "cd8b9148450665a984188a365f982bedb8cadd69a335e07dc56171aa3ff1f2a1",
+      "tags": [
+        ":hearing-aid:"
+      ]
+    },
+    "🦻🏼": {
+      "file": "1f9bb_1f3fc.json",
+      "sha256": "bdec6ae196ecbe4808454af5fa2dff4add88d26781f2f9737ed8872c921a05f0",
+      "tags": [
+        ":hearing-aid:"
+      ]
+    },
+    "🦻🏽": {
+      "file": "1f9bb_1f3fd.json",
+      "sha256": "74e1f9b780f51445352f14d3cb06231a9f3f60bcd9dc4ed11e87854460180ed9",
+      "tags": [
+        ":hearing-aid:"
+      ]
+    },
+    "🦻🏾": {
+      "file": "1f9bb_1f3fe.json",
+      "sha256": "36c3a9c24da57640534694d8ea42d444b12d38a494a04358697c917b873ac4ca",
+      "tags": [
+        ":hearing-aid:"
+      ]
+    },
+    "🦻🏿": {
+      "file": "1f9bb_1f3ff.json",
+      "sha256": "94a234f1b0a46201c14558dc497d8c71a4a4e18ca47bd7744af94feae89bcc56",
+      "tags": [
+        ":hearing-aid:"
+      ]
+    },
+    "🦻": {
+      "file": "1f9bb.json",
+      "sha256": "34de645a9b392838f6bfee45b8c4dec737aa427719cbb89d3abc6b11914e9de3",
+      "tags": [
+        ":hearing-aid:"
+      ]
+    },
+    "🦾": {
+      "file": "1f9be.json",
+      "sha256": "9ecb13ec082a87bfbc97212ee13de56b8b8e8b7e0b7c1e5e2adb22806fe5cbe5",
+      "tags": [
+        ":arm-mechanical:"
+      ]
+    },
+    "🦿": {
+      "file": "1f9bf.json",
+      "sha256": "f5fbcbb50cabe461e99e65c1446fef1527bfc20f459893b86d3a61b113ad547b",
+      "tags": [
+        ":leg-mechanical:"
+      ]
+    },
+    "🧀": {
+      "file": "1f9c0.json",
+      "sha256": "3d13cb6486bae2dece3f4c27cc7733ea7e49d3b3ac23403525983ad151462772",
+      "tags": [
+        ":cheese-wedge:"
+      ]
+    },
+    "🧂": {
+      "file": "1f9c2.json",
+      "sha256": "df6474e2d503ef3f053b65d0b91c3fee0d72e8ac431229edf53bf2945076b73e",
+      "tags": [
+        ":salt:"
+      ]
+    },
+    "🧃": {
+      "file": "1f9c3.json",
+      "sha256": "270ba9ec59e62c35d4e1860c96c2c3874d91892867b04124e7f81773ada58f50",
+      "tags": [
+        ":beverage-box:"
+      ]
+    },
+    "🧄": {
+      "file": "1f9c4.json",
+      "sha256": "76ae9577912b75dd469479d9db9171fd5938eaeb400928f41104881f5b392843",
+      "tags": [
+        ":garlic:"
+      ]
+    },
+    "🧅": {
+      "file": "1f9c5.json",
+      "sha256": "63d5243a8c9a0cc04b0e6d297a1d813809ebbadc7b02aaeca2512d9ae39a7c91",
+      "tags": [
+        ":onion:"
+      ]
+    },
+    "🧉": {
+      "file": "1f9c9.json",
+      "sha256": "382df16bf88c1555bb14d26e47fd232eba1abd71addb081420170b8d814a7ab7",
+      "tags": [
+        ":mate:"
+      ]
+    },
+    "🧋": {
+      "file": "1f9cb.json",
+      "sha256": "96395924db5cbb9e0d1b75fa33eaab6dc5c0d4a299ce20ed8893ca2072316252",
+      "tags": [
+        ":bubble-tea:",
+        ":milk-tea:"
+      ]
+    },
+    "🧐": {
+      "file": "1f9d0.json",
+      "sha256": "72d9b692cba61e6dfdf4bc301aafc5f55f43f17fe5c662c30a4c15da7ab1ad2e",
+      "tags": [
+        ":monocle:"
+      ]
+    },
+    "🧠": {
+      "file": "1f9e0.json",
+      "sha256": "a4e291bbd3f43ef2cc1f05779015a934473e10f8151afa7250242b8123f91d4d",
+      "tags": [
+        ":brain:"
+      ]
+    },
+    "🧡": {
+      "file": "1f9e1.json",
+      "sha256": "5e0bab47072fb1882c5fbc74ce9cceb47d723de2ffb9f0e35d93247c74e77ab0",
+      "tags": [
+        ":orange-heart:"
+      ]
+    },
+    "🧦": {
+      "file": "1f9e6.json",
+      "sha256": "d6466e0234a924ece1e806472707beead3bdc8ae3ba9d6cf742900ab6d292191",
+      "tags": [
+        ":socks:"
+      ]
+    },
+    "🧹": {
+      "file": "1f9f9.json",
+      "sha256": "4f37c01418a2d0dc779b334962bfd8bb78fa88de12f331c11fbaad4028f2c36b",
+      "tags": [
+        ":broom:"
+      ]
+    },
+    "🩰": {
+      "file": "1fa70.json",
+      "sha256": "ee042e43ae934e29ef2489c94c805457a2d495806e2857a859ea4d5019c1b9c7",
+      "tags": [
+        ":ballet-shoes:"
+      ]
+    },
+    "🩵": {
+      "file": "1fa75.json",
+      "sha256": "2458751e06c0b9d1adfeff917bfabf7bc5966093c1db71c18b1977c514dae9ae",
+      "tags": [
+        ":light-blue-heart:"
+      ]
+    },
+    "🩶": {
+      "file": "1fa76.json",
+      "sha256": "3dd55cf05fc034a912c85a8dca57d5ef3e9785246fe836c6e16d1a680bb88680",
+      "tags": [
+        ":grey-heart:"
+      ]
+    },
+    "🩷": {
+      "file": "1fa77.json",
+      "sha256": "f4ce012efa2ac40ae9e7624b2a542df13e0cf8ac1b926f6f2dbbd69a38243290",
+      "tags": [
+        ":pink-heart:"
+      ]
+    },
+    "🩸": {
+      "file": "1fa78.json",
+      "sha256": "0c68f4b6a505bcc0f6c67beb4969597d530d40abf7ecd903e97871ba0f529b44",
+      "tags": [
+        ":blood:"
+      ]
+    },
+    "🩺": {
+      "file": "1fa7a.json",
+      "sha256": "0c3ab5f05d7aa0c1b924bc2bcf84ac3dd1c7127379e37754d194feac56d8ab09",
+      "tags": [
+        ":stethoscope:"
+      ]
+    },
+    "🪁": {
+      "file": "1fa81.json",
+      "sha256": "7a5fdef84c7f0edcaeacfb561825d0ca71f80e21c6788f74c109d48753224f90",
+      "tags": [
+        ":kite:"
+      ]
+    },
+    "🪂": {
+      "file": "1fa82.json",
+      "sha256": "fb9d3217272fe7a7663928a2fec69a6be1ab3346e52b2ace51becbc9093cd753",
+      "tags": [
+        ":parachute:"
+      ]
+    },
+    "🪃": {
+      "file": "1fa83.json",
+      "sha256": "c764c9213276bb2cdeea7c329babdea3c22ac969fa44e45ac95cfb9a065c3129",
+      "tags": [
+        ":boomerang:"
+      ]
+    },
+    "🪅": {
+      "file": "1fa85.json",
+      "sha256": "c7929df6a50c32132075ce020b04e236cf3c11f6fe2c942c01a270239bf2cfce",
+      "tags": [
+        ":piñata:"
+      ]
+    },
+    "🪇": {
+      "file": "1fa87.json",
+      "sha256": "7a93cecda69d00a8450651be80653ed3267f999d7597803bc46800e27dc0c47f",
+      "tags": [
+        ":maracas:"
+      ]
+    },
+    "🪉": {
+      "file": "1fa89.json",
+      "sha256": "aa024aec5c27131d6fd4665b78d82ebf8387f80b57a96c1c71c8082666692de7",
+      "tags": [
+        ":harp:"
+      ]
+    },
+    "🪊": {
+      "file": "1fa8a.json",
+      "sha256": "e35bc31f58e4f7a9616a43fa05e8f175adb3dd9b557d9d6a464c03f32a2a3b33",
+      "tags": [
+        ":trombone:"
+      ]
+    },
+    "🪎": {
+      "file": "1fa8e.json",
+      "sha256": "ed9d115250c6160e586003028a13865da34968f0239a38568d9c1ce765b61419",
+      "tags": [
+        ":treasure:"
+      ]
+    },
+    "🪐": {
+      "file": "1fa90.json",
+      "sha256": "8f88f0b93cfa564ca6d058633a73a98aa8bdf116304bb1b3211f212cc3e58bbb",
+      "tags": [
+        ":ringed-planet:"
+      ]
+    },
+    "🪔": {
+      "file": "1fa94.json",
+      "sha256": "945128f605f84b0025402d0a2149829f7a93254352a2ec90dec9df6ad8e15515",
+      "tags": [
+        ":diya-lamp:"
+      ]
+    },
+    "🪕": {
+      "file": "1fa95.json",
+      "sha256": "53b187a49571569e321824c93af21d28b9330da684c783a2c0f1587b6c45bd34",
+      "tags": [
+        ":banjo:"
+      ]
+    },
+    "🪙": {
+      "file": "1fa99.json",
+      "sha256": "4046c470c77babaa5ef8161eb3d7630ab674c8a836c336c6fb1305d7c21ffdfd",
+      "tags": [
+        ":coin:"
+      ]
+    },
+    "🪤": {
+      "file": "1faa4.json",
+      "sha256": "8c4e0940f7b1762f8c09480f6e8e56b78e05e0ac93c018590e5251ddacbaefc0",
+      "tags": [
+        ":mouse-trap:"
+      ]
+    },
+    "🪨": {
+      "file": "1faa8.json",
+      "sha256": "a4561176bf2b5a02f0326df96d002df46566f32db515ef4b8a1aa7a7bca13e52",
+      "tags": [
+        ":rock:"
+      ]
+    },
+    "🪩": {
+      "file": "1faa9.json",
+      "sha256": "27e8f46eee86c9ad6c2426d9d26d02f9a9a8a584ad384703fbf83a34a2b2b46b",
+      "tags": [
+        ":mirror-ball:",
+        ":disco-ball:"
+      ]
+    },
+    "🪫": {
+      "file": "1faab.json",
+      "sha256": "51fcd99e34d3e90620a07b9f950d1a9b95c95c62d1d610e43171d91421f94340",
+      "tags": [
+        ":battery-low:"
+      ]
+    },
+    "🪭": {
+      "file": "1faad.json",
+      "sha256": "8599a07712109908fd2cd4651deda182b61c8266e857d1b8741d4c6de9b11d98",
+      "tags": [
+        ":fan:"
+      ]
+    },
+    "🪰": {
+      "file": "1fab0.json",
+      "sha256": "5d40aed0bb94a74f31a3476558d9f166c7dc9ff04c6a2b9ce3a7321d85ae619f",
+      "tags": [
+        ":fly:"
+      ]
+    },
+    "🪱": {
+      "file": "1fab1.json",
+      "sha256": "78b19891154efef60ed83b1d072b42b788e65eeb73a0b72019760411fb79f975",
+      "tags": [
+        ":worm:"
+      ]
+    },
+    "🪳": {
+      "file": "1fab3.json",
+      "sha256": "db864ebe2f2896af242aed1589314f1cf7252bfde495fa1b5b6804299334790a",
+      "tags": [
+        ":cockroach:"
+      ]
+    },
+    "🪷": {
+      "file": "1fab7.json",
+      "sha256": "162eacc7ef1dfceb6af3988a1ac27188a55d9b75e072d05b380dcf3a0836813d",
+      "tags": [
+        ":lotus:"
+      ]
+    },
+    "🪻": {
+      "file": "1fabb.json",
+      "sha256": "1c94a185d09c4ea569e176618effbd9b658d76dc7c103c2a911ec2f1998267e6",
+      "tags": [
+        ":hyacinth:"
+      ]
+    },
+    "🪼": {
+      "file": "1fabc.json",
+      "sha256": "61afe093fe8e38689079c444cf0086a94f0143c6cd80c61bfa9f8493b3b89e79",
+      "tags": [
+        ":jellyfish:"
+      ]
+    },
+    "🪾": {
+      "file": "1fabe.json",
+      "sha256": "e02e89b4ca605867b7e1a7679d41b20fe8601d4137f1dd174661e917a8b124bf",
+      "tags": [
+        ":leafless-tree:"
+      ]
+    },
+    "🪿": {
+      "file": "1fabf.json",
+      "sha256": "6dd25c19637d4f496e52a51ca8baae946e56105dea1cbc4f5c150d0ada6669aa",
+      "tags": [
+        ":goose:"
+      ]
+    },
+    "🫀": {
+      "file": "1fac0.json",
+      "sha256": "b66127e02ca9ec512d58665622d43a8b333c6f05d70445da0c28a23e572b5a4b",
+      "tags": [
+        ":anatomical-heart:"
+      ]
+    },
+    "🫂": {
+      "file": "1fac2.json",
+      "sha256": "39989340b355035f9006217f96c300dbf9e53827d628043b84ac9658bcf4d36e",
+      "tags": [
+        ":hugging:"
+      ]
+    },
+    "🫆": {
+      "file": "1fac6.json",
+      "sha256": "334025e54f2a2be004adaec9fc16c8fefc30b9b0a454f15f4fac68de79f89b23",
+      "tags": [
+        ":fingerprint:"
+      ]
+    },
+    "🫈": {
+      "file": "1fac8.json",
+      "sha256": "6e547c6cd81900c431ad33163ecb4357f0b76c9accd326317a44c43bcfc7c6ab",
+      "tags": [
+        ":hairy-creature:"
+      ]
+    },
+    "🫍": {
+      "file": "1facd.json",
+      "sha256": "b23cacd302b172c3c536487debca5aeb9316c3a7bf022ecf6d81c6ba4c40e49a",
+      "tags": [
+        ":orca:"
+      ]
+    },
+    "🫏": {
+      "file": "1facf.json",
+      "sha256": "1eb6ab33f8d67dd628854de801df8e0397ad92d4636e1ba3722f96d84910325b",
+      "tags": [
+        ":donkey:"
+      ]
+    },
+    "🫐": {
+      "file": "1fad0.json",
+      "sha256": "781e4b75d854c52b27b2ca0ec7e612d4d07c72d02398ef2d39f4864357d4f1a4",
+      "tags": [
+        ":blueberries:"
+      ]
+    },
+    "🫑": {
+      "file": "1fad1.json",
+      "sha256": "263c0a630d01e76db0ac81ae9c250764644b8634b497e2b8d03b7bb67b7b02e8",
+      "tags": [
+        ":bell-pepper:"
+      ]
+    },
+    "🫖": {
+      "file": "1fad6.json",
+      "sha256": "6775aa07dd69122dbb818e773cc13b232d13188289ca5591784c2408a94bf2f0",
+      "tags": [
+        ":teapot:"
+      ]
+    },
+    "🫗": {
+      "file": "1fad7.json",
+      "sha256": "2b8678f703269932d913643640b2287448d5f9c0fcc7373f73d00fcb9bed939b",
+      "tags": [
+        ":pour:"
+      ]
+    },
+    "🫘": {
+      "file": "1fad8.json",
+      "sha256": "305d2a958a92b509ab654dd50ffd5ba0883ad5e8d54b40d40a02a56f193f7252",
+      "tags": [
+        ":beans:"
+      ]
+    },
+    "🫚": {
+      "file": "1fada.json",
+      "sha256": "c2aa3fcc80a91aa013c804d4fb83e78e4a2f2dc8c6b76171b12286cdaab7ccdc",
+      "tags": [
+        ":ginger:"
+      ]
+    },
+    "🫛": {
+      "file": "1fadb.json",
+      "sha256": "77a720e383fb8658aaa71d41c00c5f0bcf1eb1e3866207e3125e1dc1f2fba039",
+      "tags": [
+        ":pea-pod:"
+      ]
+    },
+    "🫠": {
+      "file": "1fae0.json",
+      "sha256": "c27a76e2a19943a210db82e2266d88ed624405a98656c1c5ab8a18321ea2222c",
+      "tags": [
+        ":melting:"
+      ]
+    },
+    "🫡": {
+      "file": "1fae1.json",
+      "sha256": "fe7d31c1be98b93eb2f7bd0d6a8c1facfb41c51f16fea2ffb52147d85e76ba87",
+      "tags": [
+        ":salute:"
+      ]
+    },
+    "🫢": {
+      "file": "1fae2.json",
+      "sha256": "679ee7b1e14ca634f4d977f5d5320853938d570525e4f184b3c730d096b5d0e9",
+      "tags": [
+        ":hand-over-mouth:"
+      ]
+    },
+    "🫣": {
+      "file": "1fae3.json",
+      "sha256": "93d6b37249b2477fb0e9fbe350232304c470451da269df88ea52619506864598",
+      "tags": [
+        ":peeking:"
+      ]
+    },
+    "🫤": {
+      "file": "1fae4.json",
+      "sha256": "6fc990fda13817606b560fa2ad7b901a196b9b78e91bbc89eb61def02b4b0b0c",
+      "tags": [
+        ":diagonal-mouth:"
+      ]
+    },
+    "🫥": {
+      "file": "1fae5.json",
+      "sha256": "99d3d01b2a326dcc6ca0529da7c4b203190d26d866ed14b1b22d7f4ab0cc5a40",
+      "tags": [
+        ":dotted-line-face:",
+        ":invisible:"
+      ]
+    },
+    "🫦": {
+      "file": "1fae6.json",
+      "sha256": "342cd243c24190a8478bb6e8268f9a69292c0e2f8f4fbebcbab46a7c63763950",
+      "tags": [
+        ":biting-lip:"
+      ]
+    },
+    "🫧": {
+      "file": "1fae7.json",
+      "sha256": "225df33b6a311c481e47d55d8f0a47a4aae39446b8bd3b74013e1ff111b2f38d",
+      "tags": [
+        ":bubbles:"
+      ]
+    },
+    "🫨": {
+      "file": "1fae8.json",
+      "sha256": "4c73653c5c444f5ecb4ce0a3b2c2638b90b0ea14c6a8283d8812f096b85d7b0f",
+      "tags": [
+        ":shaking-face:"
+      ]
+    },
+    "🫩": {
+      "file": "1fae9.json",
+      "sha256": "63434501a759ff1b2606561fe59c881ab3830ccb8215b3a59c851faaf8269163",
+      "tags": [
+        ":tired:",
+        ":bags-under-eyes:"
+      ]
+    },
+    "🫪": {
+      "file": "1faea.json",
+      "sha256": "9d47a8ec6a657fc650b9197b664b9c5b3279c5b8d9086a5adb9a2b06e2a65eb9",
+      "tags": [
+        ":distorted-face:"
+      ]
+    },
+    "🫯": {
+      "file": "1faef.json",
+      "sha256": "e372f4746e94cc759d05e86ce62b232b06ca571a2934acd8a20da4ac0d9f419c",
+      "tags": [
+        ":fight:"
+      ]
+    },
+    "🫰🏻": {
+      "file": "1faf0_1f3fb.json",
+      "sha256": "f494b218de465f0a3b0a6bb68e4875b5d1e37686ba4db0095158719619381b0c",
+      "tags": [
+        ":hand-with-index-finger-and-thumb-crossed:",
+        ":snap:",
+        ":finger-heart:"
+      ]
+    },
+    "🫰🏼": {
+      "file": "1faf0_1f3fc.json",
+      "sha256": "80a58ccfa9b15059814f56e7a7d3228ba79894c06c27ff3bd3bb346331254097",
+      "tags": [
+        ":hand-with-index-finger-and-thumb-crossed:",
+        ":snap:",
+        ":finger-heart:"
+      ]
+    },
+    "🫰🏽": {
+      "file": "1faf0_1f3fd.json",
+      "sha256": "db235965552afdbd0da223684a533e1a62560994b16b5e6f7a9b4208e48ef40d",
+      "tags": [
+        ":hand-with-index-finger-and-thumb-crossed:",
+        ":snap:",
+        ":finger-heart:"
+      ]
+    },
+    "🫰🏾": {
+      "file": "1faf0_1f3fe.json",
+      "sha256": "9cb31ebf4774a8d37571281b75c352ea05c097aec5cb7ba9e2a193db93c5d0a1",
+      "tags": [
+        ":hand-with-index-finger-and-thumb-crossed:",
+        ":snap:",
+        ":finger-heart:"
+      ]
+    },
+    "🫰🏿": {
+      "file": "1faf0_1f3ff.json",
+      "sha256": "6b50c59cd5514fdc26b8a4887bb8c3fb35c49f2c09d4ac01a288fb7a2725db6f",
+      "tags": [
+        ":hand-with-index-finger-and-thumb-crossed:",
+        ":snap:",
+        ":finger-heart:"
+      ]
+    },
+    "🫰": {
+      "file": "1faf0.json",
+      "sha256": "14960f013ba42609fa92c8f7956418cfe668c359d69ab820ddf11a98175a86f2",
+      "tags": [
+        ":hand-with-index-finger-and-thumb-crossed:",
+        ":snap:",
+        ":finger-heart:"
+      ]
+    },
+    "🫱🏻‍🫲🏼": {
+      "file": "1faf1_1f3fb_200d_1faf2_1f3fc.json",
+      "sha256": "bc8a43d597206b88a463bfb135cf4d4ba7b835ba58c1306138657f26c24d8c3b",
+      "tags": [
+        ":handshake:"
+      ]
+    },
+    "🫱🏻‍🫲🏽": {
+      "file": "1faf1_1f3fb_200d_1faf2_1f3fd.json",
+      "sha256": "034f2aa29ab5659f256152b816d96a9ed4eb389e99b1e9d3a7f09f9843e97fd2",
+      "tags": [
+        ":handshake:"
+      ]
+    },
+    "🫱🏻‍🫲🏾": {
+      "file": "1faf1_1f3fb_200d_1faf2_1f3fe.json",
+      "sha256": "0e821446e650818f4b8bad80d1643194b010bbd1c629dc2fad82816bde5840c0",
+      "tags": [
+        ":handshake:"
+      ]
+    },
+    "🫱🏻‍🫲🏿": {
+      "file": "1faf1_1f3fb_200d_1faf2_1f3ff.json",
+      "sha256": "eb4fc22124ae0796e14d5d0873214f93f469ced091b5232ffac0337e60e9a06b",
+      "tags": [
+        ":handshake:"
+      ]
+    },
+    "🫱🏻": {
+      "file": "1faf1_1f3fb.json",
+      "sha256": "9d23ceb55a7766c2a05837418bb58b0e3f27e1d5e6cc94c059396ec5fa6b2c30",
+      "tags": [
+        ":rightwards-hand:"
+      ]
+    },
+    "🫱🏼‍🫲🏻": {
+      "file": "1faf1_1f3fc_200d_1faf2_1f3fb.json",
+      "sha256": "febda79bc52c1cf406d3d83374e7ca7d53085601048284aa25f7aecb22bb593b",
+      "tags": [
+        ":handshake:"
+      ]
+    },
+    "🫱🏼‍🫲🏽": {
+      "file": "1faf1_1f3fc_200d_1faf2_1f3fd.json",
+      "sha256": "a2e2ce8949ca4fccf4782098c890c55cae237981f3a5d3776df1581f3ff3a447",
+      "tags": [
+        ":handshake:"
+      ]
+    },
+    "🫱🏼‍🫲🏾": {
+      "file": "1faf1_1f3fc_200d_1faf2_1f3fe.json",
+      "sha256": "fbc66ebf6b6453d4d06513142a280c5e35e996394788b150d3a78783a9772580",
+      "tags": [
+        ":handshake:"
+      ]
+    },
+    "🫱🏼‍🫲🏿": {
+      "file": "1faf1_1f3fc_200d_1faf2_1f3ff.json",
+      "sha256": "4196efc0596aa851e9ab05b88d1e5b16322cce4e7d55b6dd49873dd439651cf1",
+      "tags": [
+        ":handshake:"
+      ]
+    },
+    "🫱🏼": {
+      "file": "1faf1_1f3fc.json",
+      "sha256": "e90198af4151b421c1eb030c5f149ab00af0ae1f134fdd81425af230b5eda66f",
+      "tags": [
+        ":rightwards-hand:"
+      ]
+    },
+    "🫱🏽‍🫲🏻": {
+      "file": "1faf1_1f3fd_200d_1faf2_1f3fb.json",
+      "sha256": "482eed4498eb29c3e6e4faa9bc40075de8db082fa99b27688249e6198e6fa901",
+      "tags": [
+        ":handshake:"
+      ]
+    },
+    "🫱🏽‍🫲🏼": {
+      "file": "1faf1_1f3fd_200d_1faf2_1f3fc.json",
+      "sha256": "72cdb3ec0dc7d52bdea0983434096bc005b5535eab9454384ddff3eef2cdce8a",
+      "tags": [
+        ":handshake:"
+      ]
+    },
+    "🫱🏽‍🫲🏾": {
+      "file": "1faf1_1f3fd_200d_1faf2_1f3fe.json",
+      "sha256": "e9c203403968d21af7792cd3f652455102a9c2b5eacae680cf3a63fa4d6333b8",
+      "tags": [
+        ":handshake:"
+      ]
+    },
+    "🫱🏽‍🫲🏿": {
+      "file": "1faf1_1f3fd_200d_1faf2_1f3ff.json",
+      "sha256": "6832a50947ce01712ca5a9bb1b6e304dfb72cc529feed54de077c3ffbf50aeb9",
+      "tags": [
+        ":handshake:"
+      ]
+    },
+    "🫱🏽": {
+      "file": "1faf1_1f3fd.json",
+      "sha256": "03eddc64379dfdb386ba3d397f03d9bc8b40d7b9501c15150b34cecb39c9ca70",
+      "tags": [
+        ":rightwards-hand:"
+      ]
+    },
+    "🫱🏾‍🫲🏻": {
+      "file": "1faf1_1f3fe_200d_1faf2_1f3fb.json",
+      "sha256": "a9511900e78750b32c05d049b619942f544df8064b5ba7fc124341fbfb020854",
+      "tags": [
+        ":handshake:"
+      ]
+    },
+    "🫱🏾‍🫲🏼": {
+      "file": "1faf1_1f3fe_200d_1faf2_1f3fc.json",
+      "sha256": "e62a9000164d152b0d131ac203270814faea381016f95cc3ee0b8ba72b776274",
+      "tags": [
+        ":handshake:"
+      ]
+    },
+    "🫱🏾‍🫲🏽": {
+      "file": "1faf1_1f3fe_200d_1faf2_1f3fd.json",
+      "sha256": "c89803c2ee587f4a4c4e0194d668323ca2bf6362a775ef285bc9b13381c3874c",
+      "tags": [
+        ":handshake:"
+      ]
+    },
+    "🫱🏾‍🫲🏿": {
+      "file": "1faf1_1f3fe_200d_1faf2_1f3ff.json",
+      "sha256": "ae72e1cdb198f5f8f82f86a52ec66ea9f6b2088f42dfc0b866868b44d70f3b7b",
+      "tags": [
+        ":handshake:"
+      ]
+    },
+    "🫱🏾": {
+      "file": "1faf1_1f3fe.json",
+      "sha256": "ef2bbadff0f87a054fa2056628974d55478b6a60ae33e271f8cd96fb7eac4f00",
+      "tags": [
+        ":rightwards-hand:"
+      ]
+    },
+    "🫱🏿‍🫲🏻": {
+      "file": "1faf1_1f3ff_200d_1faf2_1f3fb.json",
+      "sha256": "d6b60458226b2b1d8ebef3eb90f3bd34081a7d2a13b514c0a7236079d83648e3",
+      "tags": [
+        ":handshake:"
+      ]
+    },
+    "🫱🏿‍🫲🏼": {
+      "file": "1faf1_1f3ff_200d_1faf2_1f3fc.json",
+      "sha256": "f44ea1d97b09f424b37195a3a7aa78049832db1545605596319fdd77892c9ebb",
+      "tags": [
+        ":handshake:"
+      ]
+    },
+    "🫱🏿‍🫲🏽": {
+      "file": "1faf1_1f3ff_200d_1faf2_1f3fd.json",
+      "sha256": "fc1462936c08429afcbc2df48492f5451b83e0dd0dde24eb287de50c9527fe24",
+      "tags": [
+        ":handshake:"
+      ]
+    },
+    "🫱🏿‍🫲🏾": {
+      "file": "1faf1_1f3ff_200d_1faf2_1f3fe.json",
+      "sha256": "17f7087653185ba15ac540e794263615c51ce9fc25e58ddbe09f1934241bf6ac",
+      "tags": [
+        ":handshake:"
+      ]
+    },
+    "🫱🏿": {
+      "file": "1faf1_1f3ff.json",
+      "sha256": "29f02c52214a787dbbc067c430778a2c66655f86424d7f1ff54aef2df8b3cf7b",
+      "tags": [
+        ":rightwards-hand:"
+      ]
+    },
+    "🫱": {
+      "file": "1faf1.json",
+      "sha256": "47d1fe87243ce825a836a74514911bf8a9d776dce987b474bc4b5e36388a204c",
+      "tags": [
+        ":rightwards-hand:"
+      ]
+    },
+    "🫲🏻": {
+      "file": "1faf2_1f3fb.json",
+      "sha256": "fcfbfbc8cfd3d7ec7174820b49b697197f2fa967b3b8b0427c507daf50bbf918",
+      "tags": [
+        ":leftwards-hand:"
+      ]
+    },
+    "🫲🏼": {
+      "file": "1faf2_1f3fc.json",
+      "sha256": "855fd8f5111ed7769f990d28a0c5219c4fe57c33adc49a02e1f6052a0e0c60ab",
+      "tags": [
+        ":leftwards-hand:"
+      ]
+    },
+    "🫲🏽": {
+      "file": "1faf2_1f3fd.json",
+      "sha256": "df9d4a3c3dc4dead694fe69470904d314a1e3eecfe8d17e881da773c949d6697",
+      "tags": [
+        ":leftwards-hand:"
+      ]
+    },
+    "🫲🏾": {
+      "file": "1faf2_1f3fe.json",
+      "sha256": "f03ed59a1c9a673d185bb68e9ea71879d03e820a660bd01ab6608d3fb31b4e68",
+      "tags": [
+        ":leftwards-hand:"
+      ]
+    },
+    "🫲🏿": {
+      "file": "1faf2_1f3ff.json",
+      "sha256": "3603197ee81f675f0385a19f95f9bffa87cfbccb7a7bffa721ecc31122e39f3a",
+      "tags": [
+        ":leftwards-hand:"
+      ]
+    },
+    "🫲": {
+      "file": "1faf2.json",
+      "sha256": "43026fcfbfe19b3bc4384c92ac00eb9c8031400bde010d85b66375c54c791e1a",
+      "tags": [
+        ":leftwards-hand:"
+      ]
+    },
+    "🫳🏻": {
+      "file": "1faf3_1f3fb.json",
+      "sha256": "23d34a5983746c1f8c8282c870a98fa9330794b425d08f4ccccc195f12bced96",
+      "tags": [
+        ":palm-down:",
+        ":drop:"
+      ]
+    },
+    "🫳🏼": {
+      "file": "1faf3_1f3fc.json",
+      "sha256": "73fe13abc0543754c9fd0ab399c27004f6f6c238048a4e04de1445f8f64e386d",
+      "tags": [
+        ":palm-down:",
+        ":drop:"
+      ]
+    },
+    "🫳🏽": {
+      "file": "1faf3_1f3fd.json",
+      "sha256": "24ff02924b9784c188b7350bf281c7ab47cc3791c4b942f8091c4e5f22d8b924",
+      "tags": [
+        ":palm-down:",
+        ":drop:"
+      ]
+    },
+    "🫳🏾": {
+      "file": "1faf3_1f3fe.json",
+      "sha256": "19329ea14039d6bd929519ae2f697245541a60abed9d4e4e9779f2e0c30d9ebb",
+      "tags": [
+        ":palm-down:",
+        ":drop:"
+      ]
+    },
+    "🫳🏿": {
+      "file": "1faf3_1f3ff.json",
+      "sha256": "9c57e79886f4157765f4dc3e9cbee115ad2c99c4dec569fa1717dac1773c3e8f",
+      "tags": [
+        ":palm-down:",
+        ":drop:"
+      ]
+    },
+    "🫳": {
+      "file": "1faf3.json",
+      "sha256": "044452ff9dac6d70bf8a69de0bb7d9a520a1c83f8718e4a0d9ed2ed3f717030a",
+      "tags": [
+        ":palm-down:",
+        ":drop:"
+      ]
+    },
+    "🫴🏻": {
+      "file": "1faf4_1f3fb.json",
+      "sha256": "0840b445b83c3f573ebac4bf7b6f171a98b6f485709444fad1034817de7dfbee",
+      "tags": [
+        ":palm-up:",
+        ":throw:"
+      ]
+    },
+    "🫴🏼": {
+      "file": "1faf4_1f3fc.json",
+      "sha256": "4ce3e132abf57c3da371cc6248778f6396d5726c0521d3a6a5c29d16a1818b8f",
+      "tags": [
+        ":palm-up:",
+        ":throw:"
+      ]
+    },
+    "🫴🏽": {
+      "file": "1faf4_1f3fd.json",
+      "sha256": "dd979da334f13e87a8a36d7810b72af464e8e61eded92380d55b3aade028438f",
+      "tags": [
+        ":palm-up:",
+        ":throw:"
+      ]
+    },
+    "🫴🏾": {
+      "file": "1faf4_1f3fe.json",
+      "sha256": "983caea4d29ddb9d44fb388da84ae4a90dd95b09064820d8ac1c899cefdc4964",
+      "tags": [
+        ":palm-up:",
+        ":throw:"
+      ]
+    },
+    "🫴🏿": {
+      "file": "1faf4_1f3ff.json",
+      "sha256": "1f0b539b0f2eef61165a828a5cddb42eae9e0d4c38b70902a51aea507c150149",
+      "tags": [
+        ":palm-up:",
+        ":throw:"
+      ]
+    },
+    "🫴": {
+      "file": "1faf4.json",
+      "sha256": "32646b2b797f2518c1432eae1b24bedae90b6960d1687dd7779944a9641a8818",
+      "tags": [
+        ":palm-up:",
+        ":throw:"
+      ]
+    },
+    "🫵🏻": {
+      "file": "1faf5_1f3fb.json",
+      "sha256": "303cedb367e4e8113351911e4347af8a81ffa25773139bbefb78532c442abfc9",
+      "tags": [
+        ":pointing:"
+      ]
+    },
+    "🫵🏼": {
+      "file": "1faf5_1f3fc.json",
+      "sha256": "f4db9ac13ddca5e85ffd445009e5965d77c0256a08bd5f824ae2ec81d4fb7523",
+      "tags": [
+        ":pointing:"
+      ]
+    },
+    "🫵🏽": {
+      "file": "1faf5_1f3fd.json",
+      "sha256": "b007ed966a778fa99391c7cf27020011e79b7f8f339f2474ce181b3346a499c6",
+      "tags": [
+        ":pointing:"
+      ]
+    },
+    "🫵🏾": {
+      "file": "1faf5_1f3fe.json",
+      "sha256": "9a0dc6708c7e083b668a5b027ab850cfb73ab10cdf6b61866af30b8cf039bbea",
+      "tags": [
+        ":pointing:"
+      ]
+    },
+    "🫵🏿": {
+      "file": "1faf5_1f3ff.json",
+      "sha256": "092275000118d6c72506ca7181c56b28078982d874bfccc3d81a9bbd2fdae432",
+      "tags": [
+        ":pointing:"
+      ]
+    },
+    "🫵": {
+      "file": "1faf5.json",
+      "sha256": "43e7572df89506bad348990d8bcefffa57713849d369f3b9681e61e9b03cbf39",
+      "tags": [
+        ":pointing:"
+      ]
+    },
+    "🫶🏻": {
+      "file": "1faf6_1f3fb.json",
+      "sha256": "34d1d315d6e4057068d238bae5b03724d3e1c192e38957203f37f705fb2cd999",
+      "tags": [
+        ":heart-hands:"
+      ]
+    },
+    "🫶🏼": {
+      "file": "1faf6_1f3fc.json",
+      "sha256": "8fc22c21bc4569131fc2a09d823e991cb4a5149ad25db387b0ddbfcfcc01b539",
+      "tags": [
+        ":heart-hands:"
+      ]
+    },
+    "🫶🏽": {
+      "file": "1faf6_1f3fd.json",
+      "sha256": "f949eef66964821effabad5a3d7b2349a43d5fb90d3b179df0daae1115a390f0",
+      "tags": [
+        ":heart-hands:"
+      ]
+    },
+    "🫶🏾": {
+      "file": "1faf6_1f3fe.json",
+      "sha256": "718a112578e793e0fd0bc342277eba7c633be94b699cab927f297e2427b812a3",
+      "tags": [
+        ":heart-hands:"
+      ]
+    },
+    "🫶🏿": {
+      "file": "1faf6_1f3ff.json",
+      "sha256": "3dc5832c0d0028cfc242e22825048c063bfcb5afccde32f0e5179d61d8752042",
+      "tags": [
+        ":heart-hands:"
+      ]
+    },
+    "🫶": {
+      "file": "1faf6.json",
+      "sha256": "fcf3a9a2638742f2de471a7ae66f047fbc08e605b1edab84fd08f662b19efae5",
+      "tags": [
+        ":heart-hands:"
+      ]
+    },
+    "🫷🏻": {
+      "file": "1faf7_1f3fb.json",
+      "sha256": "8177178f7d9d83ba532c3e423514bd0515b1f00f43819a0c61e8ff8ca86cba46",
+      "tags": [
+        ":push-leftwards:"
+      ]
+    },
+    "🫷🏼": {
+      "file": "1faf7_1f3fc.json",
+      "sha256": "9eb9439c1b229825347ae6af80bae79241fdc0a621138bdd63634ad86e44ec78",
+      "tags": [
+        ":push-leftwards:"
+      ]
+    },
+    "🫷🏽": {
+      "file": "1faf7_1f3fd.json",
+      "sha256": "172c98813d4b3032dcf7f92d75e93127f1441029ee1b96061f90856301e37451",
+      "tags": [
+        ":push-leftwards:"
+      ]
+    },
+    "🫷🏾": {
+      "file": "1faf7_1f3fe.json",
+      "sha256": "f512a8b354ec33094fcc050c7d5f22e8689dff99575ff1827ebd2cad808e961d",
+      "tags": [
+        ":push-leftwards:"
+      ]
+    },
+    "🫷🏿": {
+      "file": "1faf7_1f3ff.json",
+      "sha256": "aafec28636cafd797e1b1b1e9700883e9a92bc412b4700893880c9fbba655776",
+      "tags": [
+        ":push-leftwards:"
+      ]
+    },
+    "🫷": {
+      "file": "1faf7.json",
+      "sha256": "bcfd5110243a512d5ebc0d60f6c841b17e55f3ccc1915c14cfcebba5f56dcec2",
+      "tags": [
+        ":push-leftwards:"
+      ]
+    },
+    "🫸🏻": {
+      "file": "1faf8_1f3fb.json",
+      "sha256": "3e29db1f441f42b21b2ec125d4d1499aad42074855e54009f9b05b148cc2ea27",
+      "tags": [
+        ":push-rightwards:"
+      ]
+    },
+    "🫸🏼": {
+      "file": "1faf8_1f3fc.json",
+      "sha256": "cb0e68403e4832ec57b7168a4b442ea5af06f0ca2970322a06e0e1e04cd656e4",
+      "tags": [
+        ":push-rightwards:"
+      ]
+    },
+    "🫸🏽": {
+      "file": "1faf8_1f3fd.json",
+      "sha256": "21e02393992645dc521ecfdfc8f37eac4843161e398568cd1c06be0943c74c15",
+      "tags": [
+        ":push-rightwards:"
+      ]
+    },
+    "🫸🏾": {
+      "file": "1faf8_1f3fe.json",
+      "sha256": "3946ae7c336259327b52cf9071dbeb867cee35758a22a1455c94bfdc2e81c88d",
+      "tags": [
+        ":push-rightwards:"
+      ]
+    },
+    "🫸🏿": {
+      "file": "1faf8_1f3ff.json",
+      "sha256": "0359e80d45eac4db3b5429d52513b971c73f0d4d2041f285fb585e5891a346f4",
+      "tags": [
+        ":push-rightwards:"
+      ]
+    },
+    "🫸": {
+      "file": "1faf8.json",
+      "sha256": "3bc8ac4df58537563ae7b9c6a014a4a179a4ffd4a986d693e0d7621226355ce5",
+      "tags": [
+        ":push-rightwards:"
+      ]
+    },
+    "‼️": {
+      "file": "203c_fe0f.json",
+      "sha256": "1040607493071cb1e47f0ff90bf4da0cca5cb1da769518ba6a4f16c0aaee7b2b",
+      "tags": [
+        ":exclamation-double:",
+        ":!!:"
+      ]
+    },
+    "⁉️": {
+      "file": "2049_fe0f.json",
+      "sha256": "3584d67875270c86d1457fe0a9d226dec7953cf65dc53c50f1d98364614822e5",
+      "tags": [
+        ":exclamation-question-mark:",
+        ":!?:"
+      ]
+    },
+    "™️": {
+      "file": "2122_fe0f.json",
+      "sha256": "82cdd9b523bfbdff8e0d0c0fc88212619d6ee649cb5fa8829c17808f7e1cb978",
+      "tags": [
+        ":trade-mark:"
+      ]
+    },
+    "⌛": {
+      "file": "231b.json",
+      "sha256": "f7ff57552e688217a69026b8dfa0b186afa8cb379332e8b656de9ad093e7c33b",
+      "tags": [
+        ":hourglass-done:"
+      ]
+    },
+    "⏰": {
+      "file": "23f0.json",
+      "sha256": "daa999708d9c411b9232e092bd945627575b1dcde93363ebb9a96b9bf4b780de",
+      "tags": [
+        ":alarm-clock:"
+      ]
+    },
+    "⏳": {
+      "file": "23f3.json",
+      "sha256": "31b4fda8790687600773aa7498977cacc4d5e0a0522b5ed5b682db0de6f50354",
+      "tags": [
+        ":hourglass-not-done:"
+      ]
+    },
+    "☁️": {
+      "file": "2601_fe0f.json",
+      "sha256": "da6351a03066edf4970d8b3595584367e59a91219cc618866d6a638de5081867",
+      "tags": [
+        ":cloud:"
+      ]
+    },
+    "☂️": {
+      "file": "2602_fe0f.json",
+      "sha256": "1d2dcbae5831b3477fb4076676c53dc2aff0eccdb35b170bcd3b848999fa080f",
+      "tags": [
+        ":umbrella:"
+      ]
+    },
+    "☃️": {
+      "file": "2603_fe0f.json",
+      "sha256": "e5623d0df362e565d782736d30de5ad16e5741320ecb2de946972518712714f9",
+      "tags": [
+        ":snowman-with-snow:"
+      ]
+    },
+    "☄️": {
+      "file": "2604_fe0f.json",
+      "sha256": "bd11940c23c3b774364d6ad009574423199b40f0bdf4d17deffbec30db0d46f5",
+      "tags": [
+        ":comet:"
+      ]
+    },
+    "☕": {
+      "file": "2615.json",
+      "sha256": "eddc912bf53bcfd9587e89bbf35bbc42f444ce655edb73bd8c9f44dd68a8c9b6",
+      "tags": [
+        ":hot-beverage:"
+      ]
+    },
+    "☢️": {
+      "file": "2622_fe0f.json",
+      "sha256": "bc6199d52eb056331e985682835cf635bd85a69be8ecbe46b1d90a6fe21e168b",
+      "tags": [
+        ":radioactive:"
+      ]
+    },
+    "☣️": {
+      "file": "2623_fe0f.json",
+      "sha256": "7b77b7addb557ecb691f8b034d853d79dc0b0c83f0a71aa97a1459e13c79aa35",
+      "tags": [
+        ":biohazard:"
+      ]
+    },
+    "☮️": {
+      "file": "262e_fe0f.json",
+      "sha256": "425645b4677c417866fb69c4eb1e67ceb6ed73c9af8b721f460b236e174bef34",
+      "tags": [
+        ":peace-symbol:"
+      ]
+    },
+    "☯️": {
+      "file": "262f_fe0f.json",
+      "sha256": "3fe5fb01fca72f7b636a25394c0e117cccab086c31e075cadb847aaaf3b8efe3",
+      "tags": [
+        ":yin-yang:"
+      ]
+    },
+    "☹️": {
+      "file": "2639_fe0f.json",
+      "sha256": "271a85337ebf8734a54ec86b608594bc12b341310cbc76b108b67feea9ce456f",
+      "tags": [
+        ":big-frown:"
+      ]
+    },
+    "☺️": {
+      "file": "263a_fe0f.json",
+      "sha256": "80980724203900c064f8da92c15a892e10971bcd65512a1149a2f99af805f4c4",
+      "tags": [
+        ":warm-smile:"
+      ]
+    },
+    "♈": {
+      "file": "2648.json",
+      "sha256": "9f7423a4d363e6bffedaad5c5d81ca960750e0138b597975abdcd22dd466023d",
+      "tags": [
+        ":Aries:"
+      ]
+    },
+    "♉": {
+      "file": "2649.json",
+      "sha256": "882af32fd7844de976460c19b85ac50a01d2e0b2d955e150f1d064c24af78683",
+      "tags": [
+        ":Taurus:"
+      ]
+    },
+    "♊": {
+      "file": "264a.json",
+      "sha256": "d6842ced6ff4f78f8e102fe5e31a44c4c6cc56a8ce5a6a84d53381e50139c80a",
+      "tags": [
+        ":Gemini:"
+      ]
+    },
+    "♋": {
+      "file": "264b.json",
+      "sha256": "fa41e5230aed09b546adc71a60900cb220125f007b87970c1f969e58aa309b00",
+      "tags": [
+        ":Cancer:"
+      ]
+    },
+    "♌": {
+      "file": "264c.json",
+      "sha256": "ac01c210c495492ddd1e6c7ccd0550a2899c02d87c180469967c6176d0fe8055",
+      "tags": [
+        ":Leo:"
+      ]
+    },
+    "♍": {
+      "file": "264d.json",
+      "sha256": "a4419ce8b3f252878ca1e3f811cbba8897ad1d06a878e65d3301f92077344037",
+      "tags": [
+        ":Virgo:"
+      ]
+    },
+    "♎": {
+      "file": "264e.json",
+      "sha256": "f45aa109194c8f9c6fde01e52791c84b15e6fda6522a7242989a05e0d4355151",
+      "tags": [
+        ":Libra:"
+      ]
+    },
+    "♏": {
+      "file": "264f.json",
+      "sha256": "9ce165d5fae04a81492dd3008e1b1e51a4103795902ddf1f91d1e33876e5ac4e",
+      "tags": [
+        ":Scorpio:"
+      ]
+    },
+    "♐": {
+      "file": "2650.json",
+      "sha256": "12e9d7fed5bfc6e2a7905efadbf326f1fbe2601c2e5a5dd99fdda403ab36d4a6",
+      "tags": [
+        ":Sagittarius:"
+      ]
+    },
+    "♑": {
+      "file": "2651.json",
+      "sha256": "438574dbf794901ab603c88b35bbdf123f0c447a97f3d4d7db204e319fbcc4d3",
+      "tags": [
+        ":Capricorn:"
+      ]
+    },
+    "♒": {
+      "file": "2652.json",
+      "sha256": "5f172e9d29899febaa1ae8b0a5d99d63a4f9a0eb8a9e8cc06ec6c979ddd7e834",
+      "tags": [
+        ":Aquarius:"
+      ]
+    },
+    "♓": {
+      "file": "2653.json",
+      "sha256": "0f9a2e421146d47238e0005cb8693d5ac588e7f21d9f9b45cccc4c158b6a1681",
+      "tags": [
+        ":Pisces:"
+      ]
+    },
+    "♟️": {
+      "file": "265f_fe0f.json",
+      "sha256": "7b8afddea492a5740e4c8c77c1c2c2a6fd7fbf58b4f48dcac6b5f2d451d39906",
+      "tags": [
+        ":chess-pawn:"
+      ]
+    },
+    "♠️": {
+      "file": "2660_fe0f.json",
+      "sha256": "04103e2a61e560cd738f0c7f8dac5f247a7fadfd5712dcbfbad2f022c89fb727",
+      "tags": [
+        ":spade:"
+      ]
+    },
+    "♥️": {
+      "file": "2665_fe0f.json",
+      "sha256": "e2c93cca7b1c6e17867193f4e04a27d031616e77ff27ae61952a2f3ad57b0013",
+      "tags": [
+        ":heart:"
+      ]
+    },
+    "♨️": {
+      "file": "2668_fe0f.json",
+      "sha256": "dbc98eab352012807966b48819b2d7a693c84602bbb7208883b5ff1b1a418f4f",
+      "tags": [
+        ":hot-springs:"
+      ]
+    },
+    "♾️": {
+      "file": "267e_fe0f.json",
+      "sha256": "a7683013cc009b688781d25f9240e67aa8cf4fbc291f3e501ff8b019d85320df",
+      "tags": [
+        ":infinity:"
+      ]
+    },
+    "⚓": {
+      "file": "2693.json",
+      "sha256": "4419f626437cd3b670ef8537108789bfc7fd38247adef05503a83171b13f9dfd",
+      "tags": [
+        ":anchor:"
+      ]
+    },
+    "⚖️": {
+      "file": "2696_fe0f.json",
+      "sha256": "a16b8316bcd1abbcaf9181b131886b612937d7512e703aec4b1433876d25d22d",
+      "tags": [
+        ":balance-scale:"
+      ]
+    },
+    "⚙️": {
+      "file": "2699_fe0f.json",
+      "sha256": "1ffdaa54d2ff55ce60690566b2fd823cb247fa5c80c3fdc0d0c85b6bc5dede0c",
+      "tags": [
+        ":gear:"
+      ]
+    },
+    "⚠️": {
+      "file": "26a0_fe0f.json",
+      "sha256": "65e3fccc68c0f2819645fd8d7ed5c3ff509cef50da728da1e43a013dfd73823a",
+      "tags": [
+        ":warning:"
+      ]
+    },
+    "⚡": {
+      "file": "26a1.json",
+      "sha256": "7c59b2a2065c56d3ce8cea2e53ccec530be82934a4b76f737cd83f802be68d16",
+      "tags": [
+        ":electricity:",
+        ":zap:",
+        ":lightning:"
+      ]
+    },
+    "⚽": {
+      "file": "26bd.json",
+      "sha256": "d90d38581e58de768bc78ffe4d0be8052d947d600e51641b4954313b59860064",
+      "tags": [
+        ":soccer-ball:"
+      ]
+    },
+    "⚾": {
+      "file": "26be.json",
+      "sha256": "ef83113d65e1865bd4efc0c5f5aefb8a47173c86e2ddd845268303eddb04c8bd",
+      "tags": [
+        ":baseball:"
+      ]
+    },
+    "⛄": {
+      "file": "26c4.json",
+      "sha256": "75c2ecadaaee0f727d827371a369c5e8dec6e5e0d44175b8cc114fcbc101e6d5",
+      "tags": [
+        ":snowman:"
+      ]
+    },
+    "⛅": {
+      "file": "26c5.json",
+      "sha256": "cc25073d661de2bb71468f3f12191d0483ec17bcb25178c02523403362bf03bc",
+      "tags": [
+        ":partly-sunny:"
+      ]
+    },
+    "⛎": {
+      "file": "26ce.json",
+      "sha256": "0959b68269a4c87564d12cbaa863e1a3f4277c361c4a19f0b9b4ca07f695e166",
+      "tags": [
+        ":Ophiuchus:"
+      ]
+    },
+    "⛓️": {
+      "file": "26d3_fe0f.json",
+      "sha256": "a93b0c629f11d2cdf80e545b77022dfbd1e62d8f9eb0e3cc023b4cd6b999a780",
+      "tags": [
+        ":chains:"
+      ]
+    },
+    "⛳": {
+      "file": "26f3.json",
+      "sha256": "3b457c228ee22f86f1d4aad03e82d2ad44370157e17a00d0b2ae7855a6fe39bd",
+      "tags": [
+        ":flag-in-hole:"
+      ]
+    },
+    "⛵": {
+      "file": "26f5.json",
+      "sha256": "607f7b57278a46c9d61e6936db83c1aa68d9921f61c907da4293afe35da3333e",
+      "tags": [
+        ":sailboat:"
+      ]
+    },
+    "⛸️": {
+      "file": "26f8_fe0f.json",
+      "sha256": "3887a7b8e31624a95ad4bc7189a292cbadd1b2cb38011371f54f0159b1eee82a",
+      "tags": [
+        ":ice-skate:"
+      ]
+    },
+    "⛽": {
+      "file": "26fd.json",
+      "sha256": "f7851c130a7793bfdb7bd9b1ab9b29ada61eefaf232b8070487e45fd8f5da4c3",
+      "tags": [
+        ":fuel-pump:"
+      ]
+    },
+    "✂️": {
+      "file": "2702_fe0f.json",
+      "sha256": "b2462f23dcbddfade48f98448808327e3689bd1daa1602b8031a1539aca18914",
+      "tags": [
+        ":scissors:"
+      ]
+    },
+    "✅": {
+      "file": "2705.json",
+      "sha256": "2006d02dd04d5e2c03255b0d387aa36dd14b6cfede30c1c47c964cae0b9e6938",
+      "tags": [
+        ":check-mark:",
+        ":check-mark-green:"
+      ]
+    },
+    "✈️": {
+      "file": "2708_fe0f.json",
+      "sha256": "4e3431eaa841ed26b172ed25df91f12c5d7d364bdc5baae9d22019471dc36171",
+      "tags": [
+        ":airplane:"
+      ]
+    },
+    "✊🏻": {
+      "file": "270a_1f3fb.json",
+      "sha256": "f2976ac5c05211a6577af9e684d4e2d9edd8d44600a7ff6e64473deb2a66ec9a",
+      "tags": [
+        ":raised-fist:"
+      ]
+    },
+    "✊🏼": {
+      "file": "270a_1f3fc.json",
+      "sha256": "4f1dfff3ac393ec0cae119514317193ddc3a7c859d3d569faf833efa9ce724ce",
+      "tags": [
+        ":raised-fist:"
+      ]
+    },
+    "✊🏽": {
+      "file": "270a_1f3fd.json",
+      "sha256": "d74e7255da3dc62a5efc79f0405c34f01eca59bec7c0fafff4ac53ffc171b07e",
+      "tags": [
+        ":raised-fist:"
+      ]
+    },
+    "✊🏾": {
+      "file": "270a_1f3fe.json",
+      "sha256": "97ef065e1cc5f06617778a9a28e757962e333203387b323230ffc706fd409ad7",
+      "tags": [
+        ":raised-fist:"
+      ]
+    },
+    "✊🏿": {
+      "file": "270a_1f3ff.json",
+      "sha256": "91ef7e750044a73b992dd8a97bb780021400f3ef0afdcec1a84a9b9d745a0bd9",
+      "tags": [
+        ":raised-fist:"
+      ]
+    },
+    "✊": {
+      "file": "270a.json",
+      "sha256": "959fc0e9fa34a194ddc3254f47c5d92849d35933ad891db338709cc6b5048ef2",
+      "tags": [
+        ":raised-fist:"
+      ]
+    },
+    "✋🏻": {
+      "file": "270b_1f3fb.json",
+      "sha256": "107efa7b6c3a123084d2b76de2524d20b58b0403ab055efdd0f16a168d3a2861",
+      "tags": [
+        ":raised-hand:"
+      ]
+    },
+    "✋🏼": {
+      "file": "270b_1f3fc.json",
+      "sha256": "ae1fb44022d32e3811774094f46c82c9a8cb30826e90b45501fb1daf9ec5119a",
+      "tags": [
+        ":raised-hand:"
+      ]
+    },
+    "✋🏽": {
+      "file": "270b_1f3fd.json",
+      "sha256": "4f0726ce588cf5fd110787bc4757b5da732a0b427d3bbcd481290b0a49e86cac",
+      "tags": [
+        ":raised-hand:"
+      ]
+    },
+    "✋🏾": {
+      "file": "270b_1f3fe.json",
+      "sha256": "f9c1fc5c4a74eba645849b7d3913bf80c442df9fe55657a147b5398c90bab2ed",
+      "tags": [
+        ":raised-hand:"
+      ]
+    },
+    "✋🏿": {
+      "file": "270b_1f3ff.json",
+      "sha256": "e93b665a3298bdcd617d3b56b61fde20bdb050bb57e2f153baf40cd9a21a74a0",
+      "tags": [
+        ":raised-hand:"
+      ]
+    },
+    "✋": {
+      "file": "270b.json",
+      "sha256": "9ca22f1ed4d5d0b385794f1a1fb7d9b0dbb0a897d33d80832ee5b4ffc0a136a8",
+      "tags": [
+        ":raised-hand:"
+      ]
+    },
+    "✌🏻": {
+      "file": "270c_1f3fb.json",
+      "sha256": "dce93f769af7d65a8b76e26d1a093dd87f76df08c8fb4c3fa208aeeb65bd930c",
+      "tags": [
+        ":victory:",
+        ":v:",
+        ":peace-hand:"
+      ]
+    },
+    "✌🏼": {
+      "file": "270c_1f3fc.json",
+      "sha256": "600445f14a8db14786509c377a0021caa3fdd8f4dc9c0311cedd3e83896ab929",
+      "tags": [
+        ":victory:",
+        ":v:",
+        ":peace-hand:"
+      ]
+    },
+    "✌🏽": {
+      "file": "270c_1f3fd.json",
+      "sha256": "0541f5d13f8b50a7f4c8df3fddd61b558acdc086534aa3e722b16fda0aebe0a7",
+      "tags": [
+        ":victory:",
+        ":v:",
+        ":peace-hand:"
+      ]
+    },
+    "✌🏾": {
+      "file": "270c_1f3fe.json",
+      "sha256": "54959aeba10816f21706ed3e8d29215d05ab60974ebcb7d4b6dfacce13016108",
+      "tags": [
+        ":victory:",
+        ":v:",
+        ":peace-hand:"
+      ]
+    },
+    "✌🏿": {
+      "file": "270c_1f3ff.json",
+      "sha256": "da4be210b2756e831fa7d43fe0e200456d3da044b991717d5b6c0b6586df95c3",
+      "tags": [
+        ":victory:",
+        ":v:",
+        ":peace-hand:"
+      ]
+    },
+    "✌️": {
+      "file": "270c_fe0f.json",
+      "sha256": "daf75688a0df88a221f8a182971313f133ff9aeb56255f25560bca9fd98be955",
+      "tags": [
+        ":victory:",
+        ":v:",
+        ":peace-hand:"
+      ]
+    },
+    "✍🏻": {
+      "file": "270d_1f3fb.json",
+      "sha256": "d1c774b2026d06958ea3e921be1d539613e55b3fb52f84e9fa0d9f15d91a9590",
+      "tags": [
+        ":writing-hand:"
+      ]
+    },
+    "✍🏼": {
+      "file": "270d_1f3fc.json",
+      "sha256": "d69146167bcd98ea7a52873c732c79b3461c3a48124c83c2ab2081be9e607fd0",
+      "tags": [
+        ":writing-hand:"
+      ]
+    },
+    "✍🏽": {
+      "file": "270d_1f3fd.json",
+      "sha256": "fe3ec6b4054ffa0785a2b607e5b84cadb195746d1310f498c1a47a380bff1437",
+      "tags": [
+        ":writing-hand:"
+      ]
+    },
+    "✍🏾": {
+      "file": "270d_1f3fe.json",
+      "sha256": "0d419b9ae3628ddab07de30d08e0780ca074536647630476aae3bc8594bf81dc",
+      "tags": [
+        ":writing-hand:"
+      ]
+    },
+    "✍🏿": {
+      "file": "270d_1f3ff.json",
+      "sha256": "9704d58e410cacd8f7deba99711d39a0944f6c316446097c1d7ca3e5ebf35ac6",
+      "tags": [
+        ":writing-hand:"
+      ]
+    },
+    "✍️": {
+      "file": "270d_fe0f.json",
+      "sha256": "23191ee2845f97bd723cd75b141886df89e51c467029ad78564a727b7d07ddcc",
+      "tags": [
+        ":writing-hand:"
+      ]
+    },
+    "✏️": {
+      "file": "270f_fe0f.json",
+      "sha256": "dec1cf6da0c4cea532b91a8b655f7e416812308b406e2cbfab560f5192e811ab",
+      "tags": [
+        ":pencil:"
+      ]
+    },
+    "✨": {
+      "file": "2728.json",
+      "sha256": "ccec99ac2c02e65d95fb96cefacd2f5af8d88b1204cd9539bc2349b70f284aef",
+      "tags": [
+        ":sparkles:"
+      ]
+    },
+    "❄️": {
+      "file": "2744_fe0f.json",
+      "sha256": "b8576022c4eaa1250e1e1ea04262a28bde301423f633015ee05e6d4686323509",
+      "tags": [
+        ":snowflake:",
+        ":winter:",
+        ":cold:"
+      ]
+    },
+    "❌": {
+      "file": "274c.json",
+      "sha256": "2745632bdff798f2363d02e798d24daa4b679ee6307f2df36d2e57666b5e90fe",
+      "tags": [
+        ":cross-mark:",
+        ":x:"
+      ]
+    },
+    "❓": {
+      "file": "2753.json",
+      "sha256": "ff55e03694dc924436a20e85fb88a776e31c3d3e9689d2cd5f4787d15babac5a",
+      "tags": [
+        ":question:",
+        ":question-mark:",
+        ":?:"
+      ]
+    },
+    "❗": {
+      "file": "2757.json",
+      "sha256": "3437c6e1a5ef072d4a202c235854b8d1b8f1086d80cd965c5361d855ea43b47d",
+      "tags": [
+        ":exclamation:",
+        ":exclamation-mark:"
+      ]
+    },
+    "❣️": {
+      "file": "2763_fe0f.json",
+      "sha256": "21f9d0862520bf82fabc8c05426a5141217aeea72ff869be83b69489abf8fd84",
+      "tags": [
+        ":heart-exclamation-point:"
+      ]
+    },
+    "❤️‍🔥": {
+      "file": "2764_fe0f_200d_1f525.json",
+      "sha256": "f418f03f22596d4781605242e1932f55bbaaa1c0107e8a8273d5f3c8bf20af83",
+      "tags": [
+        ":fire-heart:"
+      ]
+    },
+    "❤️‍🩹": {
+      "file": "2764_fe0f_200d_1fa79.json",
+      "sha256": "17ce8f62466f4495ed14f87037aef14152c3679f558b206413c37a0926a3f25c",
+      "tags": [
+        ":bandaged-heart:"
+      ]
+    },
+    "❤️": {
+      "file": "2764_fe0f.json",
+      "sha256": "6671c1d044ce73522836d4e700014a70efb197dec1c964057e8283e0f75f5d2f",
+      "tags": [
+        ":red-heart:"
+      ]
+    },
+    "➕": {
+      "file": "2795.json",
+      "sha256": "56c0fd06c137bde945fd24a606d26a5cc1d857a8e7a6294728c0814208ea147e",
+      "tags": [
+        ":plus-sign:",
+        ":+:"
+      ]
+    },
+    "⭐": {
+      "file": "2b50.json",
+      "sha256": "1ed7ffa7a1a8c7f05f14fa930115c697dae4a059e81103a780c5ef0cd1dfcfb0",
+      "tags": [
+        ":star:"
+      ]
+    }
+  }
+}
